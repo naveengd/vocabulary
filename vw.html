@@ -1,0 +1,2886 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Vocabulary</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 90vh;
+      font-size: 70px;
+      color: #333;
+      font-weight: 500;
+      text-align: center;
+      position: relative;
+    }
+
+    #delayInput {
+      position: absolute;
+      bottom: 5px;
+      right: 20px;
+      font-size: 14px;
+      text-align: center;
+      padding: 4px;
+      width: 80px;
+      height: 26px;
+      border: none;
+    }
+
+    #lineWrapper {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 90%;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+
+    #lineNumber {
+      font-size: 12px;
+      position: absolute;
+      bottom: 5px;
+      left: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div id="lineWrapper"><span id="line"></span></div>
+  <span id="lineNumber"></span>
+
+  <!-- Delay dropdown -->
+  <select id="delayInput" title="Delay in seconds">
+    <option value="2">2</option>
+    <option value="6">6</option>
+    <option value="8">8</option>
+    <option value="100000" selected>100000</option>
+  </select>
+
+  <script>
+    const text = `
+a 1
+a mountain of, a mountain of problems, a mountain of paperwork
+a step closer, one step closer
+a truckload of, a truckload of work
+abandon, abandoned
+above all
+abrupt, abruptly, abrupt ending, ended abruptly
+absolute gold, presentation was absolute gold
+absolute joy, absolute joy to be around
+absolutely, absolutely right
+abstract
+absurd, completely absurd, sounds absurd
+abundant, abundance, abundant supply, abundant information
+abuse, abuse your body
+accelerate, accelerated
+accentuate, accentuated
+acclaim, acclaimed, deserves acclaim,  received acclaim, acclaimed author
+accolades, received accolades, earned accolades
+accommodate, accommodative
+accomplish, accomplished, accomplishment
+accountable, accountability
+accumulate, accumulating, accumulated
+accurate, accurately
+accustomed, accustomed to hard work, accustomed to waking up early, accustomed to the cold weather
+ace, aced, ace the presentation, aced the driving test 
+acid test, litmus test
+acquire, acquired
+across the board
+across the spectrum, one end of the spectrum and other end of the spectrum, higher spectrum, lower spectrum, a spectrum of, a spectrum of services
+action plan, plan of action
+actionable, actionable steps
+acumen, business acumen, financial acumen
+acute, acutely aware
+adamant, adamant about going, adamant about finishing
+add fuel to the fire, adding fuel to the fire
+additionally
+adequate, adequately, inadequate
+adhere, adherence
+admire, admiration, admire her determination, admire the way he handled the situation
+adopt, adopting, adopted
+adventure, adventurous
+adverse, adversely, adverse effect, adversely affected
+advocating, advocated
+affection, affectionate
+affinity, special affinity with horses, natural affinity with numbers
+affirm, affirmation, reaffirm
+afford, affordable
+aforesaid, aforementioned
+against all odds, odds are, odds are in our favor
+aggravate, aggravates, aggravated, aggravated the situation
+agnostic, platform-agnostic 
+agree one hundred percent
+ahead of the curve, behind the curve
+alarming, alarming rate, alarming increase
+alienate, alienating, alienated
+align, aligned, alignment, misalignment, realign
+all along, knew all along, studying all along
+all eyes are on, all eyes are on president, all eyes are on weather
+all in all
+all it takes, all it takes is a smile, all it takes is a phone call
+all over the place, toys all over the place, ideas are all over the place
+all said and done
+all you have to do is, all you need to do is
+alleviate, alleviate traffic congestion, alleviate headache
+alluding, alluded
+along the same lines, along these lines
+alongside
+alright
+amateur, amateur in dancing
+amazes me, amazed
+ambience, romantic ambience
+ambiguity, ambiguous, ambiguities in the legislation, answer was ambiguous
+ambit, within the ambit of
+ambition, ambitious
+amicable, amicably
+amid, amidst, amid the chaos, amidst this criticism
+ample, ample time, ample space
+amplify, amplifies, amplified
+amuse, amusing, amused
+and lastly
+anecdote, opening anecdote, shared an anecdote
+annoying
+anomaly, anomalies, anomalies in the data
+another angle, different angle, multiple angles
+anticipate, anticipating, anticipated, anticipation
+antidote, antidote to stress, antidote to sadness
+anxious, anxiously, anxiety
+apparent, apparent that she was upset, mistake was apparent 
+apparently
+appetite, have the appetite, don't have the appetite
+apples to apples comparison
+apprehensive, apprehensions, apprehensive about walking home alone, some apprehensions about having surgery
+apprised, apprised of the situation
+approchable
+appropriate, inappropriate
+architect of, chief architect of
+are of the opinion that
+arguably the best, arguably the most famous
+arise, arose
+army of people, army of supporters
+around the corner
+array of
+arrogant, arrogance
+arsenal, in his arsenal, broad arsenal of cameras
+articulate, articulated
+as a matter of fact
+as recently as, as recently as yesterday, as recently as last month
+as simple as that
+as we speak
+as you rightly said, you rightly pointed out
+aspect, aspects, another aspect, one aspect
+aspire, aspiring, aspired, aspiration, aspirational
+asserts, assertive, assertively
+assess, assessment, reassess
+assist, assistance
+associated, associated with love, associated with increased stress levels
+assure, assured, assurance, reassure, reassured
+astonishing, astonished, astonishment
+astounding, astounding result
+at a crossroads
+at all costs, win the contract at all costs, avoid war at all costs
+at any given point of time, at some point of time
+at its core
+at least it will,  at least it will give them an idea, at least it will build our brand presence
+at the cost of, at the expense of
+at the end of the day
+at the mercy of
+at the surface level, beneath the surface
+at the very least
+at their disposal, at your disposal
+at times, at times quite challenging, at times testing their patience
+attitude
+attributed, attributed to, attributed to his hard work
+augment, augmentation, augment her income, augment your gaming experience
+aura
+avail, availed, no avail
+avenue, avenues, every possible avenue, all possible avenues
+avert, averted, averse, aversion, risk averse
+avid, avid reader, avid interest
+awe, awed
+awesome
+awestruck
+awful, smelled awful, food was awful, awful weather
+awkward, awkward silence, awkward eye contact, awkward pause
+axed, axed several jobs
+baby steps, take baby steps
+back burner, put that project on the back burner
+back on track
+back pocket, plan in his back pocket, few offers in my back pocket 
+back then, different back then
+back to square one
+backbone, backbone of the family, backbone of a happy marriage
+backdoor
+backed, backed his statement, backed by several investors
+backfired
+back-of-the-envelope, back-of-the-envelope calculation, back-of-the-envelope figure
+backtrack, company had to backtrack, don’t want to backtrack
+bad part but the good part
+bad to worse, went from bad to worse 
+baffle, baffles, baffling, baffled, i was baffled, left me baffled
+baggage, comes with a heavy baggage, comes with its own baggage
+bake in, baked into, bake in the inflation, baked into the  compensation plan
+ball is in their court
+ballpark number, ballpark figure
+bandwagon, cryptocurrency bandwagon, electric car bandwagon
+banging my head
+banking, bankable, banking on a new marketing campaign, bankable actress
+bare minimum
+barely, barely read and write, barely able to walk
+bargaining chip, bargaining chip in the negotiations
+barometer, barometer of the Indian economy
+barrage of, volley of, avalance of, barrage of complaints, volley of questions, avalanche of inquiries
+barrier, barriers, barrier to success, language barrier
+baseline
+bashing, bashing celebrities
+bat for, batting for, bat for our friend, batting for the employees 
+battery of, whole battery of, battery of questions, whole battery of tests
+be prepared, be prepared for anything, be prepared to be surprised
+beacon of, beacon of information, beacon of hope
+bear in mind, keep in mind, keep this in mind
+bear the brunt, bearing the brunt, bear the brunt of taxation, bearing the brunt of unemployment
+bear, bearing, bearable, unbearable,  unbearable pain, unbearable heat
+beat around the bush, don’t beat around the bush
+beating a dead horse
+bedrock, bedrock of relationship, bedrock of technology
+been ages, been ages since we met, been ages since we spoke
+before i go any further
+beforehand, preparations beforehand, let me know beforehand 
+beg borrow or steal, beg borrow or steal to get it
+behind the scenes
+belief, long-held beliefs
+believe it or not
+bells and whistles
+benchmark, benchmarking
+beneath
+beneficial
+beside
+best bet, best bet would be to take a bus, our best bet is to go with the plan
+best of both worlds
+best piece of advice
+betray, betrayed, betrayal, betrayed his best friend
+better late than never
+better off
+better placed
+betterment, betterment of your health
+betting on, betting big on, betting on its new product, betting big on renewable energy
+beyond imagination, beyond my imagination
+beyond irritating
+beyond me, quantum physics is beyond me
+beyond my control, beyond our control
+beyond words, simply beyond words, angry beyond words, happy beyond words
+bias, biased, unbiased
+big believer, firm believer, big believer in a healthy diet, firm believer in regular exercise
+big deal, no big deal, not a huge deal
+big dent, make a dent
+big driver, big drivers, main driver, main drivers, biggest driver, big drivers of sales, big drivers of change, employee engagement is the main driver of our higher productivity rates, main drivers of inflation are rising wages energy prices and food prices
+big fan, not a big fan, big fan of spicy food, not a big fan of emotional movies
+big picture, see the big picture, look at the big picture
+big plus, flexible working hours is a big plus, experience in marketing is a big plus
+big step, huge step, next big step, big step in their relationship, next big step in his life, apology was a huge step towards reconciliation
+bigger pie, slice of the pie
+biggest bets, bet big, ai is one of our biggest bets, biggest bet was on self-driving cars
+bird's eye view, bird's-eye view of the new project
+bit odd
+bit off-track, conversation went a bit off-track
+bite the bullet, difficult bullet to bite, pep is a difficult bullet to bite
+bits and pieces, bits and pieces of information, bits and pieces of the story
+bittersweet, bittersweet moment
+bizarre, bizarre ending, bizarre sound
+black and white, agreement in black and white, judge's ruling was in black and white
+black box, human brain is still a black box, market's sudden crash was a black box
+black hole
+blame game
+blanket approval, blanket recommendation
+blaze, blazing
+bleak, future looked bleak, economic outlook is bleak
+blend, blend of, blended, blends well,blend of kindness and strength,  blended beautifully
+blessed, blessed to have such loving parent, blessed to have you as my friend
+blessing and a curse, technology is a blessing and a curse
+blessing in disguise
+blessing, blessings of, came as a blessing, blessings of the government, gave his blessing
+blind spot, blind spots
+blinded
+blindsided, blindsided by the news, blindsided by the unexpected flight cancellation
+blink of an eye, turned red in the blink of an eye
+bliss, blissful, pure bliss, felt blissful
+blow my own trumpet, blowing his own trumpet, blow their own trumpets
+blow to, major blow, big blow, blow to morale
+blow your mind, blew my mind, blown away, blew me away, movie will blow your mind, blown away by the presentation, his voice blew me away
+blown out of proportion, story was blown out of proportion
+blueprint
+blunder, big blunder, made a blunder during the presentation, final report was a big blunder
+blunt, blunt feedback
+blur line, line is blur, novel blurs the line between fantasy and reality, remote work has blurred the line between office hours and personal time
+blushing
+boasting, boasted, boasting about your vacation, boasted of her children's accomplishments
+boggling, mind-boggling, boggles my mind
+boil the ocean, don't boil the ocean, don't boil the ocean with your first version of a product
+boils down to, boils down to happiness in the end
+bold move, bold statement, bold step
+bombard, bombarded, bombard people with advertisements, bombarded with emails every day
+booming, boomed, economy is booming, startup boomed after launching its new app
+boon, bane, good weather is a boon, mosquitoes are the bane
+boost, boosting, boosted, boosting my confidence, boosted their morale
+borderline
+borne, cost was borne by the company, responsibility was borne equally by all members
+bottleneck, major bottleneck
+bottom line, bottom line is
+bound to, bound to happen, bound to arrive on time, bound to cause some confusion, flood was bound to happen
+brace, bracing, braced, brace yourself for a new challenge, bracing for a potential market crash
+brag, bragging, new house was definitely something to brag about, bragging about how much money she earns
+brainchild of, iphone was the brainchild of steve jobs
+brainstorm, brainstorming
+brave, brave leadership, brave decision
+bravo
+bread and butter, company's bread and butter
+breadth and depth, breadth and depth of insurance knowledge
+break the barrier, broke the barrier of shyness 
+breaking point, his anger reached a breaking point 
+breakthrough, breakthrough in the cancer treatment
+breather, team needed a breather, weekend trip as a breather
+breathing space, extension of the deadline gives us a breathing space, breathing space to reorganize
+breeze, breezed through her presentation
+brewing, trouble has been brewing, tension brewing in the room
+bridge the gap, close the gap, close that gap, plug that gap
+bright future,bright future ahead, bright future ahead of him
+bright side, dark side, on the brighter side, dark side and there is the bright side
+bring to the table, what are you going to bring to the table
+brings me to the next point, brings me to the main point
+broad, broadly, broader, broadly speaking, broader picture, broader impact, broad sense, broadly satisfied, broader overview 
+broadcast, broadcast the results, broadcast a message
+brutal, brutally, training session was brutal, brutally cold weather, brutally rude, brutally honest
+bubble up, bubbled up, ideas bubble up, anger began to bubble up, disagreements began to bubble up
+buckle up
+budge, neither side would budge, refused to budge
+building block, building blocks
+bulk of, bulk of the work, bulk of the students
+bullshit, bullshitting
+bumpy road ahead
+bunch of things
+burden, overburden
+burn your bridges, don't burn your bridges, burned her bridges
+burning issue, burning question
+burnt her fingers
+business as usual
+but thank god
+buzzword, artificial intelligence is the buzzword
+by and large
+by far the best, by far the most important, by far the best player, by far the most important issue
+by its very nature, smoking by its very nature is addictive, war by its very nature is destructive
+by no means, by no means a perfect solution, task is by no means easy
+by the way
+by virtue of, got the job by virtue of his experience, project was a success by virtue of careful planning
+by-product, stress is often a by-product of working long hours
+cadence, weekly meeting cadence, reporting cadence
+cakewalk, interview seemed like a cakewalk, promotion is not a cakewalk
+calculated risk, take calculated risks, take calculated risks to grow business
+caliber, students of exceptional caliber, writer of her caliber
+calibrate, recalibrate, calibration, recalibration, calibrate ourselves to the expectation of new management, recalibrated her priorities
+call me out, call me out if I start exaggerating, don't be afraid to call me out if you disagree
+call out, called out, call out bad behavior, issues were clearly called out
+can’t afford to, can't afford to miss another day of school, can't afford to have so many managers
+can't be described in words, indescribable, sight that can't be described in words, pure joy after winning the race was indescribable
+can't go wrong, can't go wrong with spain, can't go wrong with pasta
+can't take this anymore, constant arguments are too much i can't take this anymore, the heat is too much i can't take this anymore
+can't wait to, i can’t wait to see the new movie this weekend. i can’t wait to meet your parents
+capitalize, capitalize on this opportunity, they were able to capitalize on our mistakes
+captivate, captivates, captivating, captivated, captivate his listener, captivating speaker, captivating smile, captivated by the magician’s tricks
+carries weight, opinion carries weight, experience carried weight in the decision
+carve out, carved, carve out a career, carve out an hour
+cascade, cascade of system failures, cascade of resignations
+cascading effect, domino effect, ripple effect
+case to case, case to case basis, differ from case to case
+cashed in on, cashed in on the festival season, cashed in on her language skills
+catalyst, catalyze, catalyzed, catalyst for change, will catalyze change in the community, catalyzed tremendous economic growth
+catastrophic, catastrophic consequences, losing data would be catastrophic
+catch-22, catch-22 situation
+cater to, caters, catering, cater to the needs of
+caught by surprise
+caught my attention, caught my eye
+caught off guard
+caveat
+cements, cemented
+center of attention
+central issue, central idea, central message, central question
+certain, certainly, uncertain, uncertainty, absolute certainty
+chain of thoughts
+chalk out
+challenged, challenged ourselves, challenge the ideas
+channelize
+chasing
+cheat code
+checkpoint, checkpoints
+checks all the boxes, checks few boxes, checks many boxes, ticks all the boxes, ticked all the boxes
+checks and balances
+cherish
+cherry on top, cherry on the cake, icing on the cake
+cherry pick
+chime in, chimed in
+circle back
+circles, investing circles, business circles, social circles
+circumstance, circumstances, unforeseen circumstances, difficult circumstances, under no circumstance
+circumvent, circumvent this problem
+cited
+clarity
+classic, classic example
+cleared the air
+clicked for me, didn't click in my mind
+clock is ticking
+clocking
+close the loop
+close to the finish line, cross the finish line, couldn't cross the finish line
+clouds, clouded
+clueless
+clutches of, clutches of her abusive husband, clutches of danger
+clutter
+cognizance, cognizance of the risks, cognizant of the growing problem
+cohesive, cohesiveness
+coincidence, coincidentally
+collaborate, collaboration, collaborative
+collate
+color commentary
+come a long way, long way to go
+come across, came across
+come back and bite us, come back and bite us later
+come back to haunt, come back and haunt
+come down to the question of
+come in handy
+comes at a price
+comes down to
+comfort zone
+coming along
+command, commands, commanding, commanded, command over
+commendable, commendable job, commendable patience, commendable level of creativity
+commitment
+common denominator
+common ground
+common theme
+compatible
+compelling, compelling reason, compelling story
+compensate
+competent, competence, incompetent, incompetence
+competitive, competitive egde, competitive advantage
+compiling, compiling a list, compiling feedback
+complement, complement each other
+completely understandable
+compliment, complimented, lovely compliment, nice compliment
+comply, compliant, compliance
+component, essential component, important component, critical component
+compounded, compounded the problem, problems were compounded
+comprehend
+comprehensive, comprehensive plan, comprehensive review 
+comprising
+compromise
+compulsion
+conceptually
+concise, concisely
+conclude, concludes, concluded, like to conclude
+concrete, concrete steps, concrete proof
+confess, confessed, i must confess, i have to confess
+confident, confidence
+conflict of interest
+confront, confrontation
+connect the dots
+connotation
+conquer, conquered
+conscious, conscious decision, conscious effort, conscious call
+consensus
+consent
+consequences, negative consequences, serious consequences, consequently
+conservative, conservative estimate
+conserve
+considerable
+considerate
+console, consoles
+consolidate, consolidated
+constitute, constitutes
+constraint
+construct
+constructive, constructive feedback , positive and constructive
+contemplate, contemplating, contemplated
+contend, contends
+content, discontent
+contention, main point of contention
+context, had no context, set the context, contextualized
+contrary, to the contrary, contrary opinion, contrary view, contrarian, contrarian stance, contrarian investor
+contribute
+convenient, convenience, inconvenient, inconvenience
+conventional, conventional wisdom, conventional way,  conventional methods
+conversely
+convey, conveys, conveyed
+conviction
+convince, convincing, convincingly, convinced
+convolute, convoluted, convolute the issue, convolute a simple concept, convoluted answer
+cookie-cutter
+cool, cool thing, cool thing about
+cope, coping
+core idea, core issue
+core tenets, key tenets
+corner him, cornered him
+cornerstone, cornerstone of success,  cornerstone of any healthy relationship
+correlate, correlation
+corresponds to
+cost him, cost him his job, cost him his health
+costly mistake
+couldn’t have asked for
+couldn't agree more
+couldn't have come at a better time
+couldn't hold back, couldn't hold back my anger, couldn’t hold back his laughter, couldn’t hold back her tears
+counter intuitive
+counter, counter the competition
+counterargument
+counterproductive
+couple of pointers, few pointers, any pointers
+coupled with
+course correct, course correction
+course of action, future course of action, next course of action, best course of action
+cover our bases, cover their bases
+cracked the, cracked the code, cracked the secret, cracked the method
+craft, crafting, crafted
+crave, craves, craving, craved
+crazy, it is crazy, crazy thing, cray mistake, the crazy part
+credentials
+credible, credibility, credible sources, damaged his credibility, credibility suffered
+credit, deserves credit, full credit to the team, take credit for the screenplay
+creep in, creeping
+cribbing, cribbed
+cringe, cringed, cringy
+cripple, crippling, crippled
+crisis
+crisp
+critical path, on the critical path
+critical, criticality, critical point, critical part
+cross check
+crossed my mind
+crown jewel
+crucial
+crudely
+cruise, cruised
+crumble, crumbling
+crunching, number crunching
+crusader, she is a crusader for environmental protection, the journalist became a crusader against corruption
+crux of
+crystal ball, don't have a crystal ball, wish i had a crystal ball
+crystal clear
+crystallize, crystallized, ideas began to crystallize, crystallize our strategy, plan finally crystallized
+cues
+culminate
+culprit
+cultivate, cultivating, cultivated
+cumulative
+curate, curated, curating the perfect playlist, well-curated
+currency for success
+curse, cursing
+curveball, throw you a curveball, threw a curveball
+cushion, as a cushion, financial cushion
+cusp of
+cut corners, don't cut corners
+cut the crap
+cuts across, cuts across all ages
+cynical
+dampen, dampens, dampening, dampened
+daunting
+day in day out
+daydream, daydreaming
+de facto
+dead end
+dead wrong, dead serious
+deal breaker
+deal, dealing, dealt
+debrief
+debunk, debunked
+deciding factor
+decisive, decisively
+decline, declining, declined
+decode, decoding
+decouple
+deep dive
+deep down
+deep, shallow
+defame
+defeat the purpose
+defend
+defer, deferred, deferment
+deficit
+degrade, degradation
+delegate
+deliberate, deliberately
+deligent, diligently
+delight, delighted, delightful
+delta
+delusion, delusional
+delve into, delved into
+demanding, demanding schedule, demanding project
+demean
+demonsrate, demonstrated
+denotes, smile denotes his satisfaction, white flag denotes surrender
+deny, denied, denial
+depart
+depreciate
+depressed
+deprive, deprives, depriving, deprived, deprivation
+derail
+derive, derived
+deserted
+deserve, deserving, deserved
+designated
+desire, desired, desirable
+desperate, desperately, desperation
+despite, in spite of, despite the rain, in spite of the rain, despite being tired, in spite of being tired
+deteriorate, deteriorating, deteriorated
+determined, determination
+detrimental, detrimental to your health, detrimental to the future of the company
+devastating, devastated 
+deviate, deviating, deviated, deviation
+devil is in the details
+devil's advocate, play devil's advocate, playing devil's advocate
+devise, devise a new plan, devise a strategy
+devote, devoted
+dictates, dictated
+die down, died down
+different league
+different opinion, difference of opinion
+differentiator, clear differentiator, key differentiator, customer service is a clear differentiator, battery life has become a key differentiator 
+digest, cannot digest
+digging your own grave
+digressed
+dilemma
+diligent, diligently
+dilly-dally, dilly-dallying
+dilute, diluted
+dimension, new dimension
+diminish, diminishing, diminished
+dire, dire need, dire poverty
+disaster, disastrous
+discard, discarded
+disclaimer
+disclosure
+discover, discovered, discovery
+discrepancies
+discretion
+disguise, disguisd
+disgusting
+disheartening, disheartening to see, disheartening news
+disinterested
+disparity
+dispute, disputing, disputed, undisputed, not disputing
+disrespectful
+dissect
+disservice
+distanced, distanced himself 
+distant, distant past, distant dream
+distinct, distinction
+distinguish, distinguished
+distort, distorting, distorted
+distract, distracting, distracted, distraction
+diverge, divergence
+diverse, diversify, diverse workforce, diverse skills
+divert, diverted
+dividends will pay off
+do justice, didn't do justice
+do not have the luxury
+do wonders
+dodge, dodged a bullet
+doesn’t add up
+doesn't surprise, i won't be surprised, not surprised, not so much surprised
+doing everything possible, doing everything in my power
+dominate, dominating, dominated, dominant
+don’t quote me
+don’t take it to heart
+don't be afraid, don't be afraid to rasie voice, don't be afraid to ask for help
+don't break your head
+don't discount the fact
+don't get me wrong
+don't have the stomach, doesn't have the stomach
+don't jump to conclusions
+don't know the ABC of, doesn't know the ABC of
+don't see a reason, don't see a reason to buy, don't see a reason to call
+don't shy away, not shy away, shy away
+don't sweat, don't sweat over
+doomed
+doorway, doorway to a better future, doorway into the film industry
+double check
+double click on
+double down, double down on its marketing efforts
+double whammy
+double-edged sword
+down the line
+down the road
+downfall, led to his downhall, caused their downfall
+downhill
+downplay, downplays, underplay, underplaying, underplayed
+downsize
+dragging their feet
+drain, draining, drained
+dramatic, dramatically
+drastic, drastically
+draw the boundaries, pushing the boundaries, pushed the boundaries
+draw the line, draw a line in the sand
+draw your own conclusion
+drawback
+drill down, drilled down
+drive home the point, to drive home the importance
+driver of, drivers of
+driver's seat
+drives, leadership drives team performance, curiosity drives innovation
+driving factor
+driving force, major driving force, driving force in globalization, driving force behind the project
+drop the ball, don't drop the ball, can't afford to drop the ball
+due course
+due diligence
+dumb
+dumbest thing on the planet
+dwell
+dwindling
+dynamic
+dynamics
+eager, eagerly, eagerness
+earmark, earmarked, earmarked funds
+easier said than done
+easy to say difficult to practice
+echo his words, echo your words, echo your thoughts, echoes
+eclipse, eclipsed
+ecosystem
+ecstatic
+edge of the seat
+effective, effectively
+either way
+elaborate
+elated
+element of risk, element of uncertainty, element of surprise
+elementary
+elephant in the room
+elevate, elevate our game, clerk was elevated to a managerial position, good news elevated everyone's spirits
+eleventh hour
+embark, embarking, embarked
+embarrassing, embarrassment
+embedded
+embrace, embrace challenges, embraced the opportunity
+emerge, emerging, emerged
+eminent
+empathy, empathetic
+emphasis, emphasize, re-emphasize
+empower, empowering, empowered
+emulate
+enabled, enabler
+encapsulate, encapsulates, encapsulated
+encompass, encompasses, project will encompass research  design and testing, training program encompasses the full spectrum of leadership skills
+encounter, encountered
+encourage, encouraging,  discourage, very encouraging, i encourage
+end of the road, the road ends here, not the end of the road
+end of the story
+end up, ended up
+endeavor
+endorse, endorsing, endorsed
+energize, energizing
+enforce, enforcing, enforced
+engage, engaging, engaged
+engine of growth, tourism as a new engine of growth, technology sector has become the engine of growth
+enhance
+enlighten, enlightening
+enormous
+enrich, enriching
+ensure
+enthusiastic, enthusiasm
+entice, enticing, entice the customer
+entirety
+entitled, entitlement
+envious, envied
+envisage, envisaged, can't envisage a world without music, It's hard to envisage what life will be like in 2050, the founders envisaged rapid growth
+envision, envisioned
+epic
+epicenter
+epitome
+equally important
+equip, equipped, well equipped, better equipped
+equitable, equitable solution, equitable system 
+erode, eroding, eroded
+erratic
+escalate, de-escalate
+essence, in essence
+euphoria, euphoric
+evade, evaded, evasive
+even more so
+eventually
+evident, quite evident
+evoke, evoked
+exactly
+exaggerate
+excel, excelled
+excellent, alright, awesome, super, great, fantastic, wonderful, cool, sweet, lovely, perfect
+exceptional
+excess, excessive
+exclude, excluded, exclusion
+exclusive, exclusively
+execute, execution
+exemplary, exemplary service, performance was exemplary, dedication was truly exemplary
+exempt, exemption
+exercise, exercised, exercise caution, exercise their option
+exhaustive, exhausted
+exhibit, exhibits, exhibiting, exhibited
+exorbitant, exorbitant prices
+expedite, expedited
+explicit, explicitly
+explodes, exploded
+exploit
+explore all options
+explore, exploring, explored
+exponentially
+exposure
+extend special thanks
+extensive, extensively
+extra cautious
+extraordinary
+extrapolate
+extreme, extremely
+exude, exudes, exuded
+eye-catching
+eyeing, eyeing a promotion, eyeing the championship title
+eye-opener
+eyewash
+fabric of
+fabricate, fabricating, fabricated
+fabulous
+facade, cheerful façade, humor as a facade to mask her sadness
+face saving
+face the music
+facets, facets of
+facilitate, facilitation
+factor in
+fade, fading, faded
+fag end
+fair enough
+fair, unfair, fair point, fair decision, fair assumption, unfair advantage
+fairy tale
+faith
+fall back, fall back on, fall back option
+fall flat, fell flat
+fall in line
+fall in love, fell in love
+fall into place, fell into place
+fall short, fell short
+falls short, fell short
+false sense
+familiar, unfamiliar
+fancy way, fancy way of saying
+fantabulous
+fantastic
+fantasy
+far from over
+far from perfect
+far-fetched, far-fetched dream
+fascinates, fascinating, fascinated
+fast forward, fast forward six months, fast forward ten years
+fast track
+fat package, fat commission
+fate
+feasible, feasible solution, feasible options
+feather in the cap
+feel fortunate
+fiction
+fiddling
+fierce, fiercely, fierce competition, debated fiercely
+fighting a losing battle
+fill you in
+final nail in the coffin
+final piece of the puzzle, important piece of the puzzle
+find a way around
+fine-tune, fine-tuning
+finger-pointing
+fingers crossed
+fingertips
+fire fighting
+firm, firms, firmly, firm up, firm stand, firm stance
+first and foremost
+first line of defense
+first of all second of all
+first of many steps
+first things first
+first-hand, first-hand information, heard the news first-hand
+firstly secondly, a b, one two
+fit the bill
+fixated
+fizzled out
+flabbergasted
+flag, flag those, flagged
+flag-bearer
+flagship
+flash in the pan
+flaunt
+flavor
+flaw, flawed, flawless
+flex, flexing, flexed
+flight that battle
+flinch, flinched, didn’t even flinch
+flip side of, on the flip side
+flip the switch
+float that idea
+flock
+flourish
+flowery, flowery speech, flowery words
+fluctuate
+fluff
+focal point
+follow suit
+fond, fond of
+food for thought
+foothold
+footprint, smaller footprint, expand its footprint
+footsteps
+for better or worse
+for instance
+for that matter
+for the sake of argument
+forbid
+forecast, forecasting
+forefront, forefront of ai research, forefront of the campaign
+forego
+foreseen, foreseeable, unforeseen, foreseen the consequences, foreseen the need, foreseen by scientists, no foreseeable problems with the project, unforeseen delay, unforeseen issues, unforeseen challenges
+foresight, had the foresight, lack of foresight
+forge
+form or shape
+formalize
+formulate, formulated
+forte
+fortunate
+forward-looking
+forward-thinking
+foster, fostering, fostered
+foundation of, foundational
+fragile
+framework
+frank, frankly
+freak out, freaking
+from day one, since day one
+front line
+front-load
+frontrunner, frontrunners
+frugal
+fruitful, fruitless
+frustrurating, frustration
+fuel, fuels, fueling, fueled
+full fledged
+full on
+full swing
+fullfill, fulfills, fulfilling, fulfilled, fulfillment
+function of
+fundamental, fundamentally
+fungible
+furious
+futile, futile exercise
+galvanize
+game changer
+game plan
+garner, garnering, garnered
+gatekeeper
+gateway, gateway to success
+gave me a heart attack
+gear up, gearing up, geared up
+gem, real gem, hidden gem
+generally
+generous
+genuine, genuinely
+gesture
+get a foot in the door
+get a thumbs up
+get buy-in from
+get hands dirty
+get the hang of
+get to a point
+get to that in a minute, get to that in a second
+get to the bottom of
+get us nowhere
+getting a lot of attention
+giant, giant step
+gifted
+gigantic
+gimmick
+gist
+give it a shot
+give me one good reason
+give or take
+give us a sense of
+give you a push
+glamour, glamorous
+glance, first glance
+glimpse
+glitch, glitches
+glorify, glorified
+glued
+go a long way,  donation will go a long way, investment will go a long way in helping
+go all out
+go back to the drawing board
+go down the drain, went down the drain
+go for a toss, gone for a toss, goes for a toss, went for a toss
+go hand in hand
+go nuts
+go with the flow
+go with the wind
+goalpost
+god forbid
+god level, next level, another level, whole different level, to the next level, is god level, god level performance
+going after, going after the same job, going after the gold medal
+going down the drain
+gold standard
+golden opportunity
+golden period, dark period, honeymoon period
+golden rule
+golden ticket
+gone are the days
+good books
+good call
+good fit, right fit
+good grip
+good in theory but in practice
+good move
+good or bad
+good shape, in good shape
+good sign
+good starting point
+good to go
+good to great
+good to know
+gosh
+got carried away, should not be carried away, not to get carried away
+got direction, got direction on next steps, got direction from the board, clear direction
+got me thinking, got us thinking
+got sucked into
+got you covered
+go-to person, go-to place, go-to platform
+grace, gracious, graciously, gracefully
+grand vision
+granular, granular details
+grasp, grasped
+gratifying
+gratitude
+grave, grave mistake
+gravitate, gravitating
+gravity of the situation
+great equation with, great equation with her boss
+great problem to have, good problem to have
+great step forward, major step forward
+greatful
+greed, greedy
+greek to me
+green light, green signal
+grey area, large grey area 
+grievance, grievances
+ground rule
+groundbreaking
+groundwork, lot of groundwork, lay the groundwork
+guardrail
+guideline, guidelines
+hack, simple hack, hack to, found a hack to
+haggle, haggling
+half the battle
+halfway, halfway through 
+hallmark, hallmarks
+hammered, got hammered, team got hammered, company got hammered
+hamper, hampering, hampered
+hand holding
+handful, handful of customers, handful of firms
+handover
+handpick, handpicked
+hands down, hands down the best, wins hands down
+hang around
+hard and fast rule
+hard decision, was a hard decision, made a hard decision
+hard for me
+hard pill to swallow, tough pill to swallow
+hard pressed
+hard stop, hard stop at
+hard time
+hard to believe
+hard to digest
+hard work paid off, risky bet paid off
+hardball, play hardball
+hardly any
+hardship, hardships
+hardwired
+harness, harnessing
+harp, harping
+harsh, harshly, harsh reality, harsh punishment, spoke harshly
+harvest
+has all the ingredients
+has an edge, gave an edge
+hash out
+hassle, hassles
+hasty
+have the stomach, don’t have the stomach
+having said that
+havoc
+hawk eye
+haywire
+he being he, cat being cat
+head and tail, couldn't make head or tail of the instructions, can't seem to make head or tail of what she's saying
+head on
+head start
+headroom
+headway, making headway, making steady headway
+headwinds, tailwinds
+healthy, healthy growth, healthy discsuiion
+heart and soul
+heartbeat of
+heart-breaking
+heartfelt
+heartwarming
+heat of the moment
+heating up
+heavy lifting
+heck of
+hectic
+hedge
+heed, paid no heed
+hell of a lot
+hell-bent
+helm, at the helm, at the helm of
+help me understand
+help us big time
+helping hand
+henceforth
+herculean, herculean task, herculean dedication
+here is the deal
+here is the kicker
+here is why
+here we go
+hesitate, hesitation, hesitant, don't hesitate
+high hopes
+highlights, highlight of the, one of the highlights, some of the highlights
+high-stakes, high-stakes negotiation, high-stakes conversations
+hijack the conversation
+hilarious
+hinder, hinders, hindering, hindered, hindrance
+hindsight, in hindsight
+hinges on
+historically
+hit a snag, hit a roadblock, hit a wall
+hit that reset button
+hold your horses
+holding me back, holding you back
+holistic, holistic view, holistic approach
+hollow promise
+holy grail, holy grail of investors, holy grail of medical research
+holy shit
+homework, do our homework
+honor, honored and humbled
+hooked
+hoopla
+hop over, hop on to
+horizon, horizons, opened up new horizons, broaden your horizons, time horizon
+horrific, horrifying
+horsepower
+host of issues, host of problems
+hot topic
+hover around, hovering around
+how on the earth
+huddle
+humanly impossible
+humble, humbling, humble request
+humiliate, humiliating, humiliated, humiliation
+humongous
+hundreds if not thousands, billions if not trillions, 
+hung up, so hung up on the details, too hung up on money, too hung up on the past
+hurdle, hurdles
+hurt our credibility
+hustle, hustling, hustled
+hype
+hypocrisy, hypocrite, hypocritical
+hypothetical, hypothetically
+i am 100% confident
+i am curious
+i am glad
+i bet, i bet you
+i can’t wrap my mind around, I can’t wrap my head around the fact that my little brother is getting married, I can’t wrap my head around how big the universe is
+I cannot digest the fact that, i cannot digest the fact that my best friend betrayed me
+i didn't quite follow
+i fail to understand, i fail to see
+i guarantee, i can guarantee, i can 100 % guarantee
+i have to admit, i must admit
+i hear you
+i promise you
+i said it earlier
+i second that
+i wish i had
+i wonder, i am wondering, i was wondering, kept wondering, left me wondering
+i would love to see
+iconic
+if not the best definitely one of the best
+ifs and buts
+ignorant, ignorance
+illusion, illusive
+imagine, can't imagine, hard to imagine
+imbibe, imbibed
+immaterial
+immense, immense respect, immense popularity, immensely
+immerse, immersed, immersive
+imminent
+immune
+impact, impactful
+impart, impart some courage, mentor imparted valuable life lessons
+impediment
+imperative, good communication is imperative to your success, water is imperative for survival
+implant
+implement
+implications, serious implications, financial implications
+implicit, implicitly
+imply, implies, implying, implied
+impose, imposing, imposition
+impression, impression that
+impressive
+impromptu
+improvise
+in a way
+in all probability
+in all seriousness
+in conjunction with
+in contrast
+in customer shoes, in her shoes
+in favor of
+in good hands
+in limbo
+in line with
+in my opinion
+in my to-do list, in my watch list
+in my view
+in no time
+in other words, in simple words, in simple terms, simply put, put differently
+in particular
+in pockets, pockets of opportunity
+in short
+in tandem, work in tandem, operate in tandem, run in tandem
+in the fast lane
+in the first place
+in the game, still in the game, early in the game,  late in the game
+in the grand scheme of things
+in the interim
+in the long run
+in the same boat
+in vaccum
+in vain
+incentive, incentivize
+incidentally
+inclined, inclined towards
+inclusive
+incorporate
+incredible, incredibly
+incremental
+inculcate
+incur
+indeed
+in-depth
+indicate, indicates, indicator, indication, indicative
+indulge, indulging, indulged, indulgence
+inevitable
+infact
+infer, inferred, inference
+inflate, inflating, inflated
+influenced, influential
+influx, large influx of tourists, influx of foreign capital to the  country’s real estate market
+informative
+informed decision
+infuse
+inherent, inherently
+inhibit, inhibit project progress, inhibits the growth of bacteria
+innumerable
+inroads
+insane, insanely, idea sounds absolutely insane, concert was insane, workload this week is insane
+insights, insightful
+insist, insists, insisted
+inspire, inspired, inspiration, inspirational
+instill
+instinct, first instinct
+institute
+instrumental
+intact
+integral, integral part
+intend, intends, intended
+intense, intensified, intensive, intensify, intensely, intensity
+intent, intention
+intentional
+interestingly, more interestingly
+interfere, interference, don't interfere
+interim
+intermittent
+internalize, internalising, internalized
+interpret, interpretation
+intervene, intervention
+intimate, intimate you
+intimidate, intimidating, intimidated
+into the equation
+intrensic
+intrepret, interpreted, interpretation, misintrepet
+intrigues, intriguing, intrigued
+introspect, introspection
+intuition
+invaluable, valuable, valuable information, valuable piece of advice
+invent, reinvent
+investing 101, accounting 101
+iota of
+irks, irking, irked
+iron out
+irony, ironic, ironically
+irresistible
+is at stake
+is no exception
+is no joke, parenting full-time is no joke
+is not new
+is sorted
+is the key, effective communication is the key 
+is the new oil, data is the new oil, renewable energy is the new oil
+isn’t it amazing
+isn't rocket science
+isolated, isolation
+it goes without saying
+it is a function of
+it is a mistake to say that
+it is high time
+it is no secret
+it is what it is, they are what they are
+it turns out
+itch to
+iterations
+it's game over
+it's given
+it's natural
+its not the end its just the beginning
+jargon, avoid jargon
+jeopardize, jeopardy, jeopardize your chances, jeopardize the quality, future is in jeopardy
+jog my memory
+jokes aside
+jot down, jot down this number, jot down notes
+judge, judged, judgmental, misjudged
+judicious, judiciously, judicious use of the resources, invest your money judiciously
+juggling, juggling multiple projects
+jump the gun, don't jump the gun, let's not jump the gun
+jump-start, jump-start the economy, jump-start sales
+juncture, at this juncture, critical juncture
+junked, proposals were junked, she junked her plans
+just a random thought
+just a tick in the box
+just a tip of the iceberg, only a tip of the iceberg
+just one part of the equation, another crucial part of the equation, just one piece of the puzzle
+just out of curiosity
+just to build on that
+justify, justification, justify spending, provide a justification, solid justification
+keen, not too keen, keen on playing tennis
+keep an eye on, keep a close eye on, keep a close watch on
+keep eyes and ears open
+keep me honest
+keep tabs on, keep a tab on
+keep the ball rolling, ball started rolling
+keep them in the dark, kept them in the dark
+keep this in the back of your mind, at the back of my mind
+keeping that in mind
+key attribute, key element
+key ingredient, key ingredients
+key question is
+key role
+key takeaways
+key that unlocks
+key to success, key to happiness
+kick in, kicks in, reforms will kick in, discount kicks in 
+kicking the can down the road 
+kick-start, kick-start the project, kick-start the economy
+killer, killer presentation, killer performance
+killing it
+kind, unkind, kind to others, kind words, unkind way
+knee jerk, knee jerk reaction, knee jerk response
+knocking on the door, knocking on the door of profitability
+knowingly, unknowligly, knowlingly or unknowligly
+kudos, big kudos, kudos to everyone
+lack of a better word
+lame, lame excuse, lame plot
+landed in, might land up, landed in a situation, landed in financial trouble, might land up in trouble
+landmark, major landmark, landmark judgment
+landscape, political landscape, investing landscape
+largely
+laser focus
+last leg
+last resort, bankruptcy was our last resort
+lasting, lasting impression
+latched on to, latched onto music
+late to the party
+laundry list
+lay out, laid out, laid down, lay out a plan, laid down the rules, laid down the plans
+layer onto
+leading causes
+lean on, leaning towards
+lean, lean period, lead budget
+leap, big leap, gaint leap
+learnt their lesson the hard way
+leave no stone unturned
+leave the door open, left the door open
+leeway, little leeway
+left behind
+legacy
+legend, legendary
+legit, legitimate, legitimate concerns
+legwork
+lenient
+lens of science, lens of culture, different lens, same lens
+less said the better
+let down
+let me put it this way
+let me take a pause here
+let that sink in
+let the dust settle, the dust has settled
+let's face it
+lets take a minute
+lets take a moment, lets take a moment to acknowledge,  lets take a moment to celebrate
+level up, level up my skills, level up this presentation
+lever, levers
+leverage, leverage our contacts, leveraged her communication skills
+liable
+liaise, liaise with customer support, liaise with the marketing team
+liberate, liberating, liberated
+liberty, liberty of telling, liberty to speak, liberty to choose
+license to do, license to behave
+lifeblood, lifeblood of the industry, lifeblood of the island nation
+life-changing, life-altering
+lifeline
+light at the end of the tunnel
+lightheartedly
+like i said
+like to spend the next 10 minutes or so
+like to sum up by saying
+likelihood, high likelihood, likelihood of that happening, likelihood of winning
+likes of, likes of apple and google
+likewise
+limelight, in the limelight
+limping
+line is blur
+line of fire
+line of sight, no line of sight
+line up, lined up, line up the interviews, line up the training sessions
+lingers, lingered, still lingers in my mind, lingered for days, linger in the memory
+lion's share
+little over a week, little over a year
+little tricky
+loads of, loads of things
+lofty, lofty goal
+long overdue
+long road ahead, long journey ahead
+long shot
+longest pole in the tent
+long-standing
+look forward to, looking forward to
+look out for, look out for spelling mistakes, look out for special offers
+look up to, look up to their coach, looked up to her older brother 
+looking ahead
+looks great on paper
+lot of buzz
+lot of elements, lot of elements to consider
+lot of mileage, lot of mileage out of a simple idea
+lot of missing pieces
+loud and clear
+lousy
+low hanging fruits
+lucrative
+lukewarm
+mad respect, mad rush
+made it extremely clear
+made the situation worse
+made up my mind, make up your mind
+madly
+magic pill, no magic pill
+magical, magically, magical ability, magically improved
+magnificent
+magnitude
+mainstream
+make a dent
+make case stronger
+make life easier, makes life easier
+make no mistake
+make noise
+make or break
+make some noise
+makeover
+makes sense, makes no sense, don't make sense, don't make any sense
+makes this extra special
+making this up
+making waves, making waves in the scientific community
+mammoth
+maneuver, maneuvered
+manifest, manifests, manifested, manifestation
+manipulate
+many thanks, big thank you, thank you so much
+marginal, marginally, marginal increase, marginally better
+mark my words
+mark your calendar
+marks the end
+married to
+marvelous
+massive, massively
+materialize, didn't materialize
+matter of concern
+matter of time, only a matter of time, just a matter of time
+maximize
+meaningful
+meaningful, meaningful results, meaningful impact
+means a lot to me
+meddle
+mediocre
+meet the needs
+mere, merely
+merit, lot of merit
+meritocracy
+messaging
+method to my madness
+meticulously, meticulously planned
+middle ground
+midst, the company is in the midst of a major restructuring, we are in the midst of one of the worst recessions
+midway
+mighty
+mild
+miles ahead, light years ahead
+milestone
+million times, zillion times
+million-dollar question
+mind-blowing
+mindful
+mindset, mindset shift, mind shift
+minuscule
+miracle, miraculous, miraculously
+mirroring
+miscellaneous
+misconception
+miserable, miserably
+mislead, misleading, misled
+missed the boat
+misses the point, missed the point
+missing the forest for the trees
+mitigate
+mobilize
+moderate, moderation
+modest
+moment of anger
+momentarily
+momentum, keep the momentum
+monumental
+more harm than good
+more important than ever before
+more importantly, most importantly
+more often than not
+more on that, more on that in a minute
+more or less
+more so now than
+more than confident, more than happy, more than welcome
+more than i could chew
+more to come on this
+most if not all
+most sought-after
+motto
+mountain out of a molehill
+mounting, mounted
+move the needle
+moving pieces
+much needed, much needed break, much needed advice, much needed funding
+much-anticipated, much-awaited
+mundane
+mushroomed
+mutual
+my hands are tied
+my philosophy
+my question to you is
+my reading is that
+my request to you is, my request is
+my take, your take
+mystery
+myth
+nag, nagging
+nail down
+nailed
+nailed it
+naive
+narrate
+narrative, narratives, false narrative
+narrow down
+nascent, nascent technology, nascent company 
+naturally
+navigate through, tide over, tided over, sail through, navigate through, smooth sailing
+near term
+near-final, near-final version, near-final design
+neck deep
+need of the hour
+needle in a haystack
+needless to say
+needs no introduction
+negate
+negligible
+never disappoints us
+never fails to surprise us
+never imagined even in my wildest dreams
+never-ending battle, never-ending tale
+nevermind
+nevertheless
+new ballgame, different ballgame
+new kid on the block
+next big thing
+next chapter
+next to impossible
+nice to have, must have
+niche
+nightmare
+nip, nip it in the bud
+nitpicking
+nitty-gritty, nitty-gritty of the problem, nitty-gritty of the project
+no different than
+no harm, there is no harm
+no less than
+no longer luxury it’s a necessity
+no longer serving
+no looking back
+no matter what
+no need to lose sleep
+no one better than, who knows better than you
+no point in, pointless
+no prize for guessing
+no question about it, no question about that
+no way out
+no wonder
+no-brainer, medical insurance before a ski holiday is a no-brainer, wearing sunscreen in summer is a no-brainer
+noise, noise around, lot of noise, ignore the noise
+none other than
+nonetheless
+non-negotiable
+norm, new norm
+north of, northward, go south, southward, heading southward
+nosedived
+nostalgic, nostalgia
+not a bad idea, not a good idea
+not a good sign
+not a luxury it is a necessity
+not easy as it sounds, not as easy as it may sound
+not end well, did not end well, will not end well, may not end well
+not fly, won't fly
+not going to fall apart
+not my cup of tea
+not only but also
+not pass the judgment
+not so much fan
+not that i know of
+not the end of the world
+not there yet
+not to mention
+not too fond of
+notable
+notably
+notch above
+noteworthy
+nothing more nothing less
+nothing short of a, nothing short of a miracle
+noticeable
+notion, notions, common notion
+novice
+now that we have established
+nuances, nuances of the game, nuances of body language
+nudge, nudged, gave my friend a nudge, i need a nudge to get started in the morning, the teacher nudged the students to participate in the discussion
+nuggets, valuable nuggets, useful nuggets, surprising nuggets 
+nuisance
+numb
+number one priority
+nurture, nurturing
+nutshell, in a nutshell
+obey, obeyed
+object, objection
+objective
+obligated, obligation
+obliged
+observations, some observations
+obsessed, obsession
+obsolete
+obstacle, obstacles to overcome, overcome obstacles, overcame various obstacles
+obvious, fairly obvious, so obvious, obviously
+of course
+of late
+off the charts
+off the record
+off the top of my head
+offend, offended
+offset, offset the increased cost, offset the loss
+often, quite often, often not
+okish
+old school
+on a lighter note
+on a mission
+on a platter
+on a related topic
+on a serious note
+on a side note
+on and on
+on board, wasn’t on board, on board with the plan, on board with the idea
+on cloud nine
+on course, stayed on course
+on par
+on point
+on purpose, done on purpose
+on that note, on that same note
+on the account of
+on the back foot
+on the cards
+on the dot
+on the fly
+on the ground
+on the one hand on the other hand, on the other hand
+on the same page
+on the top of my mind
+on top of all of this
+on top of things, on top of deadlines, stay on top of it, stay on top of things, stay on top of this
+once and for all
+once in a blue moon
+one ask, an ask
+one big area
+one eighty degree, three sixty degree
+one element of
+one of the if not the most
+one piece second piece, one piece the other piece
+one size fits all, no one size fits all
+one step ahead
+one step closer to
+one-way street, two-way street
+only so much i can
+only the beginning, just the beginning
+onus, onus is on
+oops
+open a can of worms
+open mind
+open question
+open secret
+open the door, opened the door, open doors, unlock the door, close the door, closed the door, shut the door
+open the floor, open up the floor
+open to
+opened my eyes
+open-ended, open-ended questions
+open-minded, narrow minded, like-minded
+opens up the possibility
+opportunity
+optics, optically
+optimal
+optimistic
+optimum
+orchestrate, orchestrating, orchestrated
+ordeal, long ordeal, ordeal of tests
+oriented, people oriented, user oriented, market oriented, value oriented
+other way around
+our format for today
+our mantra
+out of no where
+out of nowhere
+out of the equation
+out of the question
+out of the woods, not out of the woods yet
+outclass
+outcome
+outdated
+outdoes
+outlier
+outline, outlines, outlined
+outlook, positive outlook, economic outlook
+outpace
+outperform
+outplayed
+outrage, outrageous
+outrank
+outright
+outshine
+outsmart
+outstanding
+outweigh
+over engineer
+over the course of
+over the long haul
+over the moon
+overarching
+overboard, don't go overboard on fitness, went overboard buying gifts
+overcome, overcame
+over-communicate
+overdo
+overdue, long overdue
+overestimate, underestimate
+overhaul, overhauled
+overhead
+overkill
+overlook, overlooked
+overnight
+overrated, underrated
+overrule
+oversee
+overshadows, overshadowed
+oversight
+oversold
+overstate, overstatement
+overstep
+overtime
+overwhelming, overwhelmed, overwhelmingly, underwhelming, underwhelmed
+owe
+pain in the neck
+pain point, pain points
+paint a rosy picture, painted her in bad light, paint this scenario
+pandora's box, open a pandora's box
+pans out
+paralyze, paralyzed
+paramount, paramount importance, is paramount
+paranoid
+paraphrase
+pardon my ignorance
+park my comments, reserve my comments
+part and parcel
+part of the game, part of life, risks are part of the game, failure is a part of life
+passion, passionate
+passport to, ticket to
+pat on the back
+pathetic
+pathway
+pattern
+pave the way
+pay a heavy price
+peanuts
+peculiar
+penalize, penalized
+penny wise pound foolish
+pep talk
+per se
+perceive, perceived
+perception, change perception
+percolated
+perennial, perennial problem, perennial topic
+perfect example
+perhaps
+peril, perils
+period
+periodically
+perks of, perks of renting, perks of working here is free lunch every day
+permit, permitted
+persevere, perseverance
+persist, persisted
+persistent, persistence
+perspective, his perspective, unique perspective, differernt perspective, to give you some perspective, to put this in perspective
+persuade, persuaded, persuasive
+pertain, pretains, pertaining
+pertinent, pertinent questions, pertinent comments
+pestering, pestered
+pet project, side project
+phenomenal, phenomenon
+philosophy
+pick up this thread, pick up the thread
+picking up steam
+picture this, imagine this
+pie in the sky
+piece of cake
+piggybacking
+pillar to post
+pillars of
+piloting
+pin down, hard to pin down the exact cause, pin down the meeting date before sending invites
+pinch of salt, grain of salt
+pinch, pinches, starting to pinch, feel the pinch, feeling the pinch
+pinnacle
+pinpoint, able to pipoint
+pioneer, pioneers, pioneering, pioneered
+piss off
+pitch in
+pitfall, pitfalls, potential pitfalls, pitfall of online shopping
+pivot, pivoted
+pivotal, ceo played a pivotal role, discovery of penicillin was a pivotal moment
+plain and simple
+plan b
+plan in place, measures in place
+planted, planted doubts, plant the seed, planting seeds, planted the seeds
+plateau, plateaus, plateaued, hit a plateau
+platform
+play out, plays out
+playbook
+pleasant, unpleasant
+please excuse me, please excuse my
+pleased
+pleasure, such a pleasure, absolute pleasure, displeasure
+plenty, plenty of
+plethora of, plethora of options, plethora of resources
+plugged into, plugged into the latest news, plugged into the latest technologies
+plummet, plummeted
+plunge, plunged
+poised
+poke your nose, poking her nose
+poking
+pole position
+polish, polished
+ponder, pondering, pondered
+pool of
+pop out, pop up, poping up
+portray, portrays, portrayed, portrayal
+pose, posed
+positive step
+positoned, well positioned
+potential, potentially
+pounding, pounded
+pouring in
+powerhouse, economic powerhouse
+practical purposes, for all practical purposes
+practical, practically, impractical
+pragmatic, pragmatically
+praise, praised
+preach, preaches, preached
+precaution, take precautions, as a precaution
+precede, precedes sunrise, precedes the main content
+precedence, takes precedence, has precedence 
+precedent, bad precedent, dangerous precedent
+precious
+precise, precisely, precision
+preconceived notion
+predetermined
+predicated
+predict, predicts, predictable, unpredictable, prediction
+predictor, predictor of,  good predictor of, number one predictor of success
+predominant, predominantly
+preempt, preempted, pre-emptive
+preference, preferences
+premature
+premier, premier destination, premier institution
+premise
+premises
+prerequisite
+prerogative
+prescribe, prescribed
+pressed the panic button
+pressing need, pressing requirement
+presume
+pretend, pretending, pretrended
+pretext
+pretty
+prevail, prevails, prevailing
+prevalent, prevalence
+prevent
+preview
+priceless
+pride
+primary, primarily
+prime, prime example, prime reason, prime way, prime resource
+primitive
+principles, principles of fairness and integrity, principles of good design 
+privilege, privileged
+proactive
+problem child
+procure, procurement
+proficient
+profound, profoundly
+prohibit, prohibits, prohibited
+projecting, projection
+prolong, prolonging, prolonged
+prominent, prominence
+promised the moon
+promising, looks promising, very promising
+prompts, prompting, prompted
+propaganda, spreading propaganda, false propaganda
+propel, propels, propelled, propels scientific discover, propelled sales
+proponent of, strong proponent of, big proponent of
+proposition
+prospect, prospects
+prospective
+prosper, prospered
+protocol
+prototype
+proved beyond a doubt
+provision, provisioning, provisioned
+provisional, provisional schedule, provisional offer
+provoke, provoked, provocative
+prudent, prudent advice, prudently
+pull it off
+pull the plug, pulled the plug
+pull the trigger
+pulling my leg, pulling your leg
+pulse check
+pulse of
+pumped, pumped up
+punching bag
+pure gold
+pursue, pursuing, pursue a career in law, pursuing a new marketing strategy
+pursuit, pursuit of happiness,  pursuit of money
+purview
+push back
+push your limits, push my limits
+pushed to a corner
+put a full stop, put an end
+put aside
+put into practice
+put me on spot, put them on the spot
+put simply
+put that thought in their mind, put ideas in their minds
+put to rest, put all doubts to rest, put to rest the rumors
+put to the right use
+put together
+puzzled
+quantify
+quest, quest for truth, quest for more knowledge, quest to build a sustainable city
+question mark, huge question mark
+questionable, highly questionable
+quick and dirty, quick and dirty market analysis, quick and dirty cost estimate
+quote unquote
+rabbit hole
+race against time
+radical, radically
+raised a flag
+raised eyebrows
+raised the bar
+raises questions, raised questions, raises doubts
+rally, rallied
+ramifications
+rampant
+rant, ranting
+rapid, rapidly
+rapport
+rational, rationally, rationalize,  irrational
+rave
+ray of hope
+reach new heights
+read between the lines, no need to read between the lines
+real quick
+real treat, real treat to watch
+realistic, unrealistic, unrealistic goal
+reality, reality is, ground reality, reality of the matter is, in reality, reality check
+realize, realized, realization
+reap, reap the benefits, reaping huge profits
+reasonable, reasonably
+rebound, rebounding, slowly rebounding
+recall
+recast, recasting
+receiving end
+recharge my batteries
+recipe for success, recipe for disaster, prescription for disaster
+reciprocate, reciprocated
+recite, reciting, recited
+reclaim
+recognize, recognition
+reconcile
+reconsider, reconsider her decision, reconsidering its policy
+recount, recounted
+rectify, rectification
+red flag
+redefine, redefined
+redline, cross redline
+redundant
+reeling
+refine, refining, refined
+reflects, reflection, reflection of, reflecting back, reflect on
+reform
+refrain, refrain from, refrained from
+reframe
+refreshing
+refute
+regain
+regardless
+regret
+regroup
+regulate, regulations
+rehearse, rehearsed
+reignite
+reimagine
+reinforce, reinforces, reinforced, reinforcement
+reinvent
+reinvent the wheel
+reiterate
+rejoice, rejoicing, rejoiced
+rejuvenate, rejuvenated
+relatable
+relative, relatively
+relentless, relentlessly
+relevant, relevance, irrelevant
+reliable, unreliable
+reliant, reliance, reliant on teamwork, reliant on her parents
+relief, relieved
+religiously
+relook
+reluctant, reluctance
+rely
+remarkable, remarkable progress, remarkable achievement
+remedy, remediate, remedial, remediation
+remote, remote chance, remote possibility, remotely
+rendered
+reorient, reorientation
+repent, repent my actions
+repercussions
+rephrase
+represent, representation
+repurpose, repurposing
+reputed, reputation
+rescue, rescued
+resembles
+resentment
+reservations
+reside, resides, residing
+resilient, resilience
+resist, resistance
+resonate, resonated
+resort to, resorted to
+resounding, resounding succes, resounding failure
+respect your, respect your decision, respect your privacy
+rest assured
+restore confidence
+retain, retention
+rethink, rethinking
+retreat
+retrieve
+retrofit
+revamp
+reveal, revelation
+revert
+revisit
+revitalize, revitalizing
+revive, revival
+revolution, revolutionize, revolutionized, revolutionary
+revolve around, revolves around
+rewarding
+rewire
+ridiculous, ridiculously
+right balance, find a right balance, strike a balance, perfect balance
+right direction, right track
+right step, a step in the right direction
+rightly so
+rigor
+rigorous, rigorously
+ring a bell
+ripples
+road map
+roadblock
+robs your, robs your peace of mind, robs your energy
+robust
+rock solid
+rock the boat
+rock the world
+roll out
+roll out the red carpet
+roller coaster, roller coaster ride
+room for, no room for
+root cause
+root of, root of the issue, root of many conflicts
+rooted
+rooting for
+rope in
+round the clock
+route it
+routine
+rubbish
+rude shock
+ruin, ruining, ruined, ruins
+rule of thumb, thumb rule
+rulebook, go by the rulebook
+run through
+rundown, quick rundown of, rundown of the meeting, rundown of the agenda
+running tight
+runway
+ruthless
+sabotage
+sacrifice, sacrificed
+safe bet
+safe to say
+safe zone
+safeguard, safeguard your health, safeguard your interests
+same song different tune
+satisfying, satisfactory
+saturated, saturation
+savior
+savvy, savvy investors, tech-savvy
+scapegoat
+scare, scarcity
+scores on, scored on, scored points
+scout
+scratching the surface, scratch beneath the surface
+screw up, screwed up
+screwed
+scrutiny, scrutinize
+seamless, seamlessly
+seasoned
+second guess, don't second guess, began to second guess
+second pair of eyes
+second thoughts
+second-guessed
+secret formula, no secret formula
+secret ingredient
+secret sauce, effective communication is the secret sauce, comedian's secret sauce
+secret weapon
+secure, secured
+seek, seeking, sought
+segregate, segregated, segregation
+segue into, segued
+seize the opportunity, grab the opportunity with both hands
+self-doubt
+self-goal
+sends a message
+sense of urgency
+sensed
+sensible
+set back
+set in stone, not set in stone, nothing is set in stone
+set the bar high
+set the record straight
+set the stage, set the tone, set the ground
+set you up for failure, set him up for failure
+setback
+sets us apart, set her apart
+severe, severely 
+shadow them
+shape, shapes, shape our, shape the way, reshape, reshaping, reshaped
+shaping up, taking shape, all in shape
+shattered
+shed light, shed some light, throw some light
+sheer, sheer luck, sheer volume, sheer joy
+shell out
+shelve, shelved
+shield, shielded
+shift gears
+shine, shines
+shocker, real shocker, shocker for you
+shoot down, shot down
+shoot in the dark, shooting in the dark, shot in the dark
+shoot up
+shooting yourself in the foot
+shore up, shore up the economy, shore up their defence
+short and sweet
+short of words
+short sighted
+shortcomings
+shortfall, revenue shortfall
+should fall into place
+shout out to, big shout out to
+showcase
+show-stopper
+shrink, shrank
+sick and tired
+sickening
+side effect, side effects
+side story
+sideline, sidelined
+sidetracked
+sight, slightly
+sign of, signs of, sign that, showing signs of
+sign up, signed up
+signals, signaling, signaled
+significant, significantly, significance, insignificant
+signify, signifies
+signs of improvement, signs of fatigue, signs of nervousness
+silo, silos
+silver bullet, magic bullet
+silver spoon
+simplify, simplification, oversimplify
+sincere, sincerely
+sitting on the fence
+situation demands, situation warrants
+sizeable
+skeptical
+sketchy
+skewing, skewed
+skin in the game
+sky is the limit
+skyrocketing, skyrocketed
+slated
+slew of, slew of measures, slew of events
+slice and dice, sliced and diced
+slightly different take, slightly different approach
+slippery slope to, slippery slope to disaster
+sliver lining
+slog, slogging, slogged
+slowly but surely
+small part of
+snail's pace
+snatch
+sneak peek
+sneezes catches cold
+snowballed
+so be it
+so called
+so caught with
+so far so good
+so is, so does
+so much on our plate
+so much so that
+so on and so forth
+so to speak
+soaring
+so-called
+socialize
+soften the blow
+solely
+solicited
+solid, solid performance, solid evidence
+solidify, solidify brand identity, solidify your understanding of the subject, solidify employee trust in the management
+some plus and minuses
+something cooking
+sooner than later, we need to address this issue sooner than later, better to have that difficult conversation sooner than later
+sophisticated
+sorry to say this
+sound advice, sound decision, sound investment
+sounds good, sounds great, sounds like a plan, sounds more believable, to sound more professional
+source of truth, single source of truth
+space out
+spanning
+spare, spared, please spare
+spark, sparked
+speak for themselves, speaks for itself
+speaks volumes
+spearhead, spearheaded
+special mention
+special thanks
+specifics, to be specific
+spectacular, spectacularly
+speculate, speculating, speculated, speculation
+spice up
+spike, spiked
+spill the beans
+spin a story
+spiral out of control
+spirit, true spirit
+spit out
+splendid
+spontaneous
+spoon-feed
+sporadic, sporadically 
+spot on
+spotlight
+sprinkle, sprinkled
+spur, spurred
+spurt
+squander, squandered, don't squander your time, squandered all his savings
+stabilize
+stacked, stacks up
+staggering
+stagnant
+stance, firm stance, tough stance, changed his stance
+stand by that
+stand corrected
+standout, stands out, stood out, stand out feature
+standpoint, my standpoint, safety standpoint
+stands at, where do we stand
+standstill
+star of the show
+stare, staring, stared
+stark, stark difference, stark reality
+startling, startling truth, startling development
+starving
+state of the art
+stature, stature as a leader, company's stature, enhanced the stature
+status quo, maintain the status quo, challenge the status quo
+stay ahead of the game
+stay put
+stay tuned
+steep
+steer, steers, steered
+stellar, stellar performance, stellar reviews
+stem, stemmed, stems from
+step back, take a step back
+step up, step up the game, step up our game, step up its production
+step, step forward, significant step, crucial step
+stepping out of the line
+steppingstone
+stereotype, stereotyped
+stick around
+stick to your guns, stuck to their guns
+stigma, stigmatize, stigmatized
+still a question mark
+sting, stings, stung
+stipulated
+stock of the
+stood for
+stood the test of time
+stoop, stopp to lying, stooped so low
+stopgap
+story line
+straightforward
+strangely
+strategy, strategic, strategic move, strategic marketing plan
+streamline, streamlined
+strengthens
+stringent
+strip
+strive, strives, striving
+strong case
+strong opinion
+strong signal, positive signal, send a strong signal, sends a wrong signal
+structure, restructure
+stubborn
+stuck
+stumbled, stumbled on this book
+stunning, stunned
+stupendous
+subconscious, subconsciously
+subjective
+subpar, substandard
+subsequent, subsequently
+subside
+substantial, substantially
+substitute
+subtle
+succeeds, succeeded
+sucks, sucked
+suffice
+sugar-coat
+suicidal
+sums up
+super cool
+super excited
+super happy
+super important, very important
+superb
+supercharge, supercharged
+superficial
+superior, inferior, superiority
+superpower
+supervise, supervision
+supplement
+supposed, supposedly
+suppress, suppressed
+supreme, supremacy
+sure shot
+sure thing
+surfacing, surfaced, resurface, resurfaced
+surge, sudden surge, saw a surge, surged
+surpass
+surplus
+surprise element
+surprisingly, not surprisingly
+surreal, rainbow was surreal, big wave is a surreal kind of experience, felt surreal 
+suspect, suspecting
+sustain, sustainable
+swamped, swamped with emails, swamped with customers
+sweet spot
+swift, swiftly, swift decision, swiftly developed
+symbol of
+symbolic, symbolize
+sync up with
+synergy
+synonymous, synonym for
+systematic, systematically
+tackle, tackling
+tactic, tactics, tactical
+tail end, tail end of the conversation, tail end of the lecture
+tailor, tailors, tailoring, tailored
+take a stab
+take a stand
+take a toll, taken a toll
+take back seat
+take center stage
+take into account
+take it one step further, go one step further, go a step further, take it a little further
+take the cake
+take them into confidence
+take you for a ride, taken for a ride
+take-home message
+taking me for granted, take it for granted, don't take it for granted
+talk of the town
+talk the talk, walk the talk
+talk through that
+talking point
+tall claims
+tangible, intangible
+tap, tapped, tap into,  untapped
+tasted success
+tax the top
+tedious
+tend, tends
+tendency, tendencies
+tenure
+terrible, terribly
+terrific
+terrifying, terrified
+test the waters
+testament
+testimony
+thankfully
+thanks for checking
+thanks to
+that leads to
+that said
+that’s right, you are right
+that's it
+that's news to me
+that's only half the story
+that's the nature of
+that's why it is so important
+the benefit of doubt, give him the benefit of doubt
+the best part is, the best part of the, the best part of the trip
+the catch is, here is the catch
+the equation has changed, changed the equation
+the first rule of, the first rule of success is, the first rule of public speaking is
+the first step
+the formula for success
+the good news is
+the hard part, the hard part is, the hard part about
+the heart of the, the heart of the problem
+the idea is that
+the juice is not worth the squeeze
+the most important thing
+the next step, logical next step
+the point being
+the point is, my point is, the point i am trying to make is, the point i am trying to convey is
+the question is
+the question is, the big question is, the bigger question is, but the question is, the main question is, my only question is
+the question remains, but the question still remains
+the short answer is
+the sky is not falling
+the stage is set
+the way i see it, the way i look at it
+the writing on the wall is clear
+there is a good chance
+there is another side
+there is no doubt, without a doubt
+there us no reason why
+there you go
+they proved me wrong, prove them wrong
+thin line between
+thing or two, week or two, day or two
+things pan out, didn’t pan out
+think about it, think about it for a second
+think out of the box
+think through
+think twice
+thinking out loud
+thought process
+threshold
+thrilled, overjoyed
+thrive, thrives, thriving
+throw in the idea, throwing these ideas
+throw under the bus
+throwing darts
+ticks me off
+tight spot
+tilting in favor of, tilting towards
+time and again
+time will tell, only time will tell
+time-bound, exam is time-bound, offer is time-bound
+timeless
+tiny
+tipping point
+to a degree, to some degree, to a certain degree
+to add insult to injury
+to be honest, to be quite honest
+to be on the safe side
+to begin with
+to cut a long story short, long story short
+to get across the message, message i try to get across, get our point across
+to give you an idea
+to make matters worse
+to name a few
+to rub salt in the wound
+to sum it up
+to the best of my knowledge
+toiling, toiling for hours, toiling in the field
+told you dozen times
+tolerate, tolerant, tolerance
+ton of, tons of
+tone down, toned down
+too early to, too early to say, too early to celebrate
+too good to be true
+took a lot of bullets
+took advantage
+tools and techniques
+top notch
+topped the charts
+torchbearer, torchbearer of renewable energy innovation, Marie Curie was a torchbearer for women in science
+touch base
+touch on, touched on, touch upon, touching a little bit
+touch wood
+tough spot
+traction, gaining traction
+trade-off, trade-off between, trade-offs
+traditional, traditionally
+trait, traits, important trait for a teacher
+trajectory, downward trajectory, different trajectory
+transactional
+transform, transformed, transformation, transformational
+transparent, transparency
+transpire, transpires, transpired
+traverse, traversed, traversed all the key topics
+tremendous, tremendous challenges, tremendous effort, tremendous progress
+trend
+trial and error
+trickled down
+tricks of the trade
+tried and tested
+triumph, triumphs
+trivial
+trump card
+trumps
+trust me
+truth of the matter is
+trying everything possible, tried everything possible
+tug of war
+turbocharge
+turbulent, turbulence
+turn a blind eye, don't turn a blind eye
+turn around
+turn off, turned off, turns me off
+turn the tide, turned the tide, tides have turned
+turn things around
+turnaround
+turned the table, the tables have turned
+turned things around
+turning point
+two cents
+two hours to kill
+two sides of the same coin
+twofold, manyfold, multifold
+typical, typically
+ultimate, ultimately, ultimate goal, ultimate desire, ultimately it is up to the individual, they ultimately achieved their goal
+unbelievable
+uncommon
+unconditional, unconditional love
+uncover, uncovered
+undeniable
+under his wings
+under the hood, under the hood fixes
+under the radar, on my radar, wasn't even on my radar
+under the shadow of, under the shadow of last year’s floods
+under the umbrella of, under the umbrella of the parent company
+underdog, underdogs
+undergo, undergoing, underwent, undergone
+underlying
+undermine, undermining, undermined, undermine years of hard work, undermining the student's confidence, undermined by the constant layoffs
+underneath
+underpin, underpin his argument, underpins their new treatment approach
+underscores, underscores the need for caution, underscores the company’s commitment
+understandable, completely understandable, quite understandable
+understatement
+undertake, undertaking, undertook
+underway, preparations are underway, construction is underway
+unfazed, remained unfazed, stayed unfazed
+unfold, unfolds, unfolding, unfolded
+unfortunately
+unimportant
+unique, uniquely, uniquely positioned
+universal, universal language
+unknowns, too many unknowns, lot of unknowns, known unknowns
+unlikely, highly unlikely
+unlock, unlocked, unlock your potential
+unpack, unpack the results, unpack the potential risks 
+unreal, feels unreal
+unthinkable
+unveil, unveiled
+unwritten rule
+up against
+up the ante, ups the ante, upped the ante
+up until now, up until the end, up until last year
+upcoming, upcoming sale, upcoming vacation
+upfront, upfront about, pay him upfront
+uphill battle
+upper hand
+ups and downs
+upside, downside
+upskill, upskilling
+uptick, uptick in sales, uptick in trading volumes
+upwards, upward of
+urge, sudden urge, the urge, urging, urged
+urgency
+use this to your advantage, use your height to your advantage 
+usp
+vague, vaguely, vague answer, vaguely remember
+variance
+vast, vastly, vast majority, vast knowledge, differ vastly
+vehicle for, primary vehicle for
+venture into, venturing into
+verdict
+verge of, verge of collapse, verge of a recession
+vetted, vetted the facts, vetted its suppliers
+viable, financially viable, viable solution
+vibe, vibes, cool vibe, good vibe, positive vibes
+vicious circle
+viewpoint, point of view
+vigilant, stay vigilant
+vigorous, vigorously, vigorous run, exercised vigorously
+visualize, visualized
+vital, vital for your success, vital for our project
+vocal, vocal about, vocal in their demands
+voiced, voiced her concern, voiced its opposition
+void left, fill the void
+volunteer, volunteered
+vouch, vouch for her
+vulnerable, vulnerability, vulnerable to scams
+vying, vying for the contract, vying for opportunities, vying for the title
+wait and see how things evolve
+wait and watch
+wake-up call
+walking a tightrope
+wander, wandering, wandered
+wane, wanes, waned
+warrants, warranted
+wary, wary of the free vacation offer, wary of clicking on unknown links in emails, wary of the stranger who offered him a ride
+was in question
+waste of energy
+watch this space
+watchful, be watchful
+way back
+way forward
+we are after
+we saw it coming, we never saw it coming
+wear many hats
+weave a story, weave that story, weave that idea, weave that information
+weed out
+weighing my options
+weight on your shoulder, weight off my shoulders
+welcome with open arms
+we'll cross that bridge when we come to it
+well deserved, well deserved promotion, well deserved break
+well positioned
+well received, very well received
+well versed
+went an extra mile
+what do i mean by that
+what i am saying, all i am saying
+what if i told you
+what is in store
+what it takes
+what lies ahead
+what makes you think
+whatever you want to call it
+whatnot
+what's your take
+whatsoever
+where we stand
+whether you like it or not
+whine, whining, whining and complaining
+wholeheartedly
+wholesome
+whopping
+why not
+why on earth
+wild, wildly, wild guess
+will not get you very far
+will not go well
+wind up
+window of opportunity
+winning formula, winning theme
+wisdom
+wise, wisely, unwise
+with all due respect
+with his eyes closed, with our eyes closed
+with me so far, are you with me so far
+withheld, withhold
+without a question, without any question
+without much ado, without any further ado
+withstand
+witness, witnessing, witnessed
+wonderful
+word of caution
+worrisome
+worth the price, worth the time
+worthwhile
+worthy, worthy enough
+wouldn't be very different
+wouldn't it be great
+wow factor
+wow them, wows me
+wrap, wrap up
+wrestle, wrestling, wrestled
+x factor
+yardstick, customer satisfaction as a yardstick , yardstick for our business
+yes and no
+you are not alone
+you get the picture
+you heard that right, yes you heard that right, you heard me right
+you name it
+you won't believe
+you won't regret, you won't regret it
+your thoughts, your thoughts please
+zero in on, zeroed in on
+zoom out, zoom out a bit
+`;
+
+    const lines = text.split(/\r?\n/).filter(x => x.trim());
+
+    function shuffle(arr) {
+      for (let i = arr.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [arr[i], arr[j]] = [arr[j], arr[i]];
+      }
+      return arr;
+    }
+
+    const shuffled = shuffle([...lines]);
+    const lineDisplay = document.getElementById("line");
+    const lineNumberDisplay = document.getElementById("lineNumber");
+    const delayInput = document.getElementById("delayInput");
+
+    let index = 0;
+    let interval = null;
+
+    function getDelay() {
+      const val = parseInt(delayInput.value);
+      return isNaN(val) || val < 1 ? 10 : val;
+    }
+
+    function showLine() {
+      if (index >= 0 && index < shuffled.length) {
+        const line = shuffled[index];
+        lineDisplay.textContent = line;
+        lineNumberDisplay.textContent = `${index + 1}`;
+        document.title = line;
+      }
+    }
+
+    function start() {
+      if (!interval && index < shuffled.length) {
+        interval = setInterval(() => {
+          index++;
+          if (index < shuffled.length) {
+            showLine();
+          } else {
+            clearInterval(interval);
+            interval = null;
+          }
+        }, getDelay() * 1000);
+      }
+    }
+
+    delayInput.addEventListener("change", () => {
+      if (interval) {
+        clearInterval(interval);
+        interval = null;
+        start();
+      }
+    });
+
+    function prevLine() {
+      if (index > 0) {
+        index--;
+        showLine();
+      }
+    }
+
+    function nextLine() {
+      if (index < shuffled.length - 1) {
+        index++;
+        showLine();
+      }
+    }
+
+    document.addEventListener("keydown", e => {
+      if (e.code === "ArrowLeft" || e.code === "PageUp") prevLine();
+      else if (e.code === "ArrowRight" || e.code === "PageDown") nextLine();
+    });
+
+    // Touch: single tap = next line, long press (>500ms) = previous line
+    let touchStartTime = 0;
+    let touchTimer;
+
+    document.addEventListener("touchstart", e => {
+      touchStartTime = Date.now();
+      touchTimer = setTimeout(() => {
+        prevLine();
+        touchTimer = null; // Prevent single-tap firing
+      }, 500); // long press threshold
+    });
+
+    document.addEventListener("touchend", e => {
+      if (touchTimer) {
+        clearTimeout(touchTimer);
+        nextLine();
+      }
+    });
+
+    // Initial load
+    showLine();
+    start();
+  </script>
+</body>
+</html>
