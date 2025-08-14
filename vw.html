@@ -53,10 +53,10 @@
 
   <!-- Delay dropdown -->
   <select id="delayInput" title="Delay in seconds">
+    <option value="0" selected>0</option>
     <option value="2">2</option>
     <option value="6">6</option>
     <option value="8">8</option>
-    <option value="100000" selected>100000</option>
   </select>
 
   <script>
@@ -208,7 +208,6 @@ awkward, awkward silence, awkward eye contact, awkward pause
 axed, axed several jobs
 baby steps, take baby steps
 back burner, put that project on the back burner
-back on track
 back pocket, plan in his back pocket, few offers in my back pocket 
 back then, different back then
 back to square one
@@ -285,7 +284,7 @@ bigger pie, slice of the pie
 biggest bets, bet big, ai is one of our biggest bets, biggest bet was on self-driving cars
 bird's eye view, bird's-eye view of the new project
 bit odd
-bit off-track, conversation went a bit off-track
+bit off-track, back on track, conversation went a bit off-track, project is finally back on track
 bite the bullet, difficult bullet to bite, pep is a difficult bullet to bite
 bits and pieces, bits and pieces of information, bits and pieces of the story
 bittersweet, bittersweet moment
@@ -399,13 +398,13 @@ catalyst, catalyze, catalyzed, catalyst for change, will catalyze change in the 
 catastrophic, catastrophic consequences, losing data would be catastrophic
 catch-22, catch-22 situation
 cater to, caters, catering, cater to the needs of
-caught by surprise
-caught my attention, caught my eye
-caught off guard
-caveat
-cements, cemented
-center of attention
-central issue, central idea, central message, central question
+caught by surprise, I was caught by surprise, investors were caught by surprise, the question caught him by surprise
+caught my attention, caught my eye, the headline caught my attention, that red dress caught my eye
+caught off guard, the news caught her completely off guard,  i was caught off guard by the sudden announcement of the meeting
+caveat, the software is free to use but a major caveat is that it contains ads, the scientist presented her findings with the caveat that more research was needed to confirm her results
+cements, cemented, cements their position as leaders, cemented his position as a captain
+center of attention, the birthday girl was the center of attention
+central issue, central idea, central message, central question, he is the center of attention
 certain, certainly, uncertain, uncertainty, absolute certainty
 chain of thoughts
 chalk out
@@ -845,7 +844,7 @@ eyewash
 fabric of
 fabricate, fabricating, fabricated
 fabulous
-facade, cheerful façade, humor as a facade to mask her sadness
+facade, cheerful facade, humor as a facade to mask her sadness
 face saving
 face the music
 facets, facets of
@@ -2514,7 +2513,6 @@ the most important thing
 the next step, logical next step
 the point being
 the point is, my point is, the point i am trying to make is, the point i am trying to convey is
-the question is
 the question is, the big question is, the bigger question is, but the question is, the main question is, my only question is
 the question remains, but the question still remains
 the short answer is
@@ -2805,8 +2803,7 @@ zoom out, zoom out a bit
     let interval = null;
 
     function getDelay() {
-      const val = parseInt(delayInput.value);
-      return isNaN(val) || val < 1 ? 10 : val;
+      return parseInt(delayInput.value, 10); // always returns number
     }
 
     function showLine() {
@@ -2819,26 +2816,27 @@ zoom out, zoom out a bit
     }
 
     function start() {
-      if (!interval && index < shuffled.length) {
-        interval = setInterval(() => {
-          index++;
-          if (index < shuffled.length) {
-            showLine();
-          } else {
-            clearInterval(interval);
-            interval = null;
-          }
-        }, getDelay() * 1000);
-      }
-    }
+      const delay = getDelay();
 
-    delayInput.addEventListener("change", () => {
       if (interval) {
         clearInterval(interval);
         interval = null;
-        start();
       }
-    });
+
+      if (delay === 0) return; // 0 disables auto-rotation
+
+      interval = setInterval(() => {
+        index++;
+        if (index < shuffled.length) {
+          showLine();
+        } else {
+          clearInterval(interval);
+          interval = null;
+        }
+      }, delay * 1000);
+    }
+
+    delayInput.addEventListener("change", start);
 
     function prevLine() {
       if (index > 0) {
@@ -2877,4 +2875,3 @@ zoom out, zoom out a bit
   </script>
 </body>
 </html>
-
