@@ -1195,7 +1195,7 @@ i am curious
 i am glad
 i bet, i bet you
 i can’t wrap my mind around, I can’t wrap my head around the fact that my little brother is getting married, I can’t wrap my head around how big the universe is
-I cannot digest the fact that, i cannot digest the fact that my best friend betrayed me
+i cannot digest the fact that, i cannot digest the fact that my best friend betrayed me
 i didn't quite follow
 i fail to understand, i fail to see
 i guarantee, i can guarantee, i can 100 % guarantee
@@ -2859,22 +2859,15 @@ zoom out, zoom out a bit
       else if (e.code === "ArrowRight" || e.code === "PageDown") nextLine();
     });
 
-    // Touch: single tap = next line, long press (>500ms) = previous line
-    let touchStartTime = 0;
-    let touchTimer;
-
-    document.addEventListener("touchstart", e => {
-      touchStartTime = Date.now();
-      touchTimer = setTimeout(() => {
-        prevLine();
-        touchTimer = null; // Prevent single-tap firing
-      }, 500); // long press threshold
-    });
-
+    // Tap support: right half → next line, left half → previous line
     document.addEventListener("touchend", e => {
-      if (touchTimer) {
-        clearTimeout(touchTimer);
+      const touchX = e.changedTouches[0].clientX;
+      const screenWidth = window.innerWidth;
+
+      if (touchX > screenWidth / 2) {
         nextLine();
+      } else {
+        prevLine();
       }
     });
 
