@@ -16,16 +16,23 @@
       position: relative;
     }
 
-    #delayInput {
+    #delayInput, #letterFilter {
       position: absolute;
       bottom: 5px;
-      right: 20px;
       font-size: 14px;
       text-align: center;
       padding: 4px;
       width: 80px;
       height: 26px;
       border: none;
+    }
+
+    #delayInput {
+      right: 20px;
+    }
+
+    #letterFilter {
+      right: 110px; /* next to delay dropdown */
     }
 
     #lineWrapper {
@@ -50,6 +57,16 @@
 <body>
   <div id="lineWrapper"><span id="line"></span></div>
   <span id="lineNumber"></span>
+
+  <!-- Letter filter dropdown -->
+  <select id="letterFilter" title="Filter by letter">
+    <option value="-">-</option>
+    <script>
+      for (let i = 97; i <= 122; i++) { // ASCII a–z
+        document.write(`<option value="${String.fromCharCode(i)}">${String.fromCharCode(i)}</option>`);
+      }
+    </script>
+  </select>
 
   <!-- Delay dropdown -->
   <select id="delayInput" title="Delay in seconds">
@@ -2794,40 +2811,41 @@ zoom out, zoom out a bit
       return arr;
     }
 
-    const shuffled = shuffle([...lines]);
+    let filtered = shuffle([...lines]);
     const lineDisplay = document.getElementById("line");
     const lineNumberDisplay = document.getElementById("lineNumber");
     const delayInput = document.getElementById("delayInput");
+    const letterFilter = document.getElementById("letterFilter");
 
     let index = 0;
     let interval = null;
 
     function getDelay() {
-      return parseInt(delayInput.value, 10); // always returns number
+      return parseInt(delayInput.value, 10); // always number
     }
 
     function showLine() {
-      if (index >= 0 && index < shuffled.length) {
-        const line = shuffled[index];
+      if (index >= 0 && index < filtered.length) {
+        const line = filtered[index];
         lineDisplay.textContent = line;
-        lineNumberDisplay.textContent = `${index + 1}`;
+        lineNumberDisplay.textContent = `${index + 1}/${filtered.length}`;
         document.title = line;
+      } else {
+        lineDisplay.textContent = "";
+        lineNumberDisplay.textContent = `0/0`;
       }
     }
 
     function start() {
       const delay = getDelay();
-
       if (interval) {
         clearInterval(interval);
         interval = null;
       }
-
-      if (delay === 0) return; // 0 disables auto-rotation
-
+      if (delay === 0) return; // no auto-rotation
       interval = setInterval(() => {
         index++;
-        if (index < shuffled.length) {
+        if (index < filtered.length) {
           showLine();
         } else {
           clearInterval(interval);
@@ -2836,7 +2854,20 @@ zoom out, zoom out a bit
       }, delay * 1000);
     }
 
+    function applyFilter() {
+      const selectedLetter = letterFilter.value;
+      if (selectedLetter === "-") {
+        filtered = shuffle([...lines]);
+      } else {
+        filtered = shuffle(lines.filter(l => l[0].toLowerCase() === selectedLetter));
+      }
+      index = 0;
+      showLine();
+      start();
+    }
+
     delayInput.addEventListener("change", start);
+    letterFilter.addEventListener("change", applyFilter);
 
     function prevLine() {
       if (index > 0) {
@@ -2846,7 +2877,7 @@ zoom out, zoom out a bit
     }
 
     function nextLine() {
-      if (index < shuffled.length - 1) {
+      if (index < filtered.length - 1) {
         index++;
         showLine();
       }
@@ -2861,7 +2892,6 @@ zoom out, zoom out a bit
     document.addEventListener("touchend", e => {
       const touchX = e.changedTouches[0].clientX;
       const screenWidth = window.innerWidth;
-
       if (touchX > screenWidth / 2) {
         nextLine();
       } else {
