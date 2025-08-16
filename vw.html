@@ -26,19 +26,20 @@
       border: none;
     }
 
+    /* Adjusted order and spacing: Shuffle → Delay → Letter Filter */
+    #shuffleDropdown {
+      right: 20px;  /* first in order (rightmost) */
+      width: 60px;
+    }
+
     #delayInput {
-      right: 20px;
+      right: 100px; /* second in order */
       width: 80px;
     }
 
     #letterFilter {
-      right: 110px;
+      right: 190px; /* third in order (leftmost) */
       width: 80px;
-    }
-
-    #shuffleDropdown {
-      right: 200px;
-      width: 60px;
     }
 
     #lineWrapper {
@@ -64,14 +65,10 @@
   <div id="lineWrapper"><span id="line"></span></div>
   <span id="lineNumber"></span>
 
-  <!-- Letter filter dropdown -->
-  <select id="letterFilter" title="Filter by letter">
-    <option value="-">-</option>
-    <script>
-      for (let i = 97; i <= 122; i++) {
-        document.write(`<option value="${String.fromCharCode(i)}">${String.fromCharCode(i)}</option>`);
-      }
-    </script>
+  <!-- Shuffle dropdown -->
+  <select id="shuffleDropdown" title="Shuffle lines">
+    <option value="no" selected>No</option>
+    <option value="yes">Yes</option>
   </select>
 
   <!-- Delay dropdown -->
@@ -82,10 +79,14 @@
     <option value="9">9</option>
   </select>
 
-  <!-- Shuffle dropdown -->
-  <select id="shuffleDropdown" title="Shuffle lines">
-    <option value="no" selected>No</option>
-    <option value="yes">Yes</option>
+  <!-- Letter filter dropdown -->
+  <select id="letterFilter" title="Filter by letter">
+    <option value="-">-</option>
+    <script>
+      for (let i = 97; i <= 122; i++) {
+        document.write(`<option value="${String.fromCharCode(i)}">${String.fromCharCode(i)}</option>`);
+      }
+    </script>
   </select>
 
   <script>
@@ -778,6 +779,7 @@ eclipse, eclipsed
 ecosystem
 ecstatic
 edge of the seat
+edge, has an edge, gave an edge, competaive edge
 effective, effectively
 either way
 elaborate
@@ -1119,17 +1121,14 @@ hard stop, hard stop at
 hard time
 hard to believe
 hard to digest
-hard work paid off, risky bet paid off
 hardball, play hardball
 hardly any
 hardship, hardships
 hardwired
 harness, harnessing
-harp, harping
 harsh, harshly, harsh reality, harsh punishment, spoke harshly
 harvest
 has all the ingredients
-has an edge, gave an edge
 hash out
 hassle, hassles
 hasty
@@ -1402,7 +1401,6 @@ key attribute, key element
 key ingredient, key ingredients
 key question is
 key role
-key takeaways
 key that unlocks
 key to success, key to happiness
 kick in, kicks in, reforms will kick in, discount kicks in 
@@ -1542,7 +1540,6 @@ materialize, didn't materialize
 matter of concern
 matter of time, only a matter of time, just a matter of time
 maximize
-meaningful
 meaningful, meaningful results, meaningful impact
 means a lot to me
 meddle
@@ -1628,15 +1625,15 @@ near-final, near-final version, near-final design
 neck deep, neck deep in work, the student was neck deep in his studies and he didn't have time for anything else
 need of the hour, food is the need of the hour, medicine is the need of the hour
 needle in a haystack
-needless to say
-needs no introduction
+needless to say, needless to say it was a team effort, needless to say, no one was happy
+needs no introduction, the Eiffel Tower needs no introduction 
 negate
 negligible
 never disappoints us
 never fails to surprise us
 never imagined even in my wildest dreams
 never-ending battle, never-ending tale
-nevermind
+nevermind, I spilled my coffee nevermind I'll just get another cup, Nevermind about the mess I'll clean it up
 nevertheless, nonetheless
 new kid on the block
 next big thing
@@ -1827,6 +1824,7 @@ overstep
 overtime
 overwhelming, overwhelmed, overwhelmingly, underwhelming, underwhelmed
 owe
+paid off, hard work paid off, risky bet paid off
 pain in the neck
 pain point, pain points
 paint a rosy picture, painted her in bad light, paint this scenario
@@ -2398,7 +2396,7 @@ straightforward
 strangely
 strategy, strategic, strategic move, strategic marketing plan
 streamline, streamlined
-strengthens
+strengthen, strengthens
 stringent
 strip
 strive, strives, striving
@@ -2473,6 +2471,7 @@ take it one step further, go one step further, go a step further, take it a litt
 take the cake
 take them into confidence
 take you for a ride, taken for a ride
+takeaway, takeaways, main takeaway, key takeaways
 take-home message
 taking me for granted, take it for granted, don't take it for granted
 talk of the town
