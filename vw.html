@@ -16,32 +16,6 @@
       position: relative;
     }
 
-    #delayInput, #letterFilter, #shuffleDropdown {
-      position: absolute;
-      bottom: 5px;
-      font-size: 14px;
-      text-align: center;
-      padding: 4px;
-      height: 26px;
-      border: none;
-    }
-
-    /* Adjusted order and spacing: Shuffle → Delay → Letter Filter */
-    #shuffleDropdown {
-      right: 20px;  /* first in order (rightmost) */
-      width: 60px;
-    }
-
-    #delayInput {
-      right: 100px; /* second in order */
-      width: 80px;
-    }
-
-    #letterFilter {
-      right: 190px; /* third in order (leftmost) */
-      width: 80px;
-    }
-
     #lineWrapper {
       display: flex;
       align-items: center;
@@ -53,41 +27,69 @@
       transform: translate(-50%, -50%);
     }
 
-    #lineNumber {
-      font-size: 12px;
+    /* Bottom bar container */
+    #bottomBar {
       position: absolute;
       bottom: 5px;
-      left: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      display: flex;
+      align-items: center;
+      gap: 20px; /* spacing between items */
+      font-size: 14px;
+    }
+
+    /* Line number as inline-block to align with dropdowns */
+    #lineNumber {
+      display: inline-block;
+      height: 26px;
+      line-height: 26px; /* vertically centers text */
+      text-align: center;
+      font-size: 14px;
+      width: 80px;
+    }
+
+    /* Dropdowns */
+    #letterFilter, #delayInput, #shuffleDropdown {
+      height: 26px;
+      padding: 4px;
+      border: none;
+      text-align: center;
+      font-size: 14px;
+      width: 80px;
     }
   </style>
 </head>
 <body>
   <div id="lineWrapper"><span id="line"></span></div>
-  <span id="lineNumber"></span>
 
-  <!-- Shuffle dropdown -->
-  <select id="shuffleDropdown" title="Shuffle lines">
-    <option value="no" selected>No</option>
-    <option value="yes">Yes</option>
-  </select>
+  <!-- Bottom bar with all controls -->
+  <div id="bottomBar">
+    <span id="lineNumber"></span>
+    <!-- Letter filter dropdown -->
+    <select id="letterFilter" title="Filter by letter">
+      <option value="-">-</option>
+      <script>
+        for (let i = 97; i <= 122; i++) {
+          document.write(`<option value="${String.fromCharCode(i)}">${String.fromCharCode(i)}</option>`);
+        }
+      </script>
+    </select>
 
-  <!-- Delay dropdown -->
-  <select id="delayInput" title="Delay in seconds">
-    <option value="0" selected>0</option>
-    <option value="2">2</option>
-    <option value="6">6</option>
-    <option value="9">9</option>
-  </select>
+    <!-- Delay dropdown -->
+    <select id="delayInput" title="Delay in seconds">
+      <option value="0" selected>0</option>
+      <option value="2">2</option>
+      <option value="6">6</option>
+      <option value="9">9</option>
+    </select>
 
-  <!-- Letter filter dropdown -->
-  <select id="letterFilter" title="Filter by letter">
-    <option value="-">-</option>
-    <script>
-      for (let i = 97; i <= 122; i++) {
-        document.write(`<option value="${String.fromCharCode(i)}">${String.fromCharCode(i)}</option>`);
-      }
-    </script>
-  </select>
+    <!-- Shuffle dropdown -->
+    <select id="shuffleDropdown" title="Shuffle lines">
+      <option value="no" selected>No</option>
+      <option value="yes">Yes</option>
+    </select>
+  </div>
 
   <script>
     const text = `
