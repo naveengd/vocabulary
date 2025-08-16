@@ -16,23 +16,28 @@
       position: relative;
     }
 
-    #delayInput, #letterFilter {
+    #delayInput, #letterFilter, #shuffleDropdown {
       position: absolute;
       bottom: 5px;
       font-size: 14px;
       text-align: center;
       padding: 4px;
-      width: 80px;
       height: 26px;
-      border: none;
     }
 
     #delayInput {
       right: 20px;
+      width: 80px;
     }
 
     #letterFilter {
-      right: 110px; /* next to delay dropdown */
+      right: 110px;
+      width: 80px;
+    }
+
+    #shuffleDropdown {
+      right: 200px;
+      width: 60px;
     }
 
     #lineWrapper {
@@ -62,7 +67,7 @@
   <select id="letterFilter" title="Filter by letter">
     <option value="-">-</option>
     <script>
-      for (let i = 97; i <= 122; i++) { // ASCII a–z
+      for (let i = 97; i <= 122; i++) {
         document.write(`<option value="${String.fromCharCode(i)}">${String.fromCharCode(i)}</option>`);
       }
     </script>
@@ -74,6 +79,12 @@
     <option value="2">2</option>
     <option value="6">6</option>
     <option value="9">9</option>
+  </select>
+
+  <!-- Shuffle dropdown -->
+  <select id="shuffleDropdown" title="Shuffle lines">
+    <option value="no" selected>No</option>
+    <option value="yes">Yes</option>
   </select>
 
   <script>
@@ -2787,17 +2798,22 @@ zoom out, zoom out a bit
       return arr;
     }
 
-    let filtered = shuffle([...lines]);
+    let filtered = [...lines];
     const lineDisplay = document.getElementById("line");
     const lineNumberDisplay = document.getElementById("lineNumber");
     const delayInput = document.getElementById("delayInput");
     const letterFilter = document.getElementById("letterFilter");
+    const shuffleDropdown = document.getElementById("shuffleDropdown");
 
     let index = 0;
     let interval = null;
 
     function getDelay() {
-      return parseInt(delayInput.value, 10); // always number
+      return parseInt(delayInput.value, 10);
+    }
+
+    function isShuffleEnabled() {
+      return shuffleDropdown.value === "yes";
     }
 
     function showLine() {
@@ -2818,7 +2834,7 @@ zoom out, zoom out a bit
         clearInterval(interval);
         interval = null;
       }
-      if (delay === 0) return; // no auto-rotation
+      if (delay === 0) return;
       interval = setInterval(() => {
         index++;
         if (index < filtered.length) {
@@ -2832,11 +2848,8 @@ zoom out, zoom out a bit
 
     function applyFilter() {
       const selectedLetter = letterFilter.value;
-      if (selectedLetter === "-") {
-        filtered = shuffle([...lines]);
-      } else {
-        filtered = shuffle(lines.filter(l => l[0].toLowerCase() === selectedLetter));
-      }
+      let newFiltered = selectedLetter === "-" ? [...lines] : lines.filter(l => l[0].toLowerCase() === selectedLetter);
+      filtered = isShuffleEnabled() ? shuffle(newFiltered) : newFiltered;
       index = 0;
       showLine();
       start();
@@ -2844,6 +2857,7 @@ zoom out, zoom out a bit
 
     delayInput.addEventListener("change", start);
     letterFilter.addEventListener("change", applyFilter);
+    shuffleDropdown.addEventListener("change", applyFilter);
 
     function prevLine() {
       if (index > 0) {
@@ -2864,25 +2878,15 @@ zoom out, zoom out a bit
       else if (e.code === "ArrowRight" || e.code === "PageDown") nextLine();
     });
 
-    // Tap support: right half → next line, left half → previous line
     document.addEventListener("touchend", e => {
       const touchX = e.changedTouches[0].clientX;
       const screenWidth = window.innerWidth;
-      if (touchX > screenWidth / 2) {
-        nextLine();
-      } else {
-        prevLine();
-      }
+      if (touchX > screenWidth / 2) nextLine();
+      else prevLine();
     });
 
     // Initial load
-    showLine();
-    start();
+    applyFilter();
   </script>
 </body>
 </html>
-
-
-
-
-
