@@ -17,7 +17,7 @@
 
     #lineWrapper {
       position: absolute;
-      top: 200px;   /* 200px from the top */
+      top: 75px;
       left: 50%;
       transform: translateX(-50%);
       display: flex;
@@ -214,12 +214,12 @@ a truckload of:She came back from vacation with a truckload of work waiting for 
       else if (e.code === "ArrowRight" || e.code === "PageDown") nextLine();
     });
 
-    // ✅ Updated touchend handler with 10% inactive margins
+    // ✅ Updated touchend handler with 20% inactive margins
     document.addEventListener("touchend", e => {
       const touchX = e.changedTouches[0].clientX;
       const screenWidth = window.innerWidth;
-      const leftBoundary = screenWidth * 0.10;
-      const rightBoundary = screenWidth * 0.90;
+      const leftBoundary = screenWidth * 0.20;
+      const rightBoundary = screenWidth * 0.80;
       const midPoint = screenWidth * 0.50;
 
       if (touchX < leftBoundary || touchX > rightBoundary) {
@@ -238,3 +238,4 @@ a truckload of:She came back from vacation with a truckload of work waiting for 
   </script>
 </body>
 </html>
+
