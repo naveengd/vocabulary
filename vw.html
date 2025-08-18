@@ -2911,12 +2911,12 @@ zoom out:Can you zoom out a bit so I can see the whole picture?. Let's zoom out 
       else if (e.code === "ArrowRight" || e.code === "PageDown") nextLine();
     });
 
-    // ✅ Updated touchend handler with 15% inactive margins
+    // ✅ Updated touchend handler with 10% inactive margins
     document.addEventListener("touchend", e => {
       const touchX = e.changedTouches[0].clientX;
       const screenWidth = window.innerWidth;
-      const leftBoundary = screenWidth * 0.15;
-      const rightBoundary = screenWidth * 0.85;
+      const leftBoundary = screenWidth * 0.10;
+      const rightBoundary = screenWidth * 0.90;
       const midPoint = screenWidth * 0.50;
 
       if (touchX < leftBoundary || touchX > rightBoundary) {
