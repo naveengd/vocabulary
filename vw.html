@@ -17,13 +17,15 @@
 
     #lineWrapper {
       position: absolute;
-      top: 75px;
+      top: 0;
       left: 50%;
       transform: translateX(-50%);
       display: flex;
       flex-direction: column;
+      justify-content: center;   /* ✅ vertical centering */
       align-items: center;
       width: 90%;
+      height: 100%;              /* ✅ take full height */
     }
 
     #line {
@@ -2894,4 +2896,5 @@ zoom out, zoom out a bit
   </script>
 </body>
 </html>
+
 
