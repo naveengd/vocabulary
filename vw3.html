@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vocabulary Words</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #ffffff;
+            color: #000000;
+            padding-top: 60px; /* Space for fixed filter bar */
+            display: flex;
+        }
+        #filterBar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            background-color: #ffffff;
+            border-bottom: 1px solid #ccc;
+            padding: 10px 0;
+            text-align: center;
+            z-index: 1000;
+        }
+        #wordCount {
+            margin-right: 15px;
+        }
+        .filter-letter {
+            display: inline-block;
+            margin: 0 5px;
+            padding: 5px 10px;
+            border: 1px solid #eee;
+            border-radius: 4px;
+            cursor: pointer;
+            color: #000000;
+            text-transform: lowercase;
+        }
+        .filter-letter.active {
+            background-color: gray;
+            color: #ffffff;
+        }
+        #wordListContainer, #exampleContainer {
+            padding: 20px;
+            box-sizing: border-box;
+            height: 100vh;
+            overflow-y: auto;
+        }
+        #wordListContainer {
+            width: 50%;
+            border-right: 1px solid #ccc;
+        }
+        #wordList {
+            list-style-type: none;
+            padding: 0;
+        }
+        .word-item {
+            font-weight: 500;
+            font-size: 1.2em;
+            margin-top: 20px;
+            color: #333333;
+            cursor: pointer;
+        }
+        .word-number {
+            font-size: 0.5em;
+            color: gray;
+            margin-left: 8px;
+        }
+        #exampleContainer {
+            width: 70%;
+        }
+		#exampleList {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+        .example-item {
+            margin-top: 30px;
+            font-size: 1.2em;
+            color: #888888;
+        }
+    </style>
+</head>
+<body>
+    <div id="filterBar">
+        <span id="wordCount">0</span>
+    </div>
+    <div id="wordListContainer">
+        <ul id="wordList"></ul>
+    </div>
+    <div id="exampleContainer">
+        <ul id="exampleList"></ul>
+    </div>
+
+    <script>
+        const filterBar = document.getElementById('filterBar');
+        const wordListElement = document.getElementById('wordList');
+        const wordCountElem = document.getElementById('wordCount');
+        const exampleList = document.getElementById('exampleList');
+        let allWords = []; // Store all words and examples
+
+        // Create filter letters a-z
+        for(let i = 97; i <= 122; i++) {
+            const letter = String.fromCharCode(i);
+            const letterElem = document.createElement('span');
+            letterElem.textContent = letter;
+            letterElem.classList.add('filter-letter');
+            letterElem.addEventListener('click', () => filterWords(letter, letterElem));
+            filterBar.appendChild(letterElem);
+        }
+
+        // Fetch words from GitHub
+        fetch('https://naveengd.github.io/vocabulary/words.txt')
+            .then(response => response.text())
+            .then(data => {
+                const lines = data.split('\n');
+                lines.forEach(line => {
+                    const parts = line.split('.').map(p => p.trim()).filter(p => p !== '');
+                    if(parts.length === 0) return;
+
+                    allWords.push({
+                        word: parts[0],
+                        examples: parts.slice(1)
+                    });
+                });
+
+                displayWords(allWords);
+            })
+            .catch(error => {
+                console.error('Error fetching the words:', error);
+                wordListElement.innerHTML = '<li>Failed to load words. Please try again later.</li>';
+            });
+
+        function displayWords(wordsToDisplay) {
+            wordListElement.innerHTML = '';
+            wordCountElem.textContent = `${wordsToDisplay.length}`;
+
+            wordsToDisplay.forEach((item, index) => {
+                const wordItem = document.createElement('li');
+                wordItem.classList.add('word-item');
+
+                const wordText = document.createElement('span');
+                wordText.textContent = item.word;
+
+                const numberSpan = document.createElement('span');
+                numberSpan.textContent = ` ${index + 1}`;
+                numberSpan.classList.add('word-number');
+
+                wordItem.appendChild(wordText);
+                wordItem.appendChild(numberSpan);
+
+                wordItem.addEventListener('click', () => {
+                    showExamples(item.examples);
+                });
+
+                wordListElement.appendChild(wordItem);
+            });
+        }
+
+        function showExamples(examples) {
+            exampleList.innerHTML = '';
+            examples.forEach(example => {
+                const exampleItem = document.createElement('li');
+                exampleItem.textContent = example;
+                exampleItem.classList.add('example-item');
+                exampleList.appendChild(exampleItem);
+            });
+        }
+
+        function filterWords(letter, clickedElem) {
+            document.querySelectorAll('.filter-letter').forEach(elem => elem.classList.remove('active'));
+            clickedElem.classList.add('active');
+
+            const filtered = allWords.filter(item => item.word.toLowerCase().startsWith(letter));
+            displayWords(filtered);
+
+            exampleList.innerHTML = ''; // Clear examples when filtering
+
+            // Scroll the word list container to top
+            document.getElementById('wordListContainer').scrollTop = 0;
+        }
+    </script>
+</body>
+</html>
