@@ -35,6 +35,13 @@
         text-transform: lowercase;
     }
     .filter-letter.active { background-color: gray; color: #fff; }
+    #toggleExamples {
+        padding: 5px 12px;
+        border: 1px solid #eee;
+        border-radius: 4px;
+        cursor: pointer;
+        background-color: #f8f8f8;
+    }
     #wordList { list-style-type: none; padding: 0 20px; }
     .word-item {
         font-weight: 500;
@@ -54,13 +61,18 @@
 </style>
 </head>
 <body>
-<div id="filterBar"><span id="wordCount">0</span></div>
+<div id="filterBar">
+    <span id="wordCount">0</span>
+    <button id="toggleExamples">Show</button>
+</div>
 <ul id="wordList"></ul>
 <script>
 const filterBar = document.getElementById('filterBar');
 const wordListElement = document.getElementById('wordList');
 const wordCountElem = document.getElementById('wordCount');
+const toggleBtn = document.getElementById('toggleExamples');
 let allWords = [];
+let examplesVisible = false; // default hidden
 
 // Create filter letters a-z
 for(let i = 97; i <= 122; i++) {
@@ -112,19 +124,34 @@ function displayWords(wordsToDisplay) {
             const exampleItem = document.createElement('li');
             exampleItem.textContent = example;
             exampleItem.classList.add('example-item');
-            exampleItem.style.display = 'none'; // Ensure hidden
+
+            // 👇 Respect global toggle state
+            exampleItem.style.display = examplesVisible ? 'list-item' : 'none';
+
             wordListElement.appendChild(exampleItem);
             exampleItems.push(exampleItem);
         });
 
-        // Toggle on click
+        // Toggle individual word examples
         wordItem.addEventListener('click', () => {
             exampleItems.forEach(ex => {
                 ex.style.display = ex.style.display === 'none' ? 'list-item' : 'none';
             });
         });
     });
+
+    // Keep toggle button label in sync
+    toggleBtn.textContent = examplesVisible ? 'Hide' : 'Show';
 }
+
+// Global toggle for all examples
+toggleBtn.addEventListener('click', () => {
+    examplesVisible = !examplesVisible;
+    document.querySelectorAll('.example-item').forEach(ex => {
+        ex.style.display = examplesVisible ? 'list-item' : 'none';
+    });
+    toggleBtn.textContent = examplesVisible ? 'Hide' : 'Show';
+});
 
 function filterWords(letter, clickedElem) {
     document.querySelectorAll('.filter-letter').forEach(elem => elem.classList.remove('active'));
