@@ -158,6 +158,9 @@
             // Filter words starting with selected letter
             const filtered = allWords.filter(item => item.word.toLowerCase().startsWith(letter));
             displayWords(filtered);
+
+            // Scroll to top after filtering
+            window.scrollTo({ top: 0, behavior: 'smooth' });
         }
     </script>
 </body>
