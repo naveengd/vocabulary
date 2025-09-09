@@ -152,7 +152,6 @@ backfired. The CEO's plan to cut costs backfired. The company's new policy backf
 back-of-the-envelope. A back-of-the-envelope figure showed the profits would double. The back-of-the-envelope math suggested it was feasible. I did a back-of-the-envelope calculation and figured the trip will cost around ₹50,000
 backtrack. The company had to backtrack on its controversial decision. I don’t want to backtrack, but we need to correct our mistake
 bad part but the good part. The bad part about the job was the long hours, but the good part was the great pay
-bad to worse. His financial situation went from bad to worse after he lost his job. The traffic situation went from bad to worse during the rush hour
 baffle. The complex puzzle continued to baffle the students. The magician's trick baffles the audience. I found what he was saying completely baffling. The mechanic was baffled by the unusual engine noise. The sudden change in his behavior left me baffled.
 baggage. Popularity in social media comes with its own baggage. Dating someone with a history of addiction comes with a heavy baggage. Divorce can be a very difficult experience, and it often comes with a heavy baggage
 bake in. We have to bake in the cost of shipping when we calculate the final price. We have to bake in the inflation rate when we make investment decisions. Quality control measures are baked into every stage of production. The annual bonus structure is baked into the employee compensation plan
@@ -517,8 +516,8 @@ daydream. I often daydream about winning the lottery. His daydreams of being a f
 de facto. English is de facto the common language of much of the world today. Jeans are the de facto casual wear in most workplaces. English is the de facto language of the internet
 dead end. This career path feels like a dead end. We reached a dead end in the investigation. It's a dead end job with no opportunities
 dead wrong, dead serious. I was dead wrong. She insisted the Earth was flat, but she was dead wrong. I’m dead serious about quitting my job. Don’t laugh, I’m dead serious
-deal. We need to deal with this issue quickly. The manager is dealing with a customer complaint. He dealt with the problem calmly. I dealt with the situation as best as I could
 deal breaker. The house is perfect, but the price is a deal breaker. The job is great, but the commute is a deal breaker. We liked their work, but the rates they were asking for were a deal breaker for us
+deal. We need to deal with this issue quickly. The manager is dealing with a customer complaint. He dealt with the problem calmly. I dealt with the situation as best as I could
 debrief. We'll debrief the sales team on their performance this quarter. The team held a debriefing meeting to discuss the results of the project. After the game, the coach debriefed the players on their mistakes
 debunk. Let's debunk this internet meme with some actual facts. Don't believe everything you read online; try to debunk it first. The article debunks the notion that life exists on Mars. Scientists debunked the myth of a flat Earth. The debater skillfully debunked her opponent's arguments one by one
 deciding factor. The deciding factor in my decision to buy a new car was the price. The deciding factor in the company's decision to close the factory was the declining sales
@@ -933,7 +932,6 @@ glitch. Don't worry, the error message was probably just a minor glitch. The sto
 glorify. The poet's words glorify the beauty of nature. The movie tends to glorify violence and revenge. He is no more than a glorified accountant. He glorified his old car as if it were new
 glued. He is glued to TV. The students were glued to their textbooks, studying for the exam
 go a long way. This donation will go a long way in helping the flood victims. His investment will go a long way in helping our company grow. A little kindness can go a long way in building trust
-go all out. We will go all out to win the match. We’ll go all out to meet the deadline
 go back to the drawing board. We must go back to the drawing board and review the planning. The company went back to the drawing board to make a better product
 go down the drain. If we don’t manage our budget wisely, all our savings will go down the drain. All our hard work went down the drain when the project failed. The effort she put into studying went down the drain after she got sick
 go for a toss. If you keep skipping meals, your health will go for a toss. All our plans went for a toss because of the sudden rain. Her diet has gone for a toss because of frequent travel
@@ -950,7 +948,7 @@ golden period, dark period, honeymoon period. The 1960s were considered a golden
 golden rule. The golden rule in sales is to know your customer. The golden rule when creating your design is - keep it simple
 golden ticket. The athlete's record-breaking performance was a golden ticket to the Olympics. The writer's book was a golden ticket to fame and fortune
 gone are the days. Gone are the days of carrying cash, digital wallets are all you need. Gone are the days of handwritten letters, emails are the norm now
-good books. He's trying to get in his boss's good books by offering to work overtime
+good books. He’s trying to stay in his boss’s good books by working extra hours. If you want to stay in the principal’s good books, don’t skip classe
 good call. You brought an umbrella today? Good call – it’s raining now. Deciding to leave early was a good call; the traffic is terrible
 good fit, right fit. I am confident that I can be a good fit for your team, if I am given the chance. This car was the right fit for our needs
 good grip. I need to get a good grip on my finances before I can start saving for a house. She needs to get a good grip on her emotions before she can start dating again
@@ -960,7 +958,7 @@ good or bad. We need to accept feedback, good or bad. He told me the news, good 
 good sign. The clear skies are a good sign for our picnic today. The doctor said the test results were a good sign of recovery
 good starting point. This list isn’t exhaustive, but it’s a good starting point for parents who wish to raise successful children. These proposals represent a good starting point for negotiation
 good to go. I've got my shoes and I'm good to go
-good to great. The CEO's leadership helped the company make the leap from good to great. The team's performance went from good to great after they implemented a new training program
+good to great, bad to worse. The CEO's leadership helped the company make the leap from good to great. The team's performance went from good to great after they implemented a new training program. His financial situation went from bad to worse after he lost his job. The traffic situation went from bad to worse during the rush hour
 good to know. Good to know this recipe is vegetarian; I can offer it to everyone. Good to know the deadline has been extended - I need more time. That's good to know!
 gosh. Gosh, that was a close call. Gosh, I forgot my keys again
 got carried away, should not be carried away, not to get carried away. I shouldn't have behaved like that; I just got carried away. We should not be carried away by our success. The manager warned his young players not to get carried away by the emotion of the occasion
@@ -977,7 +975,6 @@ gravitate. Boys gravitate towards girls at that age. People are gravitating towa
 gravity of the situation. I don't think you understand the gravity of the situation. Lost in the mountains, they finally grasped the gravity of their mistake
 great equation with. Sarah's great equation with her boss made project discussions a breeze. Her positive attitude helped her develop a great equation with her boss
 great problem to have, good problem to have. We have too many customers placing orders this week; It’s a great problem to have. Our biggest issue is hiring enough staff to handle our rapid growth – a great problem to have. We have too many clients requesting meetings this week – that’s a good problem to have. We didn’t expect such high demand for our software – it’s a good problem to have
-great step forward, major step forward. The new policy is a great step forward for our company. Building the new hospital is a great step forward for the community. That is a great step forward for our country. The new drug is a major step forward in the treatment of the disease
 greatful. I am grateful for your help. I’m grateful for the advice you gave me
 greed, greedy. The company's greed for profit led to them cutting corners on safety. He overcame his greed and learned the value of sharing. Don't be greedy, there's enough cake for everyone
 greek to me. He tried to explain the rules of the game to me, but it was all Greek to me
@@ -1069,7 +1066,6 @@ hinder, hindrance. Self-doubt can hinder your ability to achieve your goals. A f
 hindsight, in hindsight. In hindsight, I should have studied harder for that test. In hindsight, it was a mistake to invest in that company
 hinges on. The success of the project hinges on our ability to secure funding. The future of the company hinges on our ability to innovate. The success of this project hinges on timely approvals from the client.
 historically. Historically, diamonds were used for tools before they were jewelry. This area was historically home to many different tribes
-hit a snag, hit a roadblock, hit a wall. Negotiations hit a snag on the price point. Their road trip was going great until they hit a snag - a flat tire in the middle of nowhere. The project hit a roadblock because of legal issues that we cannot resolve right now. Their business expansion hit a wall due to funding issues
 hit that reset button. So, let's hit that reset button this summer, look at ourselves honestly and come back next season ready to sort it out
 hold your horses. hold your horses
 holding me back, holding you back. My perfectionism is holding me back from finishing my creative projects. My past experiences are holding me back from trusting new people. Your fear of failure is holding you back from taking risks. Your lack of confidence is holding you back from taking action
@@ -1275,6 +1271,7 @@ just a tick in the box. Getting a promotion is more than just a tick in the box;
 just a tip of the iceberg. Everything you know about the author's life is just the tip of the iceberg. These stories were only the tip of the iceberg
 just out of curiosity. Just out of curiosity, why did you take that job?. I just wanted to know, out of curiosity, why you did that?
 just to build on that. Just to build on that point, historical data suggests this trend might continue
+just want to layer onto. I just want to layer onto that by saying that I agree with everything you've said. I just want to layer onto your story by saying that I had a similar experience
 justify, justification. How do you justify spending so much money?. The cost of the treatment justifies the improvement in her health. The data justifies our decision to proceed. The company needed a solid justification for the price increase. Can you provide a justification for your decision?
 keen. She's keen on playing tennis. I wanted to go skydiving, but my husband's not too keen on it. I’m not too keen on going to the party tonight
 keep an eye on, keep a close eye on, keep a close watch on. Keep an eye on lifestyle inflation. The doctor told the patient to keep a close eye on their blood sugar levels. The government is keeping a close eye on the economy. We keep a close watch on the development of the financial market
@@ -1310,25 +1307,24 @@ last leg. The visit will be the last leg of their Olympic tour. The last leg of 
 last resort. Asking for more time should be our last resort. We tried everything else, but bankruptcy was our last resort
 lasting. We aim to create lasting partnerships with our clients. Our goal is to build a lasting brand presence in the market. The meeting with the CEO left a lasting impression on me
 latched on to. He latched onto music to relax. The news media latched on to the scandal and wouldn't let go
-late to the party. I know I'm late to the party, but I've finally started watching Game of Thrones. The company arrived late to the party in coming up with its own range of phone accessories
+late to the party. I know I'm late to the party, but I've finally started watching Game of Thrones. You’re late to the party; the decision was made weeks ago. The company arrived late to the party in coming up with its own range of phone accessories
 laundry list. We also came up with a laundry list of key issues that had always been there but never put on the table. He presented a laundry list of features for the new phone. The interview was a laundry list of the usual questions
 lay out, lay down. Let's lay out a plan for tackling this project. The teacher laid out the rules clearly. They laid out a plan for the project. The rules for the competition were laid down by the organizers. The engineer laid down the plans for the new building
-layer onto. I just want to layer onto that by saying that I agree with everything you've said. I just want to layer onto your story by saying that I had a similar experience
 leading causes. The leading causes of budget overruns are unexpected costs and misestimated expenses. The leading causes of reduced productivity in the office are interruptions and unclear goals
-lean. December will be a lean period for us. The company's lean budget forced them to make some tough decisions
 lean on, leaning towards. The company was forced to lean on its employees to work overtime to meet the deadline. I'm so glad I have my friends to lean on during this tough time. Despite his technical background, he has a leaning towards management roles
+lean. December will be a lean period for us. The company's lean budget forced them to make some tough decisions
 leap, big leap, gaint leap. Don't be afraid to take a leap and try something new. It was a big leap to switch careers at her age. Sales figures took a giant leap this quarter. He took a leap of faith and quit his job
 learnt their lesson the hard way. NASA was rushing things due to their deadlines and tight budget, but they learned their lesson the hard way. Rushing his project, he learned the hard way about the importance of time management
 leave no stone unturned. He said he will leave no stone unturned to prove her innocence. The doctor said he will leave no stone unturned to find a cure for his illness
-leave the door open. The company left the door open for further negotiations. This will's terms leave the door open for fighting among the heirs
+leave the door open. This will's terms leave the door open for fighting among the heirs. The company left the door open for further negotiations
 leeway. The government does not have much leeway in foreign policy. The boss gave his employees some leeway on their start times, so they could come in and leave work as needed. The tight deadline gave them little leeway for unexpected delays
 left behind. He felt left behind when all his friends got promotions. Technology is moving so fast that many elderly people feel left behind
 legacy. The company is known for its strong legacy of innovation. She wants to leave a positive legacy for her children. The film director’s legacy is celebrated with annual awards
 legend, legendary. She is a living legend in the world of science. The legendary musician performed a concert last night. The legendary movie won several awards
 legit, legitimate. Don't worry, that coupon code is totally legit. I found a legit way to earn some extra cash online. The company's shareholders have expressed legitimate concerns about the company's financial health. The teacher addressed the students' legitimate concerns about the upcoming test
-legwork. He has a team of volunteers who do most of the legwork for him
+legwork. He has a team of volunteers who do most of the legwork for him. She did all the legwork for the project, collecting data and arranging the meetings.
 lenient. The teacher was quite lenient with late homework this time. My parents are usually strict, but they were lenient on my birthday
-lens of, different lens, same lens. Look at this problem through different lens. You can find a solution. Through the lens of science, we can understand the world around us. Through the lens of culture, we can learn about different ways of life. We shouldn’t look at every problem through the same lens
+lens of, different lens, same lens. Look at this problem through different lens; You can find a solution. Through the lens of science, we can understand the world around us. Through the lens of culture, we can learn about different ways of life. We shouldn’t look at every problem through the same lens
 less said the better. About his cooking skills—the less said, the better. The referee’s decisions in that game—the less said, the better. My dancing at the wedding—the less said, the better
 let down. We were let down by the supplier’s late delivery. Our clients were let down by the quality of the final product. I was let down by the lack of support from management
 let me put it this way. I don’t enjoy spicy food; Let me put it this way—even mild salsa is too hot for me. He’s not the friendliest neighbor; Let me put it this way—we’ve never spoken in five years
@@ -1357,14 +1353,14 @@ like to spend the next 10 minutes or so. I would like to spend the next 10 minut
 like to sum up by saying. I would just like to sum up by saying that it's been a tremendous pleasure to work with you
 likelihood, in all likelihood. There is very little likelihood of that happening. There’s a high likelihood of rain this evening, so carry an umbrella. Given his experience, the likelihood of him winning the race is high. Studying more will increase the likelihood of success on your exam. In all likelihood, the project will be completed ahead of schedule. In all likelihood, she will be promoted after this performance review
 likes of. The company is competing against the likes of Apple and Google. The company is competing against the likes of industry giants like Amazon and Walmart
-likewise. He enjoys reading historical fiction; Likewise, she prefers biographies. Wear a jacket, it's chilly outside; Likewise, bring an umbrella, it might rain
+likewise. He enjoys reading historical fiction; Likewise, she prefers biographies. The north side of the city has grown rapidly; likewise, the south is seeing new development. If you treat others with respect, they will likewise treat you kindly
 limelight. She likes being in the limelight. She's always trying to grab the limelight
 limping. That dog must be hurt, he's limping. The injured runner limped across the finish line
 line is blur. The line between work and personal life is blurring due to remote work. The line between TVs and monitors continues to blur
 line of fire. As always, doctors are in the line of fire for the patient's death. The CEO was in the line of fire for the company's recent financial losses
 line of sight, no line of sight. Our marketing team finally has a line of sight to the customer journey. Management needs a line of sight into the project’s progress. We have no line of sight into the supplier’s operations. Without customer feedback, we have no line of sight to their actual needs
 line up. I’ll line up the interviews with the candidates next week. I need you to line up the training sessions for new employees. The company lined up a new investor to help fund its expansion. The doctor lined up the patient's x-rays on the light box
-lingers. The pain in his leg lingered for days after the accident. The memory of that day still lingers in my mind, even though it was years ago.  It's impossible to forget such horrific events - they linger in the memory forever
+linger. It's impossible to forget such horrific events - they linger in the memory forever. The pain in his leg lingered for days after the accident. The memory of that day still lingers in my mind, even though it was years ago
 lion's share. Lion's share of Apples’ profit comes from the iPhone. My sister grabbed the lion's share of the pizza
 little over a week, little over a year. He stayed there for a little over a week before returning home. I've been working at this company for a little over a year. The research project took a little over a year to complete
 little tricky. This is a little tricky, but I think I can figure it out. This is a little tricky to explain, but I'll do my best
@@ -1762,8 +1758,8 @@ pillar to post. Nobody is in charge there; They send you from pillar to post. Yo
 pillars of. Education is one of the pillars of a strong society. Hard work and dedication are the pillars of success. The pillars of the company's success are its employees, its customers, and its products
 piloting. The company is piloting a new recycling program in select cities. They are piloting a new program to teach coding to elementary school students
 pin down. I can't pin down the exact cause of the strange noise. It’s hard to pin down the exact cause of the problem. We need to pin down the meeting date before sending invites. We finally pinned down a date for our wedding
-pinch. The rising costs are starting to pinch small businesses. We’re feeling the pinch from increased raw material prices. It pinches when someone takes credit for your work. With two kids in college, they're definitely starting to feel the pinch financially. The recent gas hike will make everyone feel the pinch at the pump. With rising prices, many families are feeling the pinch
 pinch of salt, grain of salt. You must take some of Mayer's remarks with a pinch of salt. You must take some of Mayer's remarks with a grain of salt
+pinch. The rising costs are starting to pinch small businesses. We’re feeling the pinch from increased raw material prices. It pinches when someone takes credit for your work. With two kids in college, they're definitely starting to feel the pinch financially. The recent gas hike will make everyone feel the pinch at the pump. With rising prices, many families are feeling the pinch
 pinnacle. She is at the pinnacle of her profession. The athlete's career reached its pinnacle when she won the gold medal
 pinpoint. The doctor was able to pinpoint the source of the pain. The teacher was able to pinpoint the areas where the student needed help
 pioneer. She was a pioneer in the development of new cancer treatments. They were pioneers in the field of American medicine. The company is known for its pioneering technology. The company pioneered solar technology in India. Steve Jobs pioneered smartphone innovation
@@ -1962,8 +1958,8 @@ regulate, regulation. Doctors help regulate blood pressure through medication. T
 rehearse. The actors will rehearse the play tomorrow. She rehearsed her speech in front of the mirror
 reimagine. We need to reimagine the way we approach education. We should reimagine our daily routines to be more efficient. We need to reimagine the way we work
 reinforce, reinforcement. Strong sales figures reinforce the effectiveness of our current strategy. This evidence reinforces my view that he is a spy. The positive customer feedback reinforced our commitment to quality service. Positive customer feedback acted as reinforcement for the team's efforts
-reinvent. The company plans to reinvent its product line to stay competitive. We need to reinvent our training programs to keep up with industry changes
 reinvent the wheel. The first bit of advice is don't reinvent the wheel. Don't reinvent the wheel with your workout routine – there are plenty of proven fitness programs available
+reinvent. The company plans to reinvent its product line to stay competitive. We need to reinvent our training programs to keep up with industry changes
 reiterate. Just to reiterate, the meeting starts at 10 am. The teacher reiterated the importance of finishing homework on time
 rejoice. We can rejoice that the exam is finally over. They were rejoicing after the team won. The town rejoiced at the news of the missing hiker's safe return
 rejuvenate. A weekend getaway helped her to rejuvenate. Sunshine and exercise can rejuvenate your mood. The spa treatment rejuvenated me. Spending time with loved ones rejuvenated her spirit
@@ -2033,8 +2029,8 @@ robust. The company's new software is robust and can handle a large volume of da
 rock solid. The support for the party was rock solid. We need a rock-solid business plan before investing in this new venture
 rock the boat. They warned him not to rock the boat during negotiations. I don’t want to rock the boat by questioning their decision. Please don’t rock the boat during the meeting—we need a calm discussion. Everyone was happy with the plan until he rocked the boat with his objections
 rock the world. Her voice will rock the world one day. That invention could rock the world of technology. His speech rocked the world of politics
-roll out. The company will roll out the new product next week. The school will roll out a new curriculum in September
 roll out the red carpet. The governor rolled out the red carpet for his dinner guests. We'll roll out the red carpet for the senator
+roll out. The company will roll out the new product next week. The school will roll out a new curriculum in September
 roller coaster. The divorce was an emotional roller coaster for both. Her grades were on a roller coaster this semester, with highs and lows. Our sales numbers this year have been a roller coaster ride. The startup's journey has been nothing short of a roller coaster ride
 room for, no room for. Their work has been fairly good; Having said that, I still think there's a lot of room for improvement. There is still a lot of room for improvement. There is no room left for negotiation. There's no room for error in this project
 root cause. 
@@ -2249,7 +2245,7 @@ stellar. Congratulations on her stellar performance. The baker received stellar 
 stem. The government had failed to stem the tide of factory closures. The reforms failed to stem social discontent. Her stage fright likely stems from a bad experience in a school play. The popularity of yoga stems from its focus on mind-body wellness. The company's profits stemmed from its innovative new products. The student's success stemmed from her hard work and dedication
 step back, take a step back. Let's step back and look at the problem from a different angle. The manager needed to step back and take a look at the big picture. Before I disagree, let me take a step back and understand your perspective. Let me take a step back and reassess the situation before we proceed. Before you answer, take a step back and consider your options
 step up. We need everyone to step up and help with the event. We’re counting on you to step up and solve this problem. If we want to win, we need to step up the game. We need to step up our game if we want to outperform our competitors this quarter. The team needs to step up their game if they want to win. The company needs to step up its production to meet demand
-step, step forward, significant step, crucial step. This new law is a step forward for equality. Getting the promotion was a significant step forward in his career. Finally apologizing was a crucial step forward in their friendship
+step, significant step, crucial step, step forward, great step forward, major step forward . Getting the promotion was a significant step forward in his career. Finally apologizing was a crucial step forward in their friendship. This new law is a step forward for equality. The new policy is a great step forward for our company. Building the new hospital is a great step forward for the community. That is a great step forward for our country. The new drug is a major step forward in the treatment of the disease
 stepping out of the line. Stepping out of line with company policy could lead to disciplinary action. The team member who stepped out of line to help a colleague earned everyone's respect
 steppingstone. Many students now see university as a steppingstone to a good job. I see this job just as a steppingstone to better things
 stereotype. Can they break the stereotype of the hijab as a symbol of oppression?. The new software engineer challenged the stereotype of programmers being introverts. Teenagers are often stereotyped as lazy, but that's not always the case
