@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -57,8 +56,9 @@
         list-style-type: none;
     }
     .examples-list {
-        margin-left: 10px;
+		padding: 0;
         margin-top: 10px;
+		margin-left: 10px;
         display: none;
     }
     .examples-list li {
@@ -118,10 +118,10 @@ function renderAllWords() {
     wordElements = [];
 
     const grouped = {};
-    allWords.forEach((item, index) => {
+    allWords.forEach((item) => {
         const letter = item.word[0].toLowerCase();
         if (!grouped[letter]) grouped[letter] = [];
-        grouped[letter].push({ ...item, index });
+        grouped[letter].push(item);
     });
 
     Object.keys(grouped).sort().forEach(letter => {
@@ -136,13 +136,14 @@ function renderAllWords() {
         ul.style.listStyleType = 'none';
         ul.style.paddingLeft = '20px';
 
-        group.forEach((item) => {
+        group.forEach((item, index) => {  // <-- Use index here for group position
             const wordItem = document.createElement('li');
             wordItem.classList.add('word-item');
             wordItem.textContent = item.word;
 
+            // Show index within the group
             const numberSpan = document.createElement('span');
-            numberSpan.textContent = ` ${item.index + 1}`;
+            numberSpan.textContent = ` ${index + 1}`;  // <-- index in group
             numberSpan.classList.add('word-number');
             wordItem.appendChild(numberSpan);
 
