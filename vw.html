@@ -23,7 +23,6 @@
         text-align: center;
         z-index: 1000;
     }
-    #wordCount { margin-right: 15px; }
     .filter-letter {
         display: inline-block;
         margin: 0 5px;
@@ -42,47 +41,52 @@
         cursor: pointer;
         background-color: #f8f8f8;
     }
-    #wordList { list-style-type: none; padding: 0 20px; }
+    #wordList { padding: 0 20px; }
+    h2.group-header {
+        margin-top: 20px;
+        color: #444;
+        font-size: 1.4rem;
+    }
     .word-item {
         font-weight: 500;
         font-size: 1.2rem;
         margin-top: 20px;
         color: #333333;
         cursor: pointer;
+        list-style-type: none;
     }
     .examples-list {
         margin-left: 30px;
         margin-top: 10px;
         padding-left: 15px;
-        display: none; /* hidden by default */
+        display: none;
     }
     .examples-list li {
         font-size: 1.1rem;
         color: #888888;
-        margin-top: 8px;
+        margin-top: 10px;
+        list-style-type: none;
     }
     .word-number { font-size: 0.5em; color: gray; margin-left: 8px; }
 </style>
 </head>
 <body>
 <div id="filterBar">
-    <span id="wordCount">0</span>
     <button id="toggleExamples">Show</button>
 </div>
-<ul id="wordList"></ul>
+<div id="wordList"></div>
 <script>
 const wordListElement = document.getElementById('wordList');
-const wordCountElem = document.getElementById('wordCount');
 const toggleBtn = document.getElementById('toggleExamples');
 
 let allWords = [];
-let examplesVisible = false; // default hidden
-let allExampleLists = [];    // cache all <ul> example groups
-let wordElements = [];       // cache word <li> for filtering
+let examplesVisible = false; 
+let allExampleLists = [];
+let wordElements = [];
 
 // Create filter letters a-z
 const filterBar = document.getElementById('filterBar');
-for(let i = 97; i <= 122; i++) {
+for (let i = 97; i <= 122; i++) {
     const letter = String.fromCharCode(i);
     const letterElem = document.createElement('span');
     letterElem.textContent = letter;
@@ -98,11 +102,10 @@ fetch('https://naveengd.github.io/vocabulary/words.txt')
         const lines = data.split('\n');
         lines.forEach(line => {
             const parts = line.split('.').map(p => p.trim()).filter(p => p !== '');
-            if(parts.length === 0) return;
+            if (parts.length === 0) return;
             allWords.push({ word: parts[0], examples: parts.slice(1) });
         });
         renderAllWords();
-        wordCountElem.textContent = allWords.length;
     })
     .catch(err => {
         console.error('Error fetching words:', err);
@@ -114,45 +117,63 @@ function renderAllWords() {
     allExampleLists = [];
     wordElements = [];
 
+    const grouped = {};
     allWords.forEach((item, index) => {
-        // Parent word <li>
-        const wordItem = document.createElement('li');
-        wordItem.classList.add('word-item');
-        wordItem.textContent = item.word;
+        const letter = item.word[0].toLowerCase();
+        if (!grouped[letter]) grouped[letter] = [];
+        grouped[letter].push({ ...item, index });
+    });
 
-        // Number
-        const numberSpan = document.createElement('span');
-        numberSpan.textContent = ` ${index + 1}`;
-        numberSpan.classList.add('word-number');
-        wordItem.appendChild(numberSpan);
+    Object.keys(grouped).sort().forEach(letter => {
+        const group = grouped[letter];
 
-        // Examples list nested under word
-        const exampleList = document.createElement('ul');
-        exampleList.classList.add('examples-list');
-        exampleList.style.display = examplesVisible ? 'block' : 'none';
+        const header = document.createElement('h2');
+        header.classList.add('group-header');
+        header.textContent = `${letter.toUpperCase()} (${group.length})`;
+        wordListElement.appendChild(header);
 
-        item.examples.forEach(example => {
-            const li = document.createElement('li');
-            li.textContent = example;
-            exampleList.appendChild(li);
+        const ul = document.createElement('ul');
+        ul.style.listStyleType = 'none';
+        ul.style.paddingLeft = '20px';
+
+        group.forEach((item) => {
+            const wordItem = document.createElement('li');
+            wordItem.classList.add('word-item');
+            wordItem.textContent = item.word;
+
+            const numberSpan = document.createElement('span');
+            numberSpan.textContent = ` ${item.index + 1}`;
+            numberSpan.classList.add('word-number');
+            wordItem.appendChild(numberSpan);
+
+            const exampleList = document.createElement('ul');
+            exampleList.classList.add('examples-list');
+            exampleList.style.display = examplesVisible ? 'block' : 'none';
+
+            item.examples.forEach(example => {
+                const li = document.createElement('li');
+                li.textContent = example;
+                exampleList.appendChild(li);
+            });
+
+            wordItem.appendChild(exampleList);
+            ul.appendChild(wordItem);
+
+            wordElements.push({ element: wordItem, word: item.word.toLowerCase(), letter });
+            allExampleLists.push(exampleList);
+
+            wordItem.addEventListener('click', () => {
+                exampleList.style.display = exampleList.style.display === 'none' ? 'block' : 'none';
+            });
         });
 
-        wordItem.appendChild(exampleList);
-        wordListElement.appendChild(wordItem);
-
-        wordElements.push({ element: wordItem, word: item.word.toLowerCase() });
-        allExampleLists.push(exampleList);
-
-        // Toggle examples on word click
-        wordItem.addEventListener('click', () => {
-            exampleList.style.display = exampleList.style.display === 'none' ? 'block' : 'none';
-        });
+        wordListElement.appendChild(ul);
     });
 
     toggleBtn.textContent = examplesVisible ? 'Hide' : 'Show';
 }
 
-// Global toggle for all examples
+// Global toggle for examples
 toggleBtn.addEventListener('click', () => {
     examplesVisible = !examplesVisible;
     allExampleLists.forEach(list => {
@@ -161,20 +182,28 @@ toggleBtn.addEventListener('click', () => {
     toggleBtn.textContent = examplesVisible ? 'Hide' : 'Show';
 });
 
-// Filter without rebuilding DOM
+// Filter by group
 function filterWords(letter, clickedElem) {
     document.querySelectorAll('.filter-letter').forEach(elem => elem.classList.remove('active'));
     clickedElem.classList.add('active');
 
-    let visibleCount = 0;
-    wordElements.forEach(({ element, word }) => {
-        const matches = word.startsWith(letter);
-        element.style.display = matches ? 'list-item' : 'none';
-        if (matches) visibleCount++;
+    const groups = wordListElement.querySelectorAll('h2.group-header, ul');
+    groups.forEach((el) => {
+        if (el.tagName === 'H2') {
+            const groupLetter = el.textContent[0].toLowerCase();
+            const groupList = el.nextElementSibling;
+            const isMatch = groupLetter === letter;
+
+            el.style.display = isMatch ? 'block' : 'none';
+            if (groupList) groupList.style.display = isMatch ? 'block' : 'none';
+        }
     });
 
-    wordCountElem.textContent = visibleCount;
     window.scrollTo(0, 0);
+
+    allExampleLists.forEach(list => {
+        list.style.display = examplesVisible ? 'block' : 'none';
+    });
 }
 </script>
 </body>
