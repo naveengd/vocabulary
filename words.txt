@@ -449,8 +449,8 @@ convolute. Don’t convolute the issue by adding unnecessary details. His explan
 cookie-cutter. The article criticized the cookie-cutter approach to education, emphasizing individuality. The presentation was filled with cookie-cutter solutions, offering no fresh ideas. The company was known for its innovative spirit, not following cookie-cutter business models
 cool, cool thing. I have a cool thing to show you. Learning to code is a cool skill to pick up. Designing your own clothes sounds like a cool project. The cool thing about learning a new language is meeting new people
 cope. She tried to cope with the loss of her pet. Children often find it hard to cope with change. How are you coping with the new job? Coping with stress can be challenging
-core, at its core, core idea, core issue. At its core, the movie is about forgiveness and redemption. At its core, democracy relies on the voice of the people. The core idea of the book is that we are all connected. The core idea of the painting is the beauty of nature. The core issue with the new phone was its short battery life
 core tenets, key tenets. Innovation is a core tenet driving this company's success. The core tenets of democracy are freedom of speech, freedom of assembly, and the rule of law. The core tenets of the new curriculum are to focus on critical thinking, to promote creativity, and to prepare students for the 21st century workforce. Honesty and respect are the key tenets of a strong friendship
+core, at its core, core idea, core issue. At its core, the movie is about forgiveness and redemption. At its core, democracy relies on the voice of the people. The core idea of the book is that we are all connected. The core idea of the painting is the beauty of nature. The core issue with the new phone was its short battery life
 corner him. She cornered him at the party, demanding answers. With clever questioning, the lawyer cornered the witness
 cornerstone. Hard work is the cornerstone of success. Trust is the cornerstone of any healthy relationship
 correlate, correalation. Happiness does not always correlate with wealth. The teacher noticed that attendance rates correlate with grades. Higher education is often correlated with better job opportunities. The two variables are strongly correlated, but correlation does not always mean causation. There's a positive correlation between studying and getting good grades. The study found a negative correlation between sleep and weight gain
@@ -1355,7 +1355,7 @@ lightheartedly. He lightheartedly joked about his busy schedule. The team took t
 like i said. Like I said, the exam won’t be easy, so prepare well. Like I said earlier, this is just a trial run. Like I said before, honesty is the best policy
 like to spend the next 10 minutes or so. I would like to spend the next 10 minutes or so explaining investing. I would like to spend the next 10 minutes or so brainstorming ideas for our new marketing campaign
 like to sum up by saying. I would just like to sum up by saying that it's been a tremendous pleasure to work with you
-likelihood. There is very little likelihood of that happening. There’s a high likelihood of rain this evening, so carry an umbrella. Given his experience, the likelihood of him winning the race is high. Studying more will increase the likelihood of success on your exam
+likelihood, in all likelihood. There is very little likelihood of that happening. There’s a high likelihood of rain this evening, so carry an umbrella. Given his experience, the likelihood of him winning the race is high. Studying more will increase the likelihood of success on your exam. In all likelihood, the project will be completed ahead of schedule. In all likelihood, she will be promoted after this performance review
 likes of. The company is competing against the likes of Apple and Google. The company is competing against the likes of industry giants like Amazon and Walmart
 likewise. He enjoys reading historical fiction; Likewise, she prefers biographies. Wear a jacket, it's chilly outside; Likewise, bring an umbrella, it might rain
 limelight. She likes being in the limelight. She's always trying to grab the limelight
@@ -2546,7 +2546,7 @@ variance. There’s a huge variance between his words and his actions. The weath
 vast, vastly. The vast majority of people on Earth live in poverty. There’s a vast difference between knowing and understanding. Business practices differ vastly from country to country
 vehicle for. Film can be used as a vehicle for propaganda. Social media can be used as a vehicle for spreading misinformation. The internet has become the primary vehicle for communication in the modern world
 venture into. EY to venture into the robotics solutions business. The company is venturing into the world of virtual reality gaming. The company ventured into a whole new market with their product
-verdict. What is your verdict on the new restaurant?. My verdict on this new phone is that it's amazing!. Let's get everyone's verdict on where to go for dinner
+verdict. My verdict on this new phone is that it's amazing!.  What is your verdict on the new restaurant?. Let's get everyone's verdict on where to go for dinner
 verge of. The country's economy is on the verge of collapse. She was on the verge of tears. The country is on the verge of a recession
 vetted. All candidates were vetted before the interviews. The news organization vetted the facts of the story before publishing it. The company vetted its suppliers for compliance with standards
 viable. We need a business plan that's financially viable. The team brainstormed for a viable solution to the problem
@@ -2561,12 +2561,12 @@ vocal. Gilbert has been particularly vocal in his criticism of the government. T
 voiced. She voiced her concern over leaving medicine. The campaign group has voiced its opposition to the proposals
 void left, fill the void. With the Maruti Omni gone, there is a void left in the market which we think can be filled by these cars. I will never find anyone to fill the void after my secretary retires
 volunteer. She decided to volunteer for the community cleanup. They volunteered to clean up the local park
-vouch. I can vouch for her honesty; I've known her for years and she's always been trustworthy. She vouched that the documents were genuine
+vouch. I can vouch for her honesty; I've known her for years and she's always been trustworthy. I can’t vouch for the accuracy of this report, as I haven’t reviewed it fully. She vouched for the quality of the service before recommending it to others
 vulnerable, vulnerability. The elderly are often vulnerable to scams. The password system is vulnerable to hacking. The team's vulnerability in defense was obvious. The storm exposed the town’s vulnerability to flooding
 vying. Several companies are vying for the contract. The companies were vying for a piece of the growing market. Entrepreneurs are vying for opportunities in the growing tech industry
 wait and watch, wait and see. We'll wait and watch to see how the negotiations go. I'm not sure what to do, so I'll just wait and watch. Let's wait and see how things evolve before making any decisions. We should wait and see how things evolve in the next few weeks
 wake-up call. The accident was a wake-up call for him to start driving more carefully. This report should serve as a wake-up call to the government. The latest report on increased drug use is a wake-up call for America
-walking a tightrope. As a comedian, he’s walking a tightrope between being funny and offending the audience. The CEO is walking a tightrope between cutting costs and keeping employees motivated. The company is walking a tightrope between raising prices and losing customers
+walking a tightrope. The company is walking a tightrope between raising prices and losing customers. As a comedian, he’s walking a tightrope between being funny and offending the audience. The CEO is walking a tightrope between cutting costs and keeping employees motivated
 wander. His mind started to wander during the long meeting. Her mind kept wandering back to her childhood home. Her eyes wandered across the room, searching for a familiar face. Tourists wandered through the market, exploring shops
 wane. Public interest in the issue is beginning to wane. Public interest in the issue is waning. Her enthusiasm for the project waned over time
 warrants. The weather forecast warrants bringing an umbrella.  The artist's dedication warrants recognition. The severity of his injuries warranted an ambulance. The complex problem warranted a creative solution
@@ -2581,7 +2581,7 @@ we saw it coming, we never saw it coming. The breakup didn’t shock us, we saw 
 wear many hats. Women wear many hats in their lives. In this project, I'll wear many hats, including designer and programmer
 weave a story, weave that idea, weave that information. The author knows how to weave a story that captures the reader’s heart. She can weave that story into her presentation to make it more engaging. She plans to weave that idea into her presentation. We need to weave that information into the report
 weed out. Just weed out the unnecessary things. The research will help governments to weed out ineffective aid schemes
-weighing my options. With two job offers, I'm carefully weighing my options before making a decision. I haven’t accepted the job yet—I’m still weighing my options. He’s weighing his options between studying abroad and starting work here. I’m weighing my options to see whether I should study further or start working
+weighing my options. With two job offers, I'm carefully weighing my options before making a decision. I haven’t accepted the job yet—I’m still weighing my options. He’s weighing his options between studying abroad and starting work here
 weight off my shoulders, weight on your shoulder. Finally submitting my project felt like a weight off my shoulders. Paying off the debt lifted a weight off my shoulders. As the team leader, he has a lot of weight on his shoulders. You’ve been carrying too much weight on your shoulders—let us help
 welcome with open arms. Reduction in income tax will be welcomed with open arms. Her innovative ideas were welcomed with open arms by the management team. When the company launched its free app, users welcomed it with open arms
 we'll cross that bridge when we come to it. Let’s not worry about that now — we’ll cross that bridge when we come to it. Let’s not stress about that now — we’ll cross that bridge when we come to it
@@ -2602,7 +2602,7 @@ what's your take. What’s your take on the new policy?. I’ve read the article
 whatsoever. They're determined to succeed, whatsoever the obstacles. There's no evidence whatsoever to support that theory.
 where we stand. That's where we stand now, but things could change. We know where we stand with our finances
 whether you like it or not. You have to finish your homework, whether you like it or not. Whether you like it or not, we have to move to a new city
-whine, whining and complaining. The child's constant whining was driving everyone crazy. She’s always whining and complaining about her job. He whined about the long lines at the amusement park
+whine, whining and complaining. The child began to whine when he didn’t get the toy he wanted. Stop whining and try to find a solution instead. She’s always whining and complaining about her job. He whined about the long lines at the amusement park
 wholeheartedly. I wholeheartedly support your campaign. She wholeheartedly supported her friend's dream of becoming a writer. We wholeheartedly welcome you to our team
 wholesome. We spent a wholesome afternoon baking cookies together. It was a wholesome family gathering filled with laughter
 whopping. The company made a whopping 75 million dollar loss. We hiked a whopping 10 miles today. The movie received a whopping 98% on Rotten Tomatoes
