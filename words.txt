@@ -516,8 +516,8 @@ daydream. I often daydream about winning the lottery. His daydreams of being a f
 de facto. English is de facto the common language of much of the world today. Jeans are the de facto casual wear in most workplaces. English is the de facto language of the internet
 dead end. This career path feels like a dead end. We reached a dead end in the investigation. It's a dead end job with no opportunities
 dead wrong, dead serious. I was dead wrong. She insisted the Earth was flat, but she was dead wrong. I’m dead serious about quitting my job. Don’t laugh, I’m dead serious
-deal breaker. The house is perfect, but the price is a deal breaker. The job is great, but the commute is a deal breaker. We liked their work, but the rates they were asking for were a deal breaker for us
 deal. We need to deal with this issue quickly. The manager is dealing with a customer complaint. He dealt with the problem calmly. I dealt with the situation as best as I could
+deal breaker. The house is perfect, but the price is a deal breaker. The job is great, but the commute is a deal breaker. We liked their work, but the rates they were asking for were a deal breaker for us
 debrief. We'll debrief the sales team on their performance this quarter. The team held a debriefing meeting to discuss the results of the project. After the game, the coach debriefed the players on their mistakes
 debunk. Let's debunk this internet meme with some actual facts. Don't believe everything you read online; try to debunk it first. The article debunks the notion that life exists on Mars. Scientists debunked the myth of a flat Earth. The debater skillfully debunked her opponent's arguments one by one
 deciding factor. The deciding factor in my decision to buy a new car was the price. The deciding factor in the company's decision to close the factory was the declining sales
@@ -810,7 +810,6 @@ fierce, fiercely. Despite fierce competition, she won the gold medal. The debate
 fighting a losing battle. With the tools we have today, we're fighting a losing battle. They were fighting a losing battle against the forces of nature
 fill you in. No worries, I'll fill you in on everything you need to know. Hey, sorry I missed the meeting; Can you fill me in on what I missed?
 final nail in the coffin. A fine would be the final nail in the coffin of the airline. The politician's latest scandal was the nail in the coffin for their career
-final piece of the puzzle, important piece of the puzzle, missing piece of the puzzle . Researchers are close to finding a solution, but they haven't found the final piece of the puzzle. The first piece of the puzzle is geocoding your data. The restaurant is trying to attract more customers, and the new menu is an important piece of the puzzle. The last piece of the growth puzzle is infrastructure investment. The only missing piece of this puzzle is the price
 find a way around. The students are always trying to find a way around the regulations. He tried to find a way around the company's dress code
 fine-tune. We will use the next few months to fine-tune things. With a little fine-tuning, this recipe could be a real winner
 finger-pointing. Now is not the time for finger-pointing, nor to politicize the problem. Instead of finger-pointing, let us focus on how to prevent future mistakes
@@ -914,7 +913,7 @@ get hands dirty. My boss is great because she’ll get her hands dirty and help 
 get the hang of. It's quite easy once you get the hang of it. I'm trying to get the hang of the new telephone system
 get this out of the door. We need to get this project out the door before the deadline. The software has a few bugs, but let’s get it out the door and fix them in updates
 get to a point. It will get to a point where I can't take this anymore. It will get to a point where we have to make a decision. We need to get to a point where we agree
-get to that in a minute, get to that in a second, will come to it. Don’t worry, I’ll get to that in a minute. Give me a moment, and I’ll get to that in a minute. I will get to that in a second. You will get to hear in a second. I will come to it
+get to that in a minute, get to that in a second, will come to it, more on that in a minute. Don’t worry, I’ll get to that in a minute. Give me a moment, and I’ll get to that in a minute. I will get to that in a second. You will get to hear in a second. I will come to it. We just launched a new feature—more on that in a minute. We’re planning something exciting for next month—more on that in a minute
 get to the bottom of. I need to get to the bottom of this mystery. Let's get to the bottom of the problem. The health authority was determined to get to the bottom of what went wrong
 get us nowhere. Arguing will get us nowhere. My research is getting nowhere
 getting a lot of attention. Compliance issues are getting a lot of attention these days, so please be careful. The company's new product launch was getting a lot of attention from the media
@@ -1015,7 +1014,6 @@ hardwired. It has been hardwired into everyone's brain that we are good techies 
 harness. We must harness the skill and creativity of our workforce. We can harness the power of the wind to make electricity. The company is harnessing technology to improve customer service
 harsh, harshly. The harsh winter weather caused the pipes to freeze. The harsh punishment was not justified. The harsh reality is that not everyone achieves their dreams. The manager reacted harshly to the error in the report. She spoke harshly to her brother after he broke her favorite toy
 harvest. The HR department is harvesting talent from top universities. The sales team is harvesting potential clients from industry conferences
-has all the ingredients. The show has all the ingredients needed to attract a large audience. The perfect vacation has all the ingredients: sunshine, relaxation, and good company. Laughter, friendship, and good food - that party has all the ingredients for a good time
 hash out. Let's grab coffee and hash out this project idea. We still need to hash out the final details of the contract. Investors are hashing out the terms of the startup funding
 hassle, hassles. Dealing with rush hour traffic is such a hassle. The new app promises a hassle-free way to order groceries. Moving to a new house involves a lot of hassles. She wanted to avoid any hassles during her vacation
 hasty. Don't make any hasty decisions, he warned. We need a more thoughtful solution, not a hasty fix
@@ -1055,8 +1053,8 @@ herculean. We have a herculean task of meeting the goal in next one week. Buildi
 here is the deal. Here is the deal: I'll distract Mom while you grab the cookies. Here's the deal: I'll help you study for the test if you help me clean the apartment
 here is the kicker. And here’s the real kicker if you buy one you get the second one free. I went to the store yesterday, here's the kicker, I saw Mr Dirks, my math teacher. We saved for months to book the trip; The kicker? The airline went bankrupt the day before our flight
 here is why. I think she deserves the promotion; Here is why: she has led three successful projects this year. He refused the offer; Here is why: it didn’t align with his long-term goals
-here we go. Here we go!. Time for the roller coaster ride. Here we go, attempting this new recipe for the first time
-hesitate, hesitation, hesitant, don't hesitate. Don't hesitate to ask for help if you need it. The high price caused a moment of hesitation, but she bought it anyway. She seemed hesitant to answer the question
+here we go. Here we go! Time for the roller coaster ride. Here we go, attempting this new recipe for the first time
+hesitate, don't hesitate, hesitation, hesitant. Don't hesitate to ask for help if you need it. The high price caused a moment of hesitation, but she bought it anyway. She seemed hesitant to answer the question
 high hopes. She has high hopes of winning. The bakery launched its new cupcake line with high hopes of success
 highlight, highlights, one of the highlights, some of the highlights. Her performance was the highlight of the show. The festival was the highlight of the summer. Here are the highlights from today’s meeting. One of the highlights of the presentation was the interactive activity. Here are some of the highlights from yesterday’s conference
 high-stakes. The final exam was a high-stakes test, determining their college futures. The hostage negotiator knew every word mattered in this high-stakes situation. Handling high-stakes conversations with confidence is a key leadership skill
@@ -1067,14 +1065,14 @@ hindsight, in hindsight. In hindsight, I should have studied harder for that tes
 hinges on. The success of the project hinges on our ability to secure funding. The future of the company hinges on our ability to innovate. The success of this project hinges on timely approvals from the client.
 historically. Historically, diamonds were used for tools before they were jewelry. This area was historically home to many different tribes
 hit that reset button. So, let's hit that reset button this summer, look at ourselves honestly and come back next season ready to sort it out
-hold your horses. hold your horses
+hold your horses. Hold your horses! We haven’t finished explaining the rules yet. I know you’re excited, but hold your horses until everyone arrives. Hold your horses—let’s check the details before we sign the contract
 holding me back, holding you back. My perfectionism is holding me back from finishing my creative projects. My past experiences are holding me back from trusting new people. Your fear of failure is holding you back from taking risks. Your lack of confidence is holding you back from taking action
 holistic, holistic view, holistic approach. Education should be holistic, developing both skills and character. Her doctor takes a holistic view of health, focusing on mind and body together. The book presents a truly holistic approach to client care
 hollow promise. He didn't believe her hollow promise to change. The company's guarantee turned out to be a hollow promise
 holy grail. Finding a cure for cancer is the holy grail of medical researchers. Cracking the stock market consistently is the holy grail of investors. For many developers, creating a completely bug-free software is the holy grail.
 holy shit. Holy shit, I can't believe it. Holy shit, that was a close call
 homework, do our homework. She had done her homework and thoroughly prepared for her interview. Before investing in any stock, we should do our homework. The team did their homework before the client presentation
-honor, honored and humbled. We should honor that tradition. It is an honor to meet you, Mr. President. The award is a great honor for our team. I am honored and humbled to be receiving this award. I am truly honored and humbled by this opportunity. I am honored and excited to be a part of your team. The company honored its employees with a day off for good behavior
+honor, honored and humbled. We should honor that tradition. It is an honor to meet you, Mr President. The award is a great honor for our team. I am honored and humbled to be receiving this award. I am truly honored and humbled by this opportunity. I am honored and excited to be a part of your team. The company honored its employees with a day off for good behavior
 hooked. She got hooked on the show after watching one episode. The party guests, hooked on the lively music, danced all night
 hoopla. Despite the hoopla, the restaurant's food was just average. There is too much hoopla in these elections. The politician's speech was all hoopla and no substance
 hop over, hop on to. Time to hop over to another site. Let's hop on a call to discuss the details
@@ -1091,7 +1089,7 @@ humble. I make this humble request: could you spare a few minutes to answer my q
 humiliate, humiliation. It’s never okay to humiliate someone in public. Losing the game in front of my friends was really humiliating. He felt humiliated when his mistake was pointed out in the meeting. The teacher’s harsh words caused him great humiliation
 humongous. It is a humongous building. So, you don't think I'm making a humongous mistake?
 hundreds if not thousands. The online petition attracted hundreds, if not thousands, of signatures. The amount of plastic in the ocean is estimated to be in the billions, if not trillions, of pieces
-hung up. Don't get so hung up on the details; just focus on the big picture. She's hung up on the idea of perfection. She's too hung up on her weight to be happy. He's too hung up on money to enjoy life
+hung up, so hung up, too hubg up. Don't get so hung up on the details; just focus on the big picture. She's hung up on the idea of perfection. She's too hung up on her weight to be happy. He's too hung up on money to enjoy life
 hurdle. The biggest hurdle to her success was self-doubt. The company faces severe financial hurdles this year
 hurt our credibility. Failing to meet deadlines repeatedly hurts our credibility with clients. Making false promises hurt our credibility with the team
 hustle. If you want to succeed, you need to hustle every day. He started a side hustle selling crafts online for extra income. The team was hustling to finish the project before the deadline. The young entrepreneur hustled to get funding for his startup
@@ -1219,7 +1217,7 @@ interpret, interpretation, misintrepet. Different cultures interpret traditions 
 intervene, intervention. The government may intervene to prevent the company from going bankrupt. The teacher intervened to break up the argument. His intervention helped resolve the conflict. We need an immediate intervention to fix the issue
 intimate. They had an intimate relationship. The couple had an intimate conversation by the fireplace. I’ll intimate you once I get more details. I will intimate you as soon as the decision is made
 intimidate. He tries to intimidate his opponents. You shouldn't allow his reputation to intimidate you. The teacher's booming voice was intimidating. Public speaking can be intimidating for many. Don't be intimidated, everyone starts as a beginner. She practiced her presentation to avoid feeling intimidated
-into the equation. When deciding where to go on vacation, cost is always a factor that comes into the equation. Once you bring the weather into the equation, it becomes more difficult to predict the outcome of the game
+one part of the equation, crucial part of the equation, into the equation, out of the equation, the equation has changed, changed the equation. Leads feedback is just one part of the equation. While exercise is important, healthy eating is another crucial part of the equation for weight loss.. When deciding where to go on vacation, cost is always a factor that comes into the equation. Once you bring the weather into the equation, it becomes more difficult to predict the outcome of the game. With the car broken, driving to the party is out of the equation. With her busy schedule, meeting today is out of the equation. Without proper tools, fixing the roof is out of the equation. With the rise of e-commerce, the retail equation has changed dramatically. With the shift to remote work, the productivity equation has changed. The pandemic has fundamentally changed the supply chain equation
 intrensic. Honesty is an intrinsic part of his character. Humans have an intrinsic desire to connect with others
 intrigues. The scientist's theory about time travel intrigues me. I found the story rather intriguing. The audience was intrigued by the magician's tricks
 introspect, introspection. I need to take some time to introspect and figure out what I really want. The long walk in nature gave her time to introspect. Meditation can be a powerful tool for introspection
@@ -1283,7 +1281,7 @@ keep them in the dark. It is unfair to keep them in the dark on this matter. I'm
 keep this in the back of your mind, at the back of my mind. Keep this in the back of your mind as you're making your decision. I know you're excited about this new job, but keep this in the back of your mind: the commute is really long. The thought of quitting my job was always at the back of my mind, but I never had the courage to do it
 keeping that in mind. The project is behind schedule; keeping that in mind, we should prioritize critical tasks first. Employee engagement is crucial for productivity, keeping that in mind, let’s plan a team-building event
 key attribute, key element. Patience is a key attribute for a teacher. The key attribute of this car is its fuel efficiency. Communication is a key element in any successful relationship. The key element to a happy life is finding your passion and pursuing it
-key ingredient, key ingredients. Hard work is the key ingredient for success. Trust is a key ingredient in any healthy relationship. Key ingredients of a successful marriage are commitment, communication, respect, intimacy. Patience and practice are key ingredients for mastering any skill
+ingredient, key ingredient, key ingredients, secret ingredient, has all the ingredients. Hard work is the key ingredient for success. Trust is a key ingredient in any healthy relationship. Key ingredients of a successful marriage are commitment, communication, respect, intimacy. Patience and practice are key ingredients for mastering any skill. The secret ingredient to a happy marriage is communication and compromise. The company's new product is a hit, and everyone is wondering what the secret ingredient is. The show has all the ingredients needed to attract a large audience. The perfect vacation has all the ingredients: sunshine, relaxation, and good company. Laughter, friendship, and good food - that party has all the ingredients for a good time
 key role. Communication played a key role in the project's success. She played a key role in negotiating the agreement
 key to, is the key, key that unlocks. The key to success is hard work and dedication. Consistency is the key to success in exams. The key that unlocks happiness is often simply the ability to appreciate the simple things in life
 kick in. Reforms will kick in later this year. The effect kicks in after a couple of uses. The discount kicks in when you buy three or more items
@@ -1311,8 +1309,8 @@ late to the party. I know I'm late to the party, but I've finally started watchi
 laundry list. We also came up with a laundry list of key issues that had always been there but never put on the table. He presented a laundry list of features for the new phone. The interview was a laundry list of the usual questions
 lay out, lay down. Let's lay out a plan for tackling this project. The teacher laid out the rules clearly. They laid out a plan for the project. The rules for the competition were laid down by the organizers. The engineer laid down the plans for the new building
 leading causes. The leading causes of budget overruns are unexpected costs and misestimated expenses. The leading causes of reduced productivity in the office are interruptions and unclear goals
-lean on, leaning towards. The company was forced to lean on its employees to work overtime to meet the deadline. I'm so glad I have my friends to lean on during this tough time. Despite his technical background, he has a leaning towards management roles
 lean. December will be a lean period for us. The company's lean budget forced them to make some tough decisions
+lean on, leaning towards. The company was forced to lean on its employees to work overtime to meet the deadline. I'm so glad I have my friends to lean on during this tough time. Despite his technical background, he has a leaning towards management roles
 leap, big leap, gaint leap. Don't be afraid to take a leap and try something new. It was a big leap to switch careers at her age. Sales figures took a giant leap this quarter. He took a leap of faith and quit his job
 learnt their lesson the hard way. NASA was rushing things due to their deadlines and tight budget, but they learned their lesson the hard way. Rushing his project, he learned the hard way about the importance of time management
 leave no stone unturned. He said he will leave no stone unturned to prove her innocence. The doctor said he will leave no stone unturned to find a cure for his illness
@@ -1355,7 +1353,6 @@ likelihood, in all likelihood. There is very little likelihood of that happening
 likes of. The company is competing against the likes of Apple and Google. The company is competing against the likes of industry giants like Amazon and Walmart
 likewise. He enjoys reading historical fiction; Likewise, she prefers biographies. The north side of the city has grown rapidly; likewise, the south is seeing new development. If you treat others with respect, they will likewise treat you kindly
 limelight. She likes being in the limelight. She's always trying to grab the limelight
-limping. That dog must be hurt, he's limping. The injured runner limped across the finish line
 line is blur. The line between work and personal life is blurring due to remote work. The line between TVs and monitors continues to blur
 line of fire. As always, doctors are in the line of fire for the patient's death. The CEO was in the line of fire for the company's recent financial losses
 line of sight, no line of sight. Our marketing team finally has a line of sight to the customer journey. Management needs a line of sight into the project’s progress. We have no line of sight into the supplier’s operations. Without customer feedback, we have no line of sight to their actual needs
@@ -1376,7 +1373,6 @@ look up to. The kids really look up to their coach. She always looked up to her 
 looking ahead. Looking ahead, we expect sales to grow next year. Looking ahead, we must be ready for rapid changes
 looks great on paper. The new marketing plan looks great on paper, but I'm not sure it will work in the real world. The idea is great on paper, but I'm not sure it's feasible
 lot of buzz. There has been a lot of buzz about the new movie. There’s a lot of buzz around the new iPhone release
-lot of elements. The project involves a lot of elements that need to be coordinated carefully. There are a lot of elements to consider when designing a new product
 lot of mileage. The company has gotten a lot of mileage out of a simple idea. The comedian got a lot of mileage out of that funny voice
 lot of missing pieces, too many missing pieces. The company was struggling because there were a lot of missing pieces in their business plan. There are still a lot of missing pieces in the investigation. We can’t make a decision yet—too many missing pieces of data
 loud and clear. The message is loud and clear. You must complete the badge on time. The message from the voters was loud and clear: change is needed
@@ -1418,10 +1414,10 @@ massive, massively. He made a massive mistake on the project. She inherited a ma
 materialize, didn't materialize. The expected increase in sales did not materialize. The promised benefits of the new policy didn't materialize
 matter of concern. Stress at work is a matter of concern to staff and management. The patient's fever is a matter of concern, and we'll run some tests
 matter of time. With his talent, it's only a matter of time before he becomes a star. It is only a matter of time until justice is served. With his skills, it’s just a matter of time before he gets promoted
-maximize. 
+maximize. The company is trying to maximize profits by cutting unnecessary expenses. The new policy aims to maximize efficiency across all departments
 meaningful. The test did not produce any meaningful results. Donating blood can make a meaningful impact, potentially saving lives
 means a lot to me. Spending time with my family really means a lot to me. Those kind words from my teacher mean a lot to me. Thank you for the thoughtful gift; It truly means a lot to me
-mechanism. 
+mechanism. The immune system has a defense mechanism against viruses. Meditation can be a coping mechanism for stress
 meddle. It's best not to meddle in other people’s arguments. She felt that her neighbor was meddling too much
 mediocre. The team gave another mediocre performance last night. The movie had a great cast, but a mediocre plot. The restaurant offered large portions, but the food was mediocre
 meet the needs. The company will evolve its business model to meet the needs of the new market. A healthy breakfast will meet your energy needs for the morning
@@ -1461,11 +1457,10 @@ moment of anger. It was said in a moment of anger. In a moment of anger, he slam
 momentarily. The power flickered momentarily, leaving them in the dark. Don't worry, the connection dropped momentarily but should be back soon
 momentum. The conversation gained momentum as more people joined in. The project gained momentum after the new funding was announced. The student needs to keep the momentum of her studies if she wants to get good grades. The team needs to keep the momentum going if they want to win the game
 monumental. We were thrilled beyond words, a monumental success. Climbing Mount Everest was a monumental feat
-more harm than good. Micromanaging your employees might do more harm than good to their creativity. Keeping secrets in a relationship can do more harm than good for trust
+do more harm than good. Micromanaging your employees might do more harm than good to their creativity. Keeping secrets in a relationship can do more harm than good for trust
 more important than ever before. Consumers seem to view privacy as more important than ever before. In this age of technology, basic literacy skills are more important than ever before
 more importantly, most importantly. He is experienced; More importantly, he is honest. The design is beautiful. More importantly, it is functiona. She is talented, hardworking, and, most importantly, kind
 more often than not. More often than not, I stay home instead of going out. More often than not, the bus arrives late on Mondays
-more on that in a minute. We just launched a new feature—more on that in a minute. The budget numbers look promising, but more on that in a minute. We’re planning something exciting for next month—more on that in a minute
 more or less. The project was more or less a success. The plan is more or less set, but open to suggestions
 more so now than. The importance of education is more so now than ever before. I'm more so a fan of jazz music now than I was when I was younger
 more than confident, more than happy, more than welcome. I am more than confident that I can pass this test. I am more than confident that we will succeed in this project. I would be more than happy to have dinner with you tonight. I'm more than happy to take you there in my car. You're more than welcome to stay here anytime. Running a bit late? You're more than welcome to reschedule
@@ -1473,7 +1468,7 @@ more than i could chew. It feels like I bit off more than I could chew when I pr
 more to come on this. We’ve announced the first phase of the project, and there’s more to come on this. We’ve only shared the highlights for now, but more to come on this soon
 most if not all. Most, if not all, of the members of this forum are interested in learning. This new technology promises to solve most if not all our problems. Most if not all the guests brought a dish to share
 most sought-after. The most sought-after jobs in the tech industry are those in artificial intelligence and machine learning. The most sought-after celebrities are those who are talented, attractive, and well-liked by the public
-motive. 
+motive. Her main motive for studying abroad was to gain international exposure. The company’s motive is profit, but it also focuses on sustainability. He donated anonymously, so his motive remains unclear
 motto. Her family motto is Live simply, laugh often, love deeply. The company's motto is "Innovation through collaboration" Quality above all else - that's our motto
 mountain out of a molehill. You are just making a mountain out of a molehill
 mounting. Frustration was mounting as the team struggled to solve the puzzle. His anxiety mounted as messages were left unanswered
@@ -1483,7 +1478,7 @@ much needed. It was a much needed break. This funding is much needed to continue
 much-anticipated, much-awaited. The much-anticipated movie finally hit theaters. The much-anticipated sequel exceeded expectations. The much-awaited movie finally premiered last night. The much-awaited holiday season is here
 mundane. The list included many mundane, routine tasks. Taking out the trash is a necessary but utterly mundane chore
 mushroomed. Factories mushroomed along the river. New stadiums and gyms mushroomed all over the area
-must have. It is not a mandatory but nice to have skill. Experience with Python is nice to have, but not required. Basic internet access is a must have for online classes. 
+nice to have, must have. It is not a mandatory but nice to have skill. Experience with Python is nice to have, but not required. Basic internet access is a must have for online classes. 
 mutual. The feeling is mutual
 my hands are tied. My hands are tied, sorry I can't help. Look, my hands are tied; This is the best offer I can make
 my question to you is. My question to you is, why do you think people are so afraid of change?. My question to you is, what is the meaning of life?
@@ -1627,9 +1622,9 @@ once in a blue moon. Because I live abroad, I get to see my parents once in a bl
 one ask, an ask. I have one ask for you, please help me with this project. I have one ask for you, please be more mindful of your noise level
 one big area. Marketing is one big area of the company that needs improvement. Climate change is one big area of concern for scientists
 one eighty degree, three sixty degree. The politician's 180-degree shift on the issue of gun control surprised many people. The company's 180-degree shift in strategy was a result of the changing market conditions. I want to get a 360-degree view of the event this time
-one element of. One element of the project plan is to ensure that all deadlines are met. Kindness is one element of a good character. Creativity is one element of successful problem-solving
+one element, surprise element, lot of elements. One element of the project plan is to ensure that all deadlines are met. Kindness is one element of a good character. Creativity is one element of successful problem-solving. The surprise element in the movie kept the audience hooked till the end. Adding a surprise element to your presentation will make it more engaging. The project involves a lot of elements that need to be coordinated carefully. There are a lot of elements to consider when designing a new product
 one of the if not the most. CAGR is one of the, if not the most important metrics while judging an investment’s returns. This pizza is one of, if not the most, delicious I've ever had
-one part of the equation, crucial part of the equation, one piece of the puzzle. Leads feedback is just one part of the equation. While exercise is important, healthy eating is another crucial part of the equation for weight loss. Money can buy some happiness, but it’s just one piece of the puzzle. Learning vocabulary is only one piece of the puzzle in mastering a new language
+one piece of the puzzle, final piece of the puzzle, important piece of the puzzle, missing piece of the puzzle . Money can buy some happiness, but it’s just one piece of the puzzle. Learning vocabulary is only one piece of the puzzle in mastering a new language. Researchers are close to finding a solution, but they haven't found the final piece of the puzzle. The first piece of the puzzle is geocoding your data. The restaurant is trying to attract more customers, and the new menu is an important piece of the puzzle. The last piece of the growth puzzle is infrastructure investment. The only missing piece of this puzzle is the price
 one piece second piece, one piece the other piece. One piece of advice: always wear sunscreen. The second piece: don't forget to hydrate. One piece of evidence pointed towards guilt, the other piece remained a mystery. We've identified the problem, but that's only one piece; The other piece is finding a solution
 one size fits all, no one size fits all. There is no one size fits all approach to managing your money. A one size fits all approach will not help them or tackle the obesity epidemic
 one step ahead. She always tried to stay one step ahead of the competition. To survive in the market, the company needed to be one step ahead in innovation
@@ -1660,7 +1655,6 @@ other way around. You put the fork on the right and the knife on the left. They 
 our format for today. Our format today will be 1, 2, 3
 our mantra. Our mantra is eat well and live well. Progress, not perfection is my mantra
 out of nowhere. She rose to fame out of nowhere. The car came out of nowhere
-out of the equation. With the car broken, driving to the party is out of the equation. With her busy schedule, meeting today is out of the equation. Without proper tools, fixing the roof is out of the equation
 out of the question. Going to the movie tonight is out of the question; I have too much work to do. A raise is out of the question for now. The company is not doing well financially
 out of the woods, not out of the woods yet. We're through the worst of the recession—we're out of the woods now. The surgery was a success, but she's not out of the woods yet. The company's financial situation is not out of the woods yet, but they are confident that they will be able to turn things around
 outcome. The outcome of their discussion is still unknown. The doctor was pleased with the outcome of the surgery
@@ -1671,7 +1665,7 @@ outlook. At the macro level, the outlook for metals is very good. His outlook on
 outrage, outrageous. The manager's behavior sparked outrage in the office. There was an outrage in the town after the news broke. The price hike for groceries is absolutely outrageous. It's outrageous that they expect us to work overtime with no pay
 outright. He rejected the proposal outright. The politician outright denied the allegations
 outstanding. Her dedication was outstanding, earning her a promotion. Her leadership skills were truly outstanding
-outweigh, outclass, outdoes, outpace, outperform, outplayed, outrank, outshine, outsmart, outwit. The benefits of exercise outweigh the risks. She managed to outclass all her competitors. He always outdoes himself on special occasions. The runner managed to outpace everyone in the final lap. Our team consistently outperform expectations. The visiting team outplayed us in every quarter. She continues to outrank her peers in performance reviews. His talent seems to outshine everyone else in the room. He tried to outsmart his opponents with clever tricks. The detective was able to outwit the criminal
+outweigh, outclass, outdoes, outpace, outperform, outplay, outrank, outshine, outsmart, outwit. The benefits of exercise outweigh the risks. She managed to outclass all her competitors. He always outdoes himself on special occasions. The runner managed to outpace everyone in the final lap. Our team consistently outperform expectations. The visiting team outplayed us in every quarter. She continues to outrank her peers in performance reviews. His talent seems to outshine everyone else in the room. He tried to outsmart his opponents with clever tricks. The detective was able to outwit the criminal
 over engineer. Don’t over engineer, just keep it simple
 over the course of. Over the course of the year, the company's profits increased by 20%. Over the course of her career, she has won numerous awards for her work
 over the long haul. Over the long haul, dividend income has averaged between 4 per cent and 6 per cent. Over the long haul, sustainable practices are better for both the environment and your wallet
@@ -1696,7 +1690,7 @@ oversold. The stock market was oversold yesterday, and many stocks are now tradi
 overstate, overstatement. Don’t overstate your role in the project. He tends to overstate his achievements. It would be an overstatement to say that I'm a great cook. The news report's description of the hurricane as a "Category 5" storm was an overstatement
 overstep. You must not overstep your borrowing limit. The athlete overstepped her boundaries when she started using performance-enhancing drugs
 overtime. I had to work overtime to finish the project. She earns extra money by doing overtime on weekends
-overwhelming,, overwhelmingly, underwhelming, underwhelmed. The endless tasks on her to-do list were overwhelming. It is just so overwhelming I don't know how else to react. The child felt overwhelmed by the crowd of people. She felt overwhelmingly grateful for her friends' support. Due to overwhelming response, the contest deadline has been extended. She felt overwhelmed by the amount of work she had to finish. The amusement park rides were underwhelming for teenagers seeking thrills. The new restaurant had beautiful decor but underwhelming service. Investors seemed underwhelmed by the company's turnaround plan
+overwhelming, overwhelmingly, underwhelming, underwhelmed. The endless tasks on her to-do list were overwhelming. It is just so overwhelming I don't know how else to react. The child felt overwhelmed by the crowd of people. She felt overwhelmingly grateful for her friends' support. Due to overwhelming response, the contest deadline has been extended. She felt overwhelmed by the amount of work she had to finish. The amusement park rides were underwhelming for teenagers seeking thrills. The new restaurant had beautiful decor but underwhelming service. Investors seemed underwhelmed by the company's turnaround plan
 owe. I still owe you ten dollars for lunch. She owes him an apology for her behavior
 paid off. Her hard work paid off when she finally got the promotion she wanted. The gambler's risky bet paid off when he won big at the casino
 pain in the neck. Writing long essays on uninteresting topics is a pain in the neck. That new project is going to be a real pain in the neck
@@ -1758,8 +1752,8 @@ pillar to post. Nobody is in charge there; They send you from pillar to post. Yo
 pillars of. Education is one of the pillars of a strong society. Hard work and dedication are the pillars of success. The pillars of the company's success are its employees, its customers, and its products
 piloting. The company is piloting a new recycling program in select cities. They are piloting a new program to teach coding to elementary school students
 pin down. I can't pin down the exact cause of the strange noise. It’s hard to pin down the exact cause of the problem. We need to pin down the meeting date before sending invites. We finally pinned down a date for our wedding
-pinch of salt, grain of salt. You must take some of Mayer's remarks with a pinch of salt. You must take some of Mayer's remarks with a grain of salt
 pinch. The rising costs are starting to pinch small businesses. We’re feeling the pinch from increased raw material prices. It pinches when someone takes credit for your work. With two kids in college, they're definitely starting to feel the pinch financially. The recent gas hike will make everyone feel the pinch at the pump. With rising prices, many families are feeling the pinch
+pinch of salt, grain of salt. You must take some of Mayer's remarks with a pinch of salt. You must take some of Mayer's remarks with a grain of salt
 pinnacle. She is at the pinnacle of her profession. The athlete's career reached its pinnacle when she won the gold medal
 pinpoint. The doctor was able to pinpoint the source of the pain. The teacher was able to pinpoint the areas where the student needed help
 pioneer. She was a pioneer in the development of new cancer treatments. They were pioneers in the field of American medicine. The company is known for its pioneering technology. The company pioneered solar technology in India. Steve Jobs pioneered smartphone innovation
@@ -1958,8 +1952,8 @@ regulate, regulation. Doctors help regulate blood pressure through medication. T
 rehearse. The actors will rehearse the play tomorrow. She rehearsed her speech in front of the mirror
 reimagine. We need to reimagine the way we approach education. We should reimagine our daily routines to be more efficient. We need to reimagine the way we work
 reinforce, reinforcement. Strong sales figures reinforce the effectiveness of our current strategy. This evidence reinforces my view that he is a spy. The positive customer feedback reinforced our commitment to quality service. Positive customer feedback acted as reinforcement for the team's efforts
-reinvent the wheel. The first bit of advice is don't reinvent the wheel. Don't reinvent the wheel with your workout routine – there are plenty of proven fitness programs available
 reinvent. The company plans to reinvent its product line to stay competitive. We need to reinvent our training programs to keep up with industry changes
+reinvent the wheel. The first bit of advice is don't reinvent the wheel. Don't reinvent the wheel with your workout routine – there are plenty of proven fitness programs available
 reiterate. Just to reiterate, the meeting starts at 10 am. The teacher reiterated the importance of finishing homework on time
 rejoice. We can rejoice that the exam is finally over. They were rejoicing after the team won. The town rejoiced at the news of the missing hiker's safe return
 rejuvenate. A weekend getaway helped her to rejuvenate. Sunshine and exercise can rejuvenate your mood. The spa treatment rejuvenated me. Spending time with loved ones rejuvenated her spirit
@@ -2029,8 +2023,8 @@ robust. The company's new software is robust and can handle a large volume of da
 rock solid. The support for the party was rock solid. We need a rock-solid business plan before investing in this new venture
 rock the boat. They warned him not to rock the boat during negotiations. I don’t want to rock the boat by questioning their decision. Please don’t rock the boat during the meeting—we need a calm discussion. Everyone was happy with the plan until he rocked the boat with his objections
 rock the world. Her voice will rock the world one day. That invention could rock the world of technology. His speech rocked the world of politics
-roll out the red carpet. The governor rolled out the red carpet for his dinner guests. We'll roll out the red carpet for the senator
 roll out. The company will roll out the new product next week. The school will roll out a new curriculum in September
+roll out the red carpet. The governor rolled out the red carpet for his dinner guests. We'll roll out the red carpet for the senator
 roller coaster. The divorce was an emotional roller coaster for both. Her grades were on a roller coaster this semester, with highs and lows. Our sales numbers this year have been a roller coaster ride. The startup's journey has been nothing short of a roller coaster ride
 room for, no room for. Their work has been fairly good; Having said that, I still think there's a lot of room for improvement. There is still a lot of room for improvement. There is no room left for negotiation. There's no room for error in this project
 root cause. 
@@ -2075,7 +2069,6 @@ second guess, don't second-guess. I started to second-guess my choice of career.
 second pair of eyes. It is always useful to have a second pair of eyes to check what you're doing. It is always useful to have a fresh pair of eyes to check what you're doing
 second thoughts. After she agreed to lend him the money, she had second thoughts. She was having second thoughts about getting married. I'm going to ask her out on a date, no second thoughts
 secret formula, no secret formula. There's no secret formula to success; It takes hard work, dedication, and a little bit of luck. There's no secret formula to weight loss; You need to eat healthy and exercise regularly. There is no secret formula that will make you money with a press of a button
-secret ingredient. The secret ingredient to a happy marriage is communication and compromise. The company's new product is a hit, and everyone is wondering what the secret ingredient is
 secret sauce. Effective communication is the secret sauce for your career success. The comedian's secret sauce is his self-deprecating humor
 secret weapon. I think Daryl Ward is going to be our secret weapon. This is my secret weapon for pain
 secure, secured. The company's financial position is secure. She felt secure in her mother's arms. The bank vault is a secure place to store valuables. The funds were secured for the new project. The team secured a victory in the last game
@@ -2310,7 +2303,6 @@ surface, resurface. The rumors about the company's financial problems began surf
 surge. There was a sudden surge in demand for the new product. The company saw a surge in profits this year. Oil prices surged after the news of the supply cut
 surpass. Her talent surpasses that of any other dancer in the company. The child's intelligence surpasses his age. The company's profits surpassed expectations this quarter
 surplus. The company had a surplus of inventory, so they had to offer a sale. There's a surplus of teachers in this district, making it hard to find jobs
-surprise element. The surprise element in the movie kept the audience hooked till the end. Adding a surprise element to your presentation will make it more engaging
 surprisingly, not surprisingly. The exam was surprisingly easy. The tiny house had a surprisingly spacious living area. Not surprisingly, the team won the game. Not surprisingly, the new restaurant was packed on opening night
 surreal. The sudden appearance of the rainbow was surreal.  A big wave is a surreal kind of experience. The astronaut's view of Earth from space is surreal. It felt surreal to meet my childhood hero in person
 suspect. I suspect he is lying about his age. She began to suspect that her friend was hiding something. She was suspecting he might be lying. I’m suspecting that the package will arrive late
@@ -2373,7 +2365,6 @@ that's why it is so important. That's why it's so important to get a good educat
 the benefit of doubt. Let's give her the benefit of the doubt and assume that she is right. I don't believe that he didn't take the money, but I will give him the benefit of the doubt until I can prove otherwise
 the best part. The gift was thoughtful and well-chosen, but the best part is, it was handmade. The vacation was relaxing, the beach was beautiful, and the best part is, we met some wonderful people. The best part of the holiday was the food. The best part of the trip was spending time with my family
 the catch is, here is the catch. Salt Lake City has good schools for kids, but the catch is money. I’m offering you a promotion, but here is the catch: you have to move to our headquarters in another state. This phone is free, but here's the catch — you have to sign a 2-year contract.
-the equation has changed, changed the equation. With the rise of e-commerce, the retail equation has changed dramatically. With the shift to remote work, the productivity equation has changed. The pandemic has fundamentally changed the supply chain equation
 the first rule. The first rule of public speaking is to know your audience. The first rule of success is to believe in yourself
 the first step, the next step, logical next step. The first step in project management is to set a measurable objective. Writing an outline is the first step to a strong essay. We’ve gathered the requirements; The next step is to start the development phase. Now that we've decided to move, the next step is finding a new place to live. The logical next step is to test the product. Our logical next step should be to hire more staff
 the formula for success. My mentor told me that the formula for success is simple: find something you're passionate about and never give up on it. The 4Ds are the formula for success: direction, dedication, devotion, and discipline
