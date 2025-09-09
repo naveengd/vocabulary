@@ -71,8 +71,11 @@ const filterBar = document.getElementById('filterBar');
 const wordListElement = document.getElementById('wordList');
 const wordCountElem = document.getElementById('wordCount');
 const toggleBtn = document.getElementById('toggleExamples');
+
 let allWords = [];
 let examplesVisible = false; // default hidden
+let allExampleItems = [];    // cache all example elements
+let wordElements = [];       // cache word <li> for filtering
 
 // Create filter letters a-z
 for(let i = 97; i <= 122; i++) {
@@ -94,18 +97,20 @@ fetch('https://naveengd.github.io/vocabulary/words.txt')
             if(parts.length === 0) return;
             allWords.push({ word: parts[0], examples: parts.slice(1) });
         });
-        displayWords(allWords);
+        renderAllWords();
+        wordCountElem.textContent = allWords.length;
     })
     .catch(err => {
         console.error('Error fetching words:', err);
         wordListElement.innerHTML = '<li>Failed to load words. Please try again later.</li>';
     });
 
-function displayWords(wordsToDisplay) {
+function renderAllWords() {
     wordListElement.innerHTML = '';
-    wordCountElem.textContent = `${wordsToDisplay.length}`;
+    allExampleItems = [];
+    wordElements = [];
 
-    wordsToDisplay.forEach((item, index) => {
+    allWords.forEach((item, index) => {
         // Word item
         const wordItem = document.createElement('li');
         wordItem.classList.add('word-item');
@@ -116,7 +121,9 @@ function displayWords(wordsToDisplay) {
         numberSpan.textContent = ` ${index + 1}`;
         numberSpan.classList.add('word-number');
         wordItem.appendChild(numberSpan);
+
         wordListElement.appendChild(wordItem);
+        wordElements.push({ element: wordItem, word: item.word.toLowerCase() });
 
         // Examples
         const exampleItems = [];
@@ -124,12 +131,11 @@ function displayWords(wordsToDisplay) {
             const exampleItem = document.createElement('li');
             exampleItem.textContent = example;
             exampleItem.classList.add('example-item');
-
-            // 👇 Respect global toggle state
             exampleItem.style.display = examplesVisible ? 'list-item' : 'none';
-
             wordListElement.appendChild(exampleItem);
+
             exampleItems.push(exampleItem);
+            allExampleItems.push(exampleItem);
         });
 
         // Toggle individual word examples
@@ -140,27 +146,41 @@ function displayWords(wordsToDisplay) {
         });
     });
 
-    // Keep toggle button label in sync
     toggleBtn.textContent = examplesVisible ? 'Hide' : 'Show';
 }
 
 // Global toggle for all examples
 toggleBtn.addEventListener('click', () => {
     examplesVisible = !examplesVisible;
-    document.querySelectorAll('.example-item').forEach(ex => {
+    allExampleItems.forEach(ex => {
         ex.style.display = examplesVisible ? 'list-item' : 'none';
     });
     toggleBtn.textContent = examplesVisible ? 'Hide' : 'Show';
 });
 
+// Filter without rebuilding DOM
 function filterWords(letter, clickedElem) {
     document.querySelectorAll('.filter-letter').forEach(elem => elem.classList.remove('active'));
     clickedElem.classList.add('active');
-    const filtered = allWords.filter(item => item.word.toLowerCase().startsWith(letter));
-    displayWords(filtered);
+
+    let visibleCount = 0;
+    wordElements.forEach(({ element, word }) => {
+        const matches = word.startsWith(letter);
+        element.style.display = matches ? 'list-item' : 'none';
+
+        // hide/show that word’s examples too
+        let next = element.nextSibling;
+        while (next && next.classList.contains('example-item')) {
+            next.style.display = matches && examplesVisible ? 'list-item' : 'none';
+            next = next.nextSibling;
+        }
+
+        if (matches) visibleCount++;
+    });
+
+    wordCountElem.textContent = visibleCount;
     window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 </script>
 </body>
 </html>
-
