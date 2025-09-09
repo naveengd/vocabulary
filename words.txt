@@ -80,7 +80,7 @@ and lastly. I need to buy eggs, milk, bread, and lastly, some butter. It started
 anecdote. The teacher shared an anecdote about a time when she was a student. The politician used anecdotes to illustrate his points. He told me some anecdotes
 annoying. His constant complaining is really annoying. It’s annoying when people interrupt you while speaking
 anomaly. There is an anomaly in your blood test, but you're physically healthy. The scientist found some anomalies in the data
-another angle, different angle, multiple angles. Let's consider this problem from another angle. Let's look at the problem from a different angle. We need to consider the problem from multiple angles
+another angle, different angle, multiple angles, new angle. Let's consider this problem from another angle. Let's look at the problem from a different angle. We need to consider the problem from multiple angles. Looking at the problem from a new angle helped the team discover an innovative solution
 anticipate, anticipation. He didn't anticipate the traffic jam and arrived late. The store anticipates a rush during the weekend sale. The company is anticipating strong profits this quarter. They anticipated rain and brought umbrellas. The children waited in eager anticipation for Santa Claus to arrive
 antidote. Laughter is a good antidote to stress. Humor is often the best antidote to sadness
 anxious, anxiety. He was anxious that the weather would not improve in time for the party. She checked her phone anxiously, hoping for a reply. The upcoming deadline caused widespread anxiety among the team
@@ -119,7 +119,6 @@ astounding. The gymnast performed an astounding series of flips and twists, leav
 at a crossroads. After ten years together, Sarah and Michael found themselves at a crossroads in their relationship. After earning my degree, I'm at a crossroads. I need to figure out which direction my life should take
 at all costs. The company is determined to win the contract at all costs. Avoid negative cash flow at all costs. The government wanted to avoid war at all costs
 at any given point of time, at some point of time. At any given point of time, thousands of planes are in the air. Don't worry, help is available at any given point of time through the hotline. At some point of time, everyone faces challenges. You will need to make a decision at some point of time. At some point of time, the old house will need repairs
-at its core. At its core, the movie is about forgiveness and redemption. At its core, democracy relies on the voice of the people
 at least it will. I know the design isn’t final, but at least it will give them an idea of our concept. The product might not be profitable immediately, but at least it will build our brand presence
 at the cost of, at the expense of. She completed the project on time but at the cost of her health. We saved money on rent, but at the cost of a longer commute. They achieved quick results, at the expense of quality. The city prioritized development, at the expense of green spaces
 at the end of the day. At the end of the day, it's all about family. At the end of the day, I am responsible for what happens in the school
@@ -191,7 +190,7 @@ benchmark. Her outstanding performances set a new benchmark for singers througho
 beneath. The lost key was hidden beneath a pile of dirty laundry. We spread out a picnic blanket beneath the shade of a giant oak tree
 beneficial. Drinking water regularly is beneficial for your health. Regular sleep is beneficial for concentration and memory
 beside. I parked my car beside the red one. The statue of liberty stands proudly beside the water
-best bet. Your best bet would be to take a bus to the airport. I think our best bet is to go with the plan that we discussed earlier
+best bet, safe bet. Your best bet would be to take a bus to the airport. I think our best bet is to go with the plan that we discussed earlier. The department felt that she was a safe bet for the account manager position. The safe bet is to go with the majority opinion
 best of both worlds. Working at home lets me have the best of both worlds: a good income and time with Family. He chose a part-time job, getting the best of both worlds: income and free time. Tablets are known for their portability and can offer the best of both worlds: a smartphone and a laptop
 best piece of advice. It is one of the best pieces of advice I have ever got. This could be the best piece of advice for anyone: "Never stop learning and growing."
 betray, betrayal. Revealing the surprise would betray the party spirit. He betrayed his best friend by revealing his secret to everyone. John's secret deal with their competitor felt like a betrayal. 
@@ -199,7 +198,7 @@ better late than never. Better late than never. It took him years to apologize, 
 better off. He'd be better off working for a bigger company. Obviously we're better off now that we're both working
 better placed. They may be better placed financially than many tenants. With more funding, the research team is better placed to make a breakthrough
 betterment. She enrolled in a course for the betterment of her skills. Exercising regularly leads to the betterment of your health
-betting on, betting big on. The company is betting on a new marketing strategy. The company is betting on its new product to boost sales. Investors are betting big on renewable energy
+betting on, betting big on, biggest bets, bet big. The company is betting on a new marketing strategy. The company is betting on its new product to boost sales. Investors are betting big on renewable energy. Generative AI is one of our biggest bets. The tech giant's biggest bet was on self-driving cars. Global currency markets bet big on the pound remaining weak
 beyond imagination, beyond my imagination. The hero's courage was beyond imagination, inspiring all. The robot performed tasks with precision beyond imagination. Her kindness was beyond my imagination, leaving me speechless. Working abroad was enriching beyond my imagination
 beyond irritating. This is beyond irritating
 beyond me. Why they argue constantly is beyond me. Quantum physics is beyond me. The complexity of the engine was beyond me
@@ -216,7 +215,6 @@ big plus. Having flexible working hours is a big plus for employees. His experie
 big step, huge step, gaint step. Moving to another country was a big step for her career. The next big step for the company is to expand into new markets. Quitting his job to pursue art was a huge step, but he did it. Their apology was a huge step towards reconciliation. Moving to a new city was a giant step in her career. Developing this vaccine was a giant step for medical science
 big time. He messed up big time on that project. She regrets that decision big time
 bigger pie, slice of the pie. Promoters get the bigger pie. People see others getting pay raises and they want a slice of the pie. The company plans to acquire new businesses to grab a bigger piece of the pie
-biggest bets, bet big. Generative AI is one of our biggest bets. The tech giant's biggest bet was on self-driving cars. Global currency markets bet big on the pound remaining weak
 big-ticket. A house is the biggest big-ticket purchase most people make in their lifetime. Education and healthcare are big-ticket issues in the election campaign. Buying a car is a big-ticket decision, so do your research first
 bird's eye view. The introduction of the report gives an excellent bird's-eye view of the new project. Her presentation offered a bird's-eye view of the company's goals
 bit odd. It might be a bit odd that people become attached to currencies, but they do. Certainly, there was something a bit odd about the surgery set-up
@@ -451,7 +449,7 @@ convolute. Don’t convolute the issue by adding unnecessary details. His explan
 cookie-cutter. The article criticized the cookie-cutter approach to education, emphasizing individuality. The presentation was filled with cookie-cutter solutions, offering no fresh ideas. The company was known for its innovative spirit, not following cookie-cutter business models
 cool, cool thing. I have a cool thing to show you. Learning to code is a cool skill to pick up. Designing your own clothes sounds like a cool project. The cool thing about learning a new language is meeting new people
 cope. She tried to cope with the loss of her pet. Children often find it hard to cope with change. How are you coping with the new job? Coping with stress can be challenging
-core idea, core issue. The core idea of the book is that we are all connected. The core idea of the painting is the beauty of nature. The core issue with the new phone was its short battery life
+core, at its core, core idea, core issue. At its core, the movie is about forgiveness and redemption. At its core, democracy relies on the voice of the people. The core idea of the book is that we are all connected. The core idea of the painting is the beauty of nature. The core issue with the new phone was its short battery life
 core tenets, key tenets. Innovation is a core tenet driving this company's success. The core tenets of democracy are freedom of speech, freedom of assembly, and the rule of law. The core tenets of the new curriculum are to focus on critical thinking, to promote creativity, and to prepare students for the 21st century workforce. Honesty and respect are the key tenets of a strong friendship
 corner him. She cornered him at the party, demanding answers. With clever questioning, the lawyer cornered the witness
 cornerstone. Hard work is the cornerstone of success. Trust is the cornerstone of any healthy relationship
@@ -2059,7 +2057,6 @@ runway. The company has a lot of runway before it needs to raise more funding. T
 ruthless. He has a ruthless determination to succeed. We'll have to be ruthless if we want to make this company more efficient
 sabotage. Don't sabotage your teamwork by arguing with your partner. The rival company was suspected of sabotaging the product launch. Her negativity constantly sabotaged her own confidence
 sacrifice. She made a sacrifice to help her friend in need. He knew he had to sacrifice comfort for the greater good. He sacrificed his free time for the project. She sacrificed her favorite food to stay healthy
-safe bet. The department felt that she was a safe bet for the account manager position. The safe bet is to go with the majority opinion
 safe to say. It is safe to say that climate change is a real and pressing issue. It is safe to say that the Earth is round
 safe zone. I need to lose 6kg to get back to the safe zone
 safeguard. Regular checkups safeguard your health. Insurance can safeguard your finances in an emergency. It’s important to safeguard your interests when entering any business partnership. A strong password safeguards your online accounts
@@ -2221,7 +2218,6 @@ sporadic, sporadically . The rain showers were sporadic, leaving some areas comp
 spot on. You were spot on. Your reviews are spot on. Your question was absolutely spot on
 spotlight. The problem was put under the spotlight. She is once again in the media spotlight
 sprinkle. Let's sprinkle some customer-centric language into the sales pitch. We should sprinkle some humor into the presentation to keep the audience engaged. The beach was sprinkled with colorful seashells. The manuscript was sprinkled with interesting ideas
-spur. Lower taxes should spur investment in the tech sector. On a spur of the moment, they decided to go for a hike. The rising cost of living spurred many to cut back on expenses
 spurt. Sales saw a sudden spurt after the celebrity endorsement. The runner gave a final spurt to cross the finish line first
 squander, don't squander. Don’t squander your time watching useless videos. You shouldn’t squander your talents. The team squandered their chances of winning by making too many mistakes. The government squandered taxpayer money on unnecessary projects. He squandered all his savings on gambling
 stabilize. 
