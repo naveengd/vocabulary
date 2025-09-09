@@ -50,12 +50,16 @@
         color: #333333;
         cursor: pointer;
     }
-    .example-item {
-        margin-left: 20px;
-        margin-top: 15px;
+    .examples-list {
+        margin-left: 30px;
+        margin-top: 10px;
+        padding-left: 15px;
+        display: none; /* hidden by default */
+    }
+    .examples-list li {
         font-size: 1.1rem;
         color: #888888;
-        display: none; /* Hidden by default */
+        margin-top: 8px;
     }
     .word-number { font-size: 0.5em; color: gray; margin-left: 8px; }
 </style>
@@ -67,17 +71,17 @@
 </div>
 <ul id="wordList"></ul>
 <script>
-const filterBar = document.getElementById('filterBar');
 const wordListElement = document.getElementById('wordList');
 const wordCountElem = document.getElementById('wordCount');
 const toggleBtn = document.getElementById('toggleExamples');
 
 let allWords = [];
 let examplesVisible = false; // default hidden
-let allExampleItems = [];    // cache all example elements
+let allExampleLists = [];    // cache all <ul> example groups
 let wordElements = [];       // cache word <li> for filtering
 
 // Create filter letters a-z
+const filterBar = document.getElementById('filterBar');
 for(let i = 97; i <= 122; i++) {
     const letter = String.fromCharCode(i);
     const letterElem = document.createElement('span');
@@ -107,11 +111,11 @@ fetch('https://naveengd.github.io/vocabulary/words.txt')
 
 function renderAllWords() {
     wordListElement.innerHTML = '';
-    allExampleItems = [];
+    allExampleLists = [];
     wordElements = [];
 
     allWords.forEach((item, index) => {
-        // Word item
+        // Parent word <li>
         const wordItem = document.createElement('li');
         wordItem.classList.add('word-item');
         wordItem.textContent = item.word;
@@ -122,27 +126,26 @@ function renderAllWords() {
         numberSpan.classList.add('word-number');
         wordItem.appendChild(numberSpan);
 
-        wordListElement.appendChild(wordItem);
-        wordElements.push({ element: wordItem, word: item.word.toLowerCase() });
+        // Examples list nested under word
+        const exampleList = document.createElement('ul');
+        exampleList.classList.add('examples-list');
+        exampleList.style.display = examplesVisible ? 'block' : 'none';
 
-        // Examples
-        const exampleItems = [];
         item.examples.forEach(example => {
-            const exampleItem = document.createElement('li');
-            exampleItem.textContent = example;
-            exampleItem.classList.add('example-item');
-            exampleItem.style.display = examplesVisible ? 'list-item' : 'none';
-            wordListElement.appendChild(exampleItem);
-
-            exampleItems.push(exampleItem);
-            allExampleItems.push(exampleItem);
+            const li = document.createElement('li');
+            li.textContent = example;
+            exampleList.appendChild(li);
         });
 
-        // Toggle individual word examples
+        wordItem.appendChild(exampleList);
+        wordListElement.appendChild(wordItem);
+
+        wordElements.push({ element: wordItem, word: item.word.toLowerCase() });
+        allExampleLists.push(exampleList);
+
+        // Toggle examples on word click
         wordItem.addEventListener('click', () => {
-            exampleItems.forEach(ex => {
-                ex.style.display = ex.style.display === 'none' ? 'list-item' : 'none';
-            });
+            exampleList.style.display = exampleList.style.display === 'none' ? 'block' : 'none';
         });
     });
 
@@ -152,8 +155,8 @@ function renderAllWords() {
 // Global toggle for all examples
 toggleBtn.addEventListener('click', () => {
     examplesVisible = !examplesVisible;
-    allExampleItems.forEach(ex => {
-        ex.style.display = examplesVisible ? 'list-item' : 'none';
+    allExampleLists.forEach(list => {
+        list.style.display = examplesVisible ? 'block' : 'none';
     });
     toggleBtn.textContent = examplesVisible ? 'Hide' : 'Show';
 });
@@ -167,19 +170,11 @@ function filterWords(letter, clickedElem) {
     wordElements.forEach(({ element, word }) => {
         const matches = word.startsWith(letter);
         element.style.display = matches ? 'list-item' : 'none';
-
-        // hide/show that word’s examples too
-        let next = element.nextSibling;
-        while (next && next.classList.contains('example-item')) {
-            next.style.display = matches && examplesVisible ? 'list-item' : 'none';
-            next = next.nextSibling;
-        }
-
         if (matches) visibleCount++;
     });
 
     wordCountElem.textContent = visibleCount;
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    window.scrollTo(0, 0);
 }
 </script>
 </body>
