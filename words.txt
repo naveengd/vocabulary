@@ -117,6 +117,7 @@ assure, assurance, reassure. Don't worry, I assure you the train is always on ti
 astonishing, astonishment. She gave an astonishing performance in her first film. The view from the mountain peak was simply astonishing. I was astonished by his sudden decision to resign. His sudden arrival caused great astonishment. To my astonishment, he knew the answer
 astounding. The gymnast performed an astounding series of flips and twists, leaving the audience breathless. Despite limited resources, the team's innovation produced an astounding result
 at a crossroads. After ten years together, Sarah and Michael found themselves at a crossroads in their relationship. After earning my degree, I'm at a crossroads. I need to figure out which direction my life should take
+at a loss for words, short of words. The beauty of the sunset left me at a loss for words. When he proposed, she was at a loss for words. I’m short of words to express my appreciation for the team’s hard work this quarter. I’m short of words to thank you for your guidance during the project.
 at all costs. The company is determined to win the contract at all costs. Avoid negative cash flow at all costs. The government wanted to avoid war at all costs
 at any given point of time, at some point of time. At any given point of time, thousands of planes are in the air. Don't worry, help is available at any given point of time through the hotline. At some point of time, everyone faces challenges. You will need to make a decision at some point of time. At some point of time, the old house will need repairs
 at least it will. I know the design isn’t final, but at least it will give them an idea of our concept. The product might not be profitable immediately, but at least it will build our brand presence
@@ -173,7 +174,7 @@ battery of. The doctor ordered a battery of tests. The athlete faced a battery o
 be prepared, be prepared for anything, be prepared to be surprised. You be prepared for anything. You be prepared to be surprised
 beacon of. In a world of negativity, her optimism was a beacon of light, inspiring those around her. The internet has become a beacon of information, connecting people and ideas across the globe. The peace treaty was a beacon of hope for the war-torn region
 bear in mind, keep in mind, keep this in mind. Bear in mind that these figures are only estimates. Keep in mind that the deadline for submitting your application is next week. Keep this in mind: customer satisfaction should always be our top priority
-bear the brunt. Young people are bearing the brunt of unemployment. Schools will bear the brunt of cuts in government spending.  It's the little people who bear the brunt of taxation
+bear the brunt. Schools will bear the brunt of cuts in government spending.  It's the little people who bear the brunt of taxation. Young people are bearing the brunt of unemployment
 bear, bearable, unbearable. She could no longer bear the pain and broke down in tears. I was bearing my weight on one foot. With a little help, the workload became bearable. The pain in his leg became unbearable, so he went to the hospital
 beat around the bush, don’t beat around the bush. Don’t beat around the bush; Come to the point. I wish you would stop beating around the bush and just tell me what you want
 beating a dead horse. There's no point in arguing about it anymore; You're just beating a dead horse. He keeps trying to get it published but I think he's beating a dead horse. We’ve already made a decision; there’s no need to beat a dead horse
@@ -197,7 +198,7 @@ better late than never. Better late than never. It took him years to apologize, 
 better off. He'd be better off working for a bigger company. Obviously we're better off now that we're both working
 better placed. They may be better placed financially than many tenants. With more funding, the research team is better placed to make a breakthrough
 betterment. She enrolled in a course for the betterment of her skills. Exercising regularly leads to the betterment of your health
-betting on, betting big on, biggest bets, bet big. The company is betting on a new marketing strategy. The company is betting on its new product to boost sales. Investors are betting big on renewable energy. Generative AI is one of our biggest bets. The tech giant's biggest bet was on self-driving cars. Global currency markets bet big on the pound remaining weak
+betting on, betting big on, biggest bets. The company is betting on a new marketing strategy. The company is betting on its new product to boost sales. Investors are betting big on renewable energy. Generative AI is one of our biggest bets. The tech giant's biggest bet was on self-driving cars
 beyond imagination, beyond my imagination. The hero's courage was beyond imagination, inspiring all. The robot performed tasks with precision beyond imagination. Her kindness was beyond my imagination, leaving me speechless. Working abroad was enriching beyond my imagination
 beyond irritating. This is beyond irritating
 beyond me. Why they argue constantly is beyond me. Quantum physics is beyond me. The complexity of the engine was beyond me
@@ -229,9 +230,9 @@ blanket. We cannot provide blanket approval without reviewing each application c
 bleak. The future looked bleak without a job. The economic outlook is bleak for many industries
 blend. The new student's friendly personality helped her blend well with the class. The artist used a soft brush to blend the colors, creating a smooth transition. Her neutral outfit allowed her to blend into the crowd unnoticed. Her personality is a blend of kindness and strength. The training program is a blend of theory and practice. The colors on the canvas blended beautifully. His humour blends well with his serious teaching style, keeping students engaged
 blessed. We are incredibly blessed to have such loving parents. I feel so blessed to have you as my friend
-blessing and a curse. Living near the beach is a blessing and a curse - beautiful views but constant tourist traffic. Technology is a blessing and a curse, making life easier but raising privacy concerns
 blessing in disguise. The lock down in 2020 proved to be a blessing in disguise. It gave me lots of time to spend with my family. The rain delay was frustrating, but it was a blessing in disguise as we avoided the traffic jam
-blessing, blessings of, came as a blessing. The unexpected rain came as a blessing to the farmers, who were suffering from a drought. The new neighbor came as a blessing to the elderly couple, who had been living alone for many years. NSE clearly had the blessings of the government at the Centre. You need to have the blessings of at least one onsite partner for transfer. The CEO gave his blessing to the new marketing campaign. I need to get my boss's blessing before I can make any changes to the project
+blessing, curse, blessing and a curse. The unexpected rain came as a blessing to the farmers, who were suffering from a drought. The new neighbor came as a blessing to the elderly couple, who had been living alone for many years. The traffic jam was a curse on his morning commute. Her beauty was a blessing and a curse. She avoided cursing even when she was frustrated. Cursing in public can sometimes lead to misunderstandings. Living near the beach is a blessing and a curse - beautiful views but constant tourist traffic. Technology is a blessing and a curse, making life easier but raising privacy concerns
+blessings of. NSE clearly had the blessings of the government at the Centre. You need to have the blessings of at least one onsite partner for transfer. The CEO gave his blessing to the new marketing campaign. I need to get my boss's blessing before I can make any changes to the project
 blind spot, blind spots. The company needs to address the blind spot in its marketing strategy. We need diverse perspectives to identify and overcome our blind spots. Let's discuss your blind spots on this project
 blinded. Her love for him blinded her. His optimism blinded him to many problems
 blindsided. We were all blindsided by the news of her sudden death. The traveler was blindsided by the unexpected flight cancellation. The homeowner was blindsided by the high cost of the repairs to her house
@@ -311,7 +312,6 @@ caliber. The team needed a leader of John's caliber to succeed. The university w
 calibrate, recalibrate, calibration, recalibration. We will have to calibrate ourselves to the expectation of new management. She recalibrated her priorities after a major life change. The company's marketing strategy needs calibration.The company's marketing strategy needs a recalibration to reach new customers
 call out, call me out. We need to call out bad behavior when we see it. She bravely called out the injustice. The issues were clearly called out. The meeting moderator called out the issue of the missing report. Call me out if I start exaggerating the story. Don't be afraid to call me out if you disagree with me
 can’t afford to. With gas prices so high, I can't afford to drive everywhere. Sarah can't afford to miss another day of school. We can't afford to have so many managers in the project
-can't be described in words, indescribable. The beauty of a mountain sunrise, a sight that can't be described in words. The feeling of pure joy after winning the race was indescribable
 can't go wrong. If you want good weather, you can't go wrong with Spain. For a quick meal you can't go wrong with pasta. You can't go wrong with a dark gray suit
 can't take this anymore. I'm so stressed out; I can't take this anymore. The heat is too much; I can't take this anymore. The constant arguments are too much; I can't take this anymore
 can't wait to. I can’t wait to see the new movie this weekend. I can’t wait to meet your parents
@@ -372,7 +372,7 @@ collate. I need to collate the survey results before the meeting. She will colla
 color commentary. She also did color commentary for some television gymnastics coverage. Her energetic color commentary kept the viewers engaged throughout the dance competition
 come a long way, long way to go. Self-driving cars have come a long way, but they still aren't perfect. You've come a long way as a pianist, keep practicing. There was still a long way to go; Nonetheless, some progress had been made
 come across. Don't worry, if you come across any broken links, just let me know. Have you ever come across a ghost story that actually scared you? I came across this book in an old bookstore in London. I came across a group of children playing
-come back and bite us, come back and bite us later. His poor treatment of his employees might come back to bite him some day. It will come back and bite us later
+come back and bite us. His poor treatment of his employees might come back to bite him some day. It will come back and bite us later
 come back to haunt, come back and haunt. His lies eventually came back to haunt him. Not saving money might come back to haunt you in retirement. She worries that her past mistakes will come back and haunt her. The unresolved arguments might come back and haunt their relationship
 come in handy. The money will come in handy when I want to travel. Oh, that spanner will come in handy for fixing the plumbing
 comes at a price. Early retirement comes at a price. You will have less money to live on. Fame comes at a price — you lose your privacy
@@ -415,7 +415,7 @@ confront, confrontation. He is willing to confront problems directly. When we co
 connect the dots. All the information is there in the article — you just need to connect the dots. It took me a long time to connect the dots, but now I finally understand why my best friend was spending so much time with my brother. They’re in love
 connotation. The word ‘discipline’ has unhappy connotations of punishment and repression. The word can have a different connotation in different contexts. In recent years multimedia has taken on a negative connotation in the computer industry
 conquer. Let's conquer this problem together. She finally conquered her fear of heights
-conscious. I try to be conscious of time so that I can get everything done during the day. He made a conscious decision to back away. He made a conscious decision to back away. She made a conscious call to start eating healthier
+conscious. I try to be conscious of time so that I can get everything done during the day. He made a conscious decision to back away. She made a conscious call to start eating healthier
 consensus. It is difficult to reach a consensus about electoral reform. Despite some dissent, a consensus emerged to raise taxes
 consent. He did not give his consent for the use of his name in the advertisement. The party can't happen without parental consent
 consequences, consequently. The country is facing the consequences of its economic mismanagement. Long-term usage of the drug can have negative consequences on your health. The slightest error can have serious consequences. My car broke down and consequently I was late. She failed her exams and was consequently unable to start her studies at college
@@ -447,7 +447,6 @@ convolute. Don’t convolute the issue by adding unnecessary details. His explan
 cookie-cutter. The article criticized the cookie-cutter approach to education, emphasizing individuality. The presentation was filled with cookie-cutter solutions, offering no fresh ideas. The company was known for its innovative spirit, not following cookie-cutter business models
 cool, cool thing. I have a cool thing to show you. Learning to code is a cool skill to pick up. Designing your own clothes sounds like a cool project. The cool thing about learning a new language is meeting new people
 cope. She tried to cope with the loss of her pet. Children often find it hard to cope with change. How are you coping with the new job? Coping with stress can be challenging
-core tenets, key tenets. Innovation is a core tenet driving this company's success. The core tenets of democracy are freedom of speech, freedom of assembly, and the rule of law. The core tenets of the new curriculum are to focus on critical thinking, to promote creativity, and to prepare students for the 21st century workforce. Honesty and respect are the key tenets of a strong friendship
 core, at its core, core idea, core issue. At its core, the movie is about forgiveness and redemption. At its core, democracy relies on the voice of the people. The core idea of the book is that we are all connected. The core idea of the painting is the beauty of nature. The core issue with the new phone was its short battery life
 corner him. She cornered him at the party, demanding answers. With clever questioning, the lawyer cornered the witness
 cornerstone. Hard work is the cornerstone of success. Trust is the cornerstone of any healthy relationship
@@ -500,14 +499,13 @@ cultivate. You must cultivate that habit of being grateful. You should cultivate
 cumulative. The cumulative effect of the small changes was significant. The cumulative cost of repairs was higher than expected
 curate. She spent hours curating the perfect playlist for her road trip. The social media platform allows users to curate their own news feeds. The bookstore has a well-curated selection of travel guides
 currency for success. Networking is the currency for success in any field. Hard work and dedication are the currency for success
-curse. The traffic jam was a curse on his morning commute. Her beauty was a blessing and a curse. She avoided cursing even when she was frustrated. Cursing in public can sometimes lead to misunderstandings
 curveball. Don't be surprised if they throw you a curveball in the interview; they just want to see how well you respond under pressure. Life can throw you a curveball when you least expect it. The pandemic threw a curveball at our business plans
 cushion. We didn't have a financial cushion when my husband lost his job. Bonds are used as a cushion in portfolios for markets just like this
 cusp of. The new technology is on the cusp of revolutionizing the industry. The team was on the cusp of victory, leading by one point with seconds left
 cut corners, don't cut corners. Don't try to cut corners when you're decorating. The company was forced to cut corners in order to save money
 cut the crap. Just cut the crap and tell me what really happened
 cuts across. The new law cuts across regulations from several departments. The love of music cuts across all ages
-cynical. I hope I don't sound unduly cynical. Do you have to be so cynical about everything? The weather was bleak, with rain and strong winds
+cynical. She’s cynical about politicians, assuming they all make promises they won’t keep. Employees grew cynical after repeated promises of bonuses never materialized. Some investors are cynical about the company’s sudden shift to sustainability, suspecting it’s just marketing
 dampen. Nothing could dampen her enthusiasm. The rain dampens our plans for a picnic. The rain is dampening our picnic plans. The fire alarm momentarily dampened the lively party atmosphere
 daunting. The daunting task of climbing Mount Everest loomed before us. The daunting task of raising a child is one that should not be taken lightly. They were faced with the daunting task of restoring the house
 day in day out. I used to drink coffee day in, day out. The constant deadlines made the job stressful, day in and day out
@@ -1177,6 +1175,7 @@ inculcate. I try to inculcate a sense of responsibility in my children. Parents 
 incur. We may incur a late fee if we don't return the rental car on time. The experiment incurred some unexpected costs
 indeed. This was indeed the most memorable day of my life. Do you agree? Yes, indeed
 in-depth. We need an in-depth analysis of the market trends. The report provides an in-depth look at our competitors. Let’s have an in-depth discussion about the new marketing strategy
+indescribable. The feeling of pure joy after winning the race was indescribable. The customer’s delight after the issue was resolved was simply indescribable
 indicate, indicator, indication, indicative. Early signs indicate that the economy is recovering. The flashing light indicates a system error. Gold prices are often seen as an indicator of inflation. Her smile was an indication that she was happy. The rise in unemployment is indicative of a growing economic crisis
 indulge, indulgence. Don't indulge in negativity, focus on the positive. I'm indulging in a chocolate bar after a long day of work. They indulged in a playful argument about the best movie. Chocolate is my only indulgence
 inevitable. Compromise is an inevitable part of marriage. Change is inevitable in life. Death is inevitable. With so much rain, flooding was inevitable
@@ -2051,7 +2050,7 @@ saturated, saturation. The market is saturated with smartphones, making it hard 
 savior. The firefighter was a savior to the people trapped in the building. The teacher was a savior to the students struggling with the subject. The new software update was a savior for the troubled system
 savvy. Savvy investors know how to buy low and sell high. A savvy social media manager knows how to engage their audience. Be tech-savvy, these days basic computer skills are essential
 scapegoat. He has been made a scapegoat for the company's failures. The intern became the scapegoat for the marketing team's failed campaign
-scare. The drought caused a scarcity of fresh water in the region. Affordable housing is becoming increasingly scarce in the city
+scarce, scarcity. Water is scarce in desert regions. Skilled talent in artificial intelligence is scarce, driving up salaries. The drought caused a scarcity of fresh water in the region
 scores on, scored points. The new movie really scores on action. The new marketing campaign really scored with the target audience. The student scored points with the teacher by volunteering to help out in class. The salesperson scored points with the customer by offering a free gift with purchase
 scout. A team of four was sent to scout for a nuclear test site. I'm scouting around for a cheap second-hand car
 scratching the surface, scratch beneath the surface. This essay is so short that it can only scratch the surface of the topic. The field of robotics is still in its early stages, and we are just scratching the surface of what is possible. This article only scratches the surface of the complex issue of climate change. If you scratch beneath the surface, you'll find she's really a very nice person
@@ -2092,7 +2091,7 @@ shattered. The news left him shattered and speechless. The company's reputation 
 shed light, shed some light, throw some light. Recent research has shed light on the causes of cancer. The new evidence could shed light on the cause of the crime. As an economist, he was able to shed some light on the problem. Can you shed some light on what happened last night?
 sheer. The sheer complexity of the problem made it difficult to solve. The sheer amount of information available online. It was sheer luck that I found my wallet after I thought I had lost it. The delays are due to the sheer volume of traffic. It gives you the experience of sheer joy and fulfillment
 shell out. Advertisers to shell out a lot of money for this targeting. The company is not willing to shell out the money for a new marketing campaign
-shelve. I have had to shelve my plans to buy a new car, because I can't afford it now. We should shelve this project for now, it needs more planning. We shelved that idea. We shelved the plan for a road trip due to bad weather. The teacher shelved the planned activity due to time constraints
+shelve. I have had to shelve my plans to buy a new car, because I can't afford it now. We should shelve this project for now, it needs more planning. We shelved the plan for a road trip due to bad weather. The teacher shelved the planned activity due to time constraints
 shield. The parents were a shield for their children during the storm. The glass shielded the room from the noise outside
 shift gears. I have been talking for 40 minutes so now I'll shift gears and take some of your questions
 shine. Don't be afraid to let your personality shine. The team needs everyone to shine for them to win. He shines in many areas. He always shines in moments of crisis, staying calm and collected
@@ -2103,7 +2102,6 @@ shoot up. She saw the prices shoot up after the announcement. The stock market c
 shooting yourself in the foot. I think you might be shooting yourself in the foot if you don't take his offer
 shore up. The tax cuts are supposed to shore up the economy. The company is launching a marketing campaign to shore up its brand image. They need to shore up their defence before the next match
 short and sweet. Her speech was short and sweet. The meeting was short and sweet. They had a short and sweet conversation
-short of words. I am short of words to describe the joy I felt when I learned that I was going to be a parent. I'm short of words to describe how much I love you
 short sighted. The short sighted plan to cut funding for education will only hurt our children in the long run. The company's decision to cut costs by laying off employees was a short sighted strategy that ultimately led to its downfall
 shortcomings. Whatever his shortcomings as a husband, he was a good father to his children. We can and must overcome our shortcomings
 shortfall. The drought caused serious shortfalls in the food supply. The company's revenue shortfall is due to a decline in sales. There is a shortfall in the company’s budget this year
@@ -2119,7 +2117,7 @@ sideline. He was sidelined from the project due to illness. The athlete was side
 sidetracked. I got sidetracked by emails and didn’t finish my work. Don’t get sidetracked by minor details; focus on the main issue
 sign of, signs of. Adjusting your tie is often a sign of nervousness. The snow showed no sign of melting. Headaches may be a sign of stress The change in the temperature is a sign that winter was on its way. The economy is showing signs of recovery.  I'm very happy that your health is showing signs of improvement. She showed signs of improvement after starting the new medication. He noticed signs of fatigue in his friend’s eyes. Her speech showed signs of nervousness
 sign up, signed up. They decided to sign up for the volunteer program. Our company signed up as a sponsor for the local charity event. We have signed up to volunteer at the shelter. We have signed up for the early bird discount
-signals. This signals a change in policy. This signals a new beginning. The company's stock price signaled that investors were confident in its future. The experiment is signaling a positive outcome
+signals, strong signal, positive signal, sends a wrong signal. This signals a change in policy. This signals a new beginning. The company's stock price signaled that investors were confident in its future. The experiment is signaling a positive outcome. It's time to send a strong signal. The recent increase in crime is a strong signal that the police need more resources. Early completion of the prototype is a positive signal that the project is on track. An increase in repeat customers is a positive signal for product-market fit. The company's decision to lay off employees sent the wrong signal to the market. The politician's recent comments about women sent the wrong signal about his views on equality. 
 significant, significantly, significance, insignificant. Share prices showed significant advances today. A significant number of people voted for the new candidate. The results of the study were significantly different from what we expected. The company's profits have increased significantly in the past year. What is the significance of this date to you?. The economist explained the economic significance of interest rates. The error in the report was insignificant and did not affect the final results. The number of complaints was insignificant relative to our customer base
 signify. A loud bang might signify danger. The red rose signifies love and passion. A raised hand signifies a desire to speak. Their smiles signified happiness
 silo, silos. The marketing team worked in a silo, unaware of the sales figures. Don't be afraid to share your ideas, let's not work in silos
@@ -2165,7 +2163,6 @@ so-called. That so-called plumber ruined my bathroom. So-called experts can't fi
 socialize. It's important to socialize with your coworkers to build good relationships. Children learn how to socialize at school
 soften the blow. Officials are considering all kinds of exemptions to soften the blow. He brought her flowers to soften the blow of forgetting their anniversary
 solely. Don't judge a book solely by its cover. The decision was made solely on the company's needs
-solicited. He called a meeting to solicit their views. She solicited support from other teachers. The teacher solicited feedback on the new lesson plan
 solid. He gave a solid performance in the interview. The company has a solid reputation in the market. His argument was based on solid evidence
 solidify. Consistent design and messaging help solidify brand identity in the customer’s mind. Revising your notes right after class can solidify your understanding of the subject. The CEO’s visit helped solidify employee trust in the management
 some plus and minuses. Every job has some pluses and minuses. Living in a big city has some pluses and minuses
@@ -2193,7 +2190,7 @@ spike. He felt a spike in his heart rate during the workout. There was a spike i
 spill the beans. He was afraid she would spill the beans. He accidentally spilled the beans about the movie's ending. We need to figure out who spilled the beans about the undercover operation
 spin a story. They spun us a story about being in desperate need of money. They spun a story that is completely false
 spiral out of control. With one missed rent payment, her finances began to spiral out of control. One bad decision after another caused their relationship to spiral out of control
-spirit. 
+spirit. Our employees showed great team spirit during the tight deadline. The initiative captures the true spirit of innovation
 spit out. The computer spit out a long list of errors. She spit out the answer without thinking
 splendid. You did a splendid job. The politician gave a splendid speech. The chef cooked a splendid meal
 spontaneous. It was a spontaneous decision to take a road trip. His spontaneous reaction was to hug her
@@ -2204,7 +2201,7 @@ spotlight. The problem was put under the spotlight. She is once again in the med
 sprinkle. Let's sprinkle some customer-centric language into the sales pitch. We should sprinkle some humor into the presentation to keep the audience engaged. The beach was sprinkled with colorful seashells. The manuscript was sprinkled with interesting ideas
 spurt. Sales saw a sudden spurt after the celebrity endorsement. The runner gave a final spurt to cross the finish line first
 squander, don't squander. Don’t squander your time watching useless videos. You shouldn’t squander your talents. The team squandered their chances of winning by making too many mistakes. The government squandered taxpayer money on unnecessary projects. He squandered all his savings on gambling
-stabilize. 
+stabilize. The government introduced measures to stabilize the economy after inflation surged. Our priority this quarter is to stabilize operations before scaling further
 stacks up, stacked. The evidence stacks up against the suspect. His excuses don’t really stack up. Problems started stacking up one after another. They have a stacked lineup of performers for the concert. The shelves in the pantry were stacked with groceries. The odds seemed stacked against them
 staggering. The storm caused a staggering amount of damage. The news report revealed a staggering number of missing persons
 stagnant. The economy has been stagnant for months. The stagnant traffic made me late for work
@@ -2247,19 +2244,18 @@ stood for. The old oak tree stood for strength and resilience in the village. Th
 stood the test of time. The drainage system has stood the test of time. These therapies have stood the test of time and are as effective today as they were two hundred years ago
 stoop. She wouldn’t stoop to lying, even to win the argument. He stooped so low as to spread false rumors
 stopgap. We made a stopgap arrangement by making our daughter sleep in the bedroom and our son in the drawing room. The students used candles as a stopgap light source when the power went out
-story line. The main story line describes the pure, innocent love of the young couple. The surprise twists in the storyline are the film's greatest strength
+storyline. Our campaign follows a clear storyline to connect with customers emotionally. The presenter crafted a compelling storyline for the pitch deck
 straightforward. The instructions were clear and straightforward. The process is quite straightforward if you follow the steps
 strangely. The cat behaved strangely after being fed. He reacted strangely to the unexpected news
 strategy, strategic. My strategy for studying is to focus on one subject each day. Her strategic use of humor helped defuse the tension. We need a strategic marketing plan to reach new customers. Acquiring that startup was a strategic move to enter the AI market.
 streamline. To save time in the mornings, I decided to streamline my routine by prepping my outfit the night before. The company streamlined its operations by eliminating unnecessary steps. The software company has streamlined its product development process, which has led to faster time to market
 strengthen. Meditation helps strengthen your focus and patience. The new evidence strengthens the argument for stricter environmental laws
 stringent. The new building code has stringent fire safety regulations. The company faces stringent budget limitations this year
-strip. 
+strip. The company had to strip away unnecessary costs to survive the downturn. The new regulations strip firms of certain tax advantages
 strive. We must all strive to do better. She always strives for perfection. Despite challenges, the team strives for a positive outcome. We are constantly striving to improve our service. She is striving to improve her grades
 strong case. There is a strong case for postponing the exam. There is a strong case for increasing the budget this year
 strong opinion. I have a very strong opinion that he did not write that speech himself
-strong signal, positive signal, send a strong signal, sends a wrong signal. It's time to send a strong signal. The recent increase in crime is a strong signal that the police need more resources. Early completion of the prototype is a positive signal that the project is on track. An increase in repeat customers is a positive signal for product-market fit. The company's decision to lay off employees sent the wrong signal to the market. The politician's recent comments about women sent the wrong signal about his views on equality. 
-structure, restructure. 
+structure, restructure. The HR team will structure the training program in modules. We need to structure the project timeline to ensure all tasks are completed on schedule. The company decided to restructure its operations to cut costs and improve efficiency. The bank is restructuring its debt to reduce interest payments
 stubborn. Despite the heat, he stubbornly refused to take off his jacket. Negotiations stalled due to both parties' stubborn position
 stuck. I’m stuck on this math problem. We got stuck in traffic for two hours
 stumbled. I stumbled on this book Atomic Habits by chance. I stumbled across the place quite by chance
@@ -2286,7 +2282,7 @@ superb. The chef prepared a superb meal for the guests. Her performance in the p
 supercharge. The company is looking to supercharge its growth by expanding into new markets. The new software update will supercharge your computer's performance. She gave a supercharged performance that impressed everyone. The team came back after the break supercharged and ready to win
 superficial. Even a superficial inspection revealed serious flaws. He has a superficial knowledge of this subject
 superior, inferior, superiority. Her chess skills were considered superior by many. Her cooking skills are superior to mine. They were looking for superior quality in the fabric. The laptop has superior battery life. The inferior quality paint job started peeling off after a few months. Don't compare yourself to others, you're not inferior in any way. Our company’s technological superiority sets us apart from the competition. The team’s victory demonstrated their superiority over the competition
-superpower. 
+superpower. Innovation is our company’s superpower, allowing us to stay ahead of competitors. The startup’s superpower is rapid prototyping and iteration
 supervise, supervision. The teacher supervised the students taking their exams. A volunteer supervised the children's art project. The project was successful due to effective supervision. She completed the task without any supervision
 supplement. The money I get from teaching evening classes provides a supplement to my main income. Working weekends helped supplement his income. The lecture was supplemented by a slideshow presentation
 supposed, supposedly. The meeting was supposed to start at 10am, but it's already 10:15 and no one has shown up. The company is supposedly going to be acquired by a larger competitor
@@ -2338,6 +2334,7 @@ tasted success. After years of hard work, the company finally tasted success. De
 tax the top. We can't always tax the top performers
 tedious. Entering all the data by hand was a tedious process. She found folding laundry a tedious chore
 tend, tendency. Dogs tend to be loyal companions. I tend to forget names easily. She tends to avoid crowded places. He has a tendency to forget names. The stock market has a tendency to go up and down. The company has tendencies to favor innovative ideas
+tenet, core tenets, key tenets. Innovation is a core tenet driving this company's success. The core tenets of democracy are freedom of speech, freedom of assembly, and the rule of law. The core tenets of the new curriculum are to focus on critical thinking, to promote creativity, and to prepare students for the 21st century workforce. Honesty and respect are the key tenets of a strong friendship
 tenure. After two years, her short tenure as CEO came to an end. During his tenure, the team won three consecutive championships
 terrible, terribly. The movie was terrible, a total waste of time. I spilled coffee all over myself, what a terrible morning. The movie was terribly boring, I almost fell asleep. I miss my family terribly while I'm away
 terrific. You look terrific in that outfit. They did a terrific job cleaning the house. That's terrific news
@@ -2622,7 +2619,6 @@ you heard that right, you heard me right. I just won the lottery—you heard tha
 you name it. The camp offers horse riding, tennis, water sports, you name it. They have classes in painting, pottery, dance, you name it
 you won't believe. You won't believe what I just heard!. You won’t believe how much progress she has made in just a month
 you won't regret. Try the new restaurant; you won't regret it. Buy this book; you won't regret reading it. Invest in this course; you won’t regret your decision
-your thoughts. Your thoughts Alex. Your thoughts please. Your thoughts on this topic would be greatly appreciated
 zero in on. Let’s zero in on the root cause of the problem. The scientists are zeroing in on the cause of the disease. The teacher zeroed in on the student who was disrupting the class
 zoom out. Can you zoom out a bit so I can see the whole picture?. Let's zoom out a bit and look at the bigger picture
 zzgeneral. All good
@@ -2680,3 +2676,4 @@ zzgeneral. Welcome to the team; It is great to have you onboard
 zzgeneral. Well done team; Keep going
 zzgeneral. What is stopping us from doing this?
 zzgeneral. Yes No Maybe
+zzgeneral. Your thoughts Alex. Your thoughts please. Your thoughts on this topic would be greatly appreciated
