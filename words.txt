@@ -557,7 +557,6 @@ desperate, desperately, desperation. Lost in the desert, she was desperate for w
 despite, in spite of. Despite the rain, we went for a walk. Despite being tired, she finished the project. In spite of the rain, we went for a walk. In spite of being tired, she finished the project
 deteriorate. His health began to deteriorate quite seriously. The economic situation in the country is deteriorating rapidly. His health has been deteriorating rapidly. Her health deteriorated rapidly after the accident
 determined, determination. He was determined to become a pilot. I'm determined to get this piece of work done today. Despite facing many setbacks, she never lost her determination. The team's determination to win was evident on their focused faces
-detrimental. Smoking is detrimental to your health. Their decision could be detrimental to the future of the company
 devastating. The discovery of the fraud had a devastating impact on the company's reputation. He delivered the devastating news with a quiet voice. He would be devastated without you
 deviate, deviation. The experiment will fail if you deviate from the standard procedure. We need to avoid deviating from the plan. She deviated from the original plan and went her own way. The deviation from the original plan caused a delay
 devil is in the details. While the plan looks good overall, the devil is in the details. We need to review the contract carefully; the devil is in the details
@@ -593,7 +592,7 @@ disguise. We took elaborate measures to disguise ourselves as locals. The bitter
 disgusting. I know you're jealous, but this is disgusting
 disheartening. It's disheartening to see so little result for your efforts. I've had some rather disheartening news. The results of recent research are rather disheartening
 disinterested. Sarah remained disinterested in the heated debate
-disparity. There was a surprising disparity in the price of apples at different stores. The test scores showed a troubling disparity between boys and girls
+parity, disparity. The company is working toward pay parity between men and women. The new rules were introduced to ensure parity among all competing teams. There was a surprising disparity in the price of apples at different stores. The test scores showed a troubling disparity between boys and girls
 dispute, undisputed, not disputing. The company is in a dispute with the supplier. She disputes the claim that she was late. I am not disputing your opinion, but I do have a different perspective. I am not disputing the fact that the Earth is round. They disputed the election results. he CEO was recognized as the undisputed leader in the tech industry. Her expertise in the field is undisputed
 disrespectful. It’s disrespectful to interrupt someone while they are speaking. Disrespectful behavior will not be tolerated in this class
 dissect. Let's dissect this problem. She dissected each point of his argument
@@ -616,7 +615,7 @@ dodge. He managed to dodge the question during the interview. They managed to do
 doesn’t add up. His story just doesn't add up. He said the numbers simply did not add up
 doesn't surprise, i won't be surprised, not surprised. It does not come as a surprise that the team won the game; They have been playing well all season. Knowing this group, I won't be surprised if we get blunt questions. She has resigned; It doesn't surprise me. Paulina's learning Italian now? I'm not surprised—she's always had a passion for languages. The harm of over diagnosis shouldn't come as a surprise.  I was not so much surprised by the news as I was disappointed
 doing everything possible. She studied for weeks, doing everything possible to ace the exam. We're doing everything possible to find a cure for this disease. I am doing everything in my power to get you a good role
-dominate,dominant. The company dominates the market for smartphones. The tall building dominates the skyline. The dominating factor in the car accident was speed. Our team dominated the match with a score of 10-0. The blue color was dominant in the painting. The dominant factor in the experiment was temperature
+dominate, dominant. The company dominates the market for smartphones. The tall building dominates the skyline. The dominating factor in the car accident was speed. Our team dominated the match with a score of 10-0. The blue color was dominant in the painting. The dominant factor in the experiment was temperature
 don’t quote me. Don't quote me on this but I heard she's getting a divorce
 don’t take it to heart. I was just giving you feedback; don’t take it to heart. Don’t take his rude comment to heart; he was just having a bad day. She told me not to take it to heart when she rejected my idea
 don't be afraid to. Don't be afraid to raise your hand if you face any challenge. Don't be afraid to ask for help if you need it. Don't be afraid to speak your mind, your voice matters
@@ -651,7 +650,7 @@ draw your own conclusion. I'm just giving you the facts, so you can draw your ow
 drawback. Living near the city is convenient, but noise pollution is a drawback. Working from home is flexible, but social isolation can be a drawback
 drill down. Let’s drill down into the report to find the mistake. The analysts drilled down into the data to find the root cause of the problem. The manager drilled down into the employee's performance reviews to see where they could improve
 driver of, drivers of. Climate change is a major driver of migration in some countries. Technology and innovation are drivers of economic growth. Passion and discipline are the main drivers of his success
-driver's seat. The CEO is in the driver's seat when it comes to making decisions about the company's future. The individual is in the driver's seat when it comes to taking control of their own life
+driver's seat, back seat. The CEO is in the driver's seat when it comes to making decisions about the company's future. The individual is in the driver's seat when it comes to taking control of their own life. I am happy to take a back seat and give someone else the opportunity to manage the project. I have taken a back seat on this project for now
 drives. Effective leadership drives team performance. Curiosity drives innovation
 driving factor. Fuel economy is not a driving factor for most consumers right now. With technology no longer a driving factor, price is the primary consideration
 driving force, guiding force. Technology is a major driving force in globalization. Ron is the driving force behind the project. The teacher was a guiding force in the student’s career. Her grandmother’s advice was a guiding force in her life decisions
@@ -690,7 +689,7 @@ embrace. She is always ready to embrace an opportunity. Contribute your ideas, t
 emerge. New technologies emerge every year. A leader must emerge from the group. The city is emerging as a tech hub. She emerged as the top student in her class. The economy emerged from the recession stronger than expected
 eminent. Dr Smith is eminent in his field. She was one of the world's most eminent economists. Dr Abdul Kalam was an eminent scientist and leader
 empathy, empathetic. With empathy, the teacher was able to understand why the student was acting out. He showed empathy for his co-worker who was going through a tough time. The leader's empathetic approach helped to calm tensions during the negotiations. Teachers who are empathetic can create a safe and supportive learning environment for their students
-emphasis, emphasize, re-emphasize. Our company puts the emphasis on quality. The school puts a lot of emphasis on teaching children to read and write. She emphasized the importance of fresh fruit and vegetables in the diet. The doctor re-emphasized the need for a healthy diet and exercise. The doctor has been emphasizing the need for a healthy diet
+emphasis, emphasize, re-emphasize. Our company puts the emphasis on quality. The school puts a lot of emphasis on teaching children to read and write. The doctor has been emphasizing the need for a healthy diet. She emphasized the importance of fresh fruit and vegetables in the diet. The doctor re-emphasized the need for a healthy diet and exercise
 empower. It is time to empower elderly people too. The first step in empowering the poorest sections of society is making sure they vote. The new policy is empowering employees to make decisions. Good leaders make their teams feel empowered to share ideas
 emulate. Realm is seeking to emulate the success of its competitors. The young athlete hopes to emulate the success of her role model
 enabled, enabler. The new software enabled us to work more efficiently. His financial support enabled her to pursue higher education. Education is a major enabler of social mobility. Technology can be an enabler of progress and innovation
@@ -770,8 +769,8 @@ eyewash. I think the interview is an eyewash; the candidates have already been s
 fabricate. Don’t fabricate lies to cover mistakes. She was accused of fabricating data. Her excuse about a flat tire was clearly fabricated
 fabulous. She looked absolutely fabulous in her dress. The weather has been fabulous
 facade. She kept a cheerful facade, but inside she was worried. His calm manner was just a facade to hide his nervousness. She used humor as a facade to mask her sadness
-face saving. It was a face-saving decision to avoid public blame. His apology was more of a face-saving move. The company gave a face-saving explanation to the media
-face the music. He finally faced the music and admitted that he was the one who stole the money. The student knew that she would have to face the music when her parents found out that she had gotten a D on her test
+face-saving. It was a face-saving decision to avoid public blame. His apology was more of a face-saving move. The company gave a face-saving explanation to the media
+face the music. The student knew that she would have to face the music when her parents found out that she had gotten a D on her test. He finally faced the music and admitted that he was the one who stole the money
 facets. The well-rounded student excelled in all facets of academics, sports, and music. We need to consider all facets of the issue before making a decision. The facets of the problem were complex and interrelated
 facilitate, facilitation. The new self-checkout lanes facilitate faster grocery shopping. An online forum was created to facilitate discussions. Effective facilitation makes meetings more productive
 fact of the matter is. She keeps blaming the team, but the fact of the matter is she missed the deadline herself. We can debate for hours, but the fact of the matter is we don’t have enough budget to continue
@@ -794,7 +793,7 @@ fantastic. We had a fantastic time at the beach. The food at that restaurant was
 fantasy. You are living in a fantasy. Winning the lottery was just a daydream, a financial fantasy
 far from over, far from perfect. Don't celebrate yet, the game is far from over. Despite progress, the fight for clean air is far from over, Our relationship is far from perfect, but we make it work through mutual understanding. Although the system is still far from perfect, these efforts appear to have resulted in some change
 far-fetched. Winning the lottery twice seems far-fetched, but not impossible. The idea of living on Mars one day doesn't seem so far-fetched anymore. Winning the lottery seemed like a far-fetched dream to him
-fascinates. Her unique talent fascinates everyone who sees it. Hong Kong is a vibrant, fascinating city. I found the whole film fascinating. I was fascinated by her voice
+fascinate. Her unique talent fascinates everyone who sees it. Hong Kong is a vibrant, fascinating city. I found the whole film fascinating. I was fascinated by her voice
 fast forward, fast forward six months, fast forward ten years. Fast forward six months and nothing has changed. Fast-forward ten years, and the city was unrecognizable
 fast track. He is on the fast track to a promotion. They fast tracked the release of the new software update
 fat package, fat commission. Marketing team geta a fat commission on sale of each flat. He received a fat package
@@ -804,7 +803,6 @@ feather in the cap. The award was another feather in his cap. Finally mastering 
 fiction. He reads mostly fiction. They were supposed to be keeping up the fiction that they were happily married
 fiddling. Annoyed with the wait, I started fiddling with my phone case. He spent the whole meeting fiddling with his pen, clearly bored
 fierce, fiercely. Despite fierce competition, she won the gold medal. The debate turned into a fierce argument. The students debated fiercely about the upcoming exam. The rescue team searched fiercely for survivors
-fighting a losing battle. With the tools we have today, we're fighting a losing battle. They were fighting a losing battle against the forces of nature
 fill you in. No worries, I'll fill you in on everything you need to know. Hey, sorry I missed the meeting; Can you fill me in on what I missed?
 final nail in the coffin. A fine would be the final nail in the coffin of the airline. The politician's latest scandal was the nail in the coffin for their career
 find a way around. The students are always trying to find a way around the regulations. He tried to find a way around the company's dress code
@@ -832,9 +830,9 @@ flaunt. She likes to flaunt her wealth by wearing furs and jewelry. He tried to 
 flavor. Our new marketing campaign has a modern flavor. Our customer service approach has a personalized flavor to enhance client satisfaction. The ad campaign carries a humorous flavor to attract attention
 flaw, flawless. His argument had a major flaw. The plan has a serious flaw. The plan was fatally flawed from the start. The company was struggling due to a flawed marketing strategy. Her performance on stage was flawless. He played a flawless game of chess
 flex. The company needed to flex its production to meet demand. Don't bother flexing your knowledge, we all know you googled it. He casually flexed her bicep, showing off months of gym work
-flight that battle. I'm here to support you, but you have to fight that battle on your own. Isolated by his own choices, he was forced to fight that battle alone. He has been fighting the battle against addiction for years
+flight that battle, fighting a losing battle, half the battle. I'm here to support you, but you have to fight that battle on your own. Isolated by his own choices, he was forced to fight that battle alone. He has been fighting the battle against addiction for years. With the tools we have today, we're fighting a losing battle. They were fighting a losing battle against the forces of nature. Waking up early is half the battle to having a productive day. Having a plan is half the battle in any challenge
 flip side of, on the flip side. Loss of privacy is the flip side of fame.  I'll have to work long hours and be away from my family, but, on the flip side, I'll get the opportunity to travel around the world
-flip the switch. They will not flip the switch immediately. One bad review can flip the switch on a restaurant's success
+flip the switch. It’s time to flip the switch and start taking action. She can flip the switch and go from calm to energetic in seconds. When the exam started, he flipped the switch and focused completely
 float that idea. Let's float that idea to the team during the next meeting. Can we float that idea by the client and see what they think?
 flock. People flock to a low-risk asset. Thousands of people flocked to the beach this weekend. People flocked to hear him speak
 flourish. No new business can flourish in the present economic climate. Most plants will flourish in the rich deep soils here. The business flourished under new management
@@ -851,7 +849,7 @@ footsteps. He followed in his father's footsteps and became a motor mechanic. Sh
 for better or worse. They decided to stay together, for better or worse. He accepted the new job, for better or worse
 for instance. We can communicate in many ways, for instance, texting, calling, or video chatting. The park offers many activities, for instance, biking, swimming, and picnicking
 for that matter. Don't talk like that to your mother, or to anyone else for that matter. He doesn't trust his partner; For that matter I can't blame him
-for the sake of argument. Let’s say, just for the sake of argument, that you have got £200 to invest
+for the sake of argument, for the sake of discussion. Let’s say, just for the sake of argument, that you have got £200 to invest. For the sake of discussion, let’s assume the budget is unlimited
 forbid. The teacher forbid the students from talking in class. The doctor forbid me from eating any fatty foods
 forecast. We need to update our revenue forecast for the upcoming year. The demand forecast shows a spike in customer interest. The company is forecasting a 10% increase in sales next quarter. The finance team is responsible for forecasting quarterly revenue
 forefront. She was at the forefront of the campaign for women’s rights. The company has always been at the forefront of science and technology. The company is at the forefront of AI research
@@ -983,7 +981,6 @@ guardrail. The company's code of ethics acts as a guardrail, preventing employee
 guideline, guidelines. Please follow the company guideline for reporting expenses. These safety guidelines are crucial for your protection
 hack to. I found a hack to wake up early without feeling tired. Here's a simple hack to remember people's names more easily
 haggle. She didn't want to haggle, so she paid the asking price. Don't be afraid to haggle a little; you might save money. They spent half an hour haggling over the price of the carpet.
-half the battle. Waking up early is half the battle to having a productive day. Having a plan is half the battle in any challenge
 halfway. I lost interest halfway through the film The Dark Knight. My phone died halfway through the concert
 hallmark, hallmarks. Clear expression is the hallmark of good writing. Simplicity is a hallmark of this design. He had all the hallmarks of a great baseball player. 
 hammered. The football team got hammered by their rivals, losing 5-0. The company got hammered by the financial crisis and had to lay off half of its employees
@@ -2314,7 +2311,6 @@ tailor. We need to tailor our marketing strategy to fit the needs of the local m
 take a stab. Let me take a stab at solving this problem. I'm not sure what the answer is, but I'll take a stab at it. She took a stab at solving the puzzle, but she couldn't figure it out
 take a stand. The students decided to take a stand against the dress code. It's important to take a stand against bullying whenever you see it
 take a toll. The constant negativity at work is starting to take a toll on my mood. The stress of the job has really taken a toll on my health. The long-distance relationship has taken a toll on our marriage
-take back seat. I am happy to take a back seat and give someone else the opportunity to manage the project. I have taken a back seat on this project for now
 take center stage. The issue of climate change is expected to take center stage in the upcoming elections. The company's latest innovation took center stage at the annual shareholders' meeting
 take into account. This recipe takes into account dietary restrictions. Don't forget to take into account unexpected expenses
 take it for granted, don't take it for granted, taking me for granted. He shouldn't take his job security for granted in this economy. Don’t take your family for granted — spend time with them. I feel like my boss is taking me for granted. She always took her family's love for granted
