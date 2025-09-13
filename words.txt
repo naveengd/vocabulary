@@ -344,7 +344,7 @@ chaos, chaotic. The city was in chaos after the sudden storm. The meeting ended 
 chasing. She has been chasing her dream of becoming a doctor for years. The scientist has been chasing a breakthrough for years
 cheat code. Waking up early is my cheat code for getting things done before everyone else. This new AI tool feels like a cheat code for productivity
 checkpoint. We should set up weekly checkpoints to monitor the implementation of these changes. The team scheduled weekly checkpoints to ensure everyone stays on track. Checkpoints are essential to identify potential risks early
-checks all the boxes, checks few boxes, checks many boxes, ticks all the boxes, ticked all the boxes. His profiles check all the boxes. His profile checks quite a few boxes. This candidate checks many boxes for the job role. That house checks many boxes for our family’s needs. The new product ticked all the boxes, but it didn't sell well. The job applicant ticked all the boxes, but they didn't seem to be a good fit for the team
+checks all the boxes, checks few boxes, checks many boxes, ticks all the boxes, ticked all the boxes, just a tick in the box. His profiles check all the boxes. His profile checks quite a few boxes. This candidate checks many boxes for the job role. That house checks many boxes for our family’s needs. The new product ticked all the boxes, but it didn't sell well. The job applicant ticked all the boxes, but they didn't seem to be a good fit for the team. Getting a promotion is more than just a tick in the box; it requires real growth. They only care about diversity as a tick in the box, not real inclusion. Don't let your company's CSR initiatives be just a tick in the box
 checks and balances. A system of checks and balances exists to ensure that our government is truly democratic. The company needs better checks and balances to prevent fraud
 cherish. We will cherish this moment for many years to come. These people cherish their independence and sovereignty. It is a moment I will cherish forever
 cherry pick. The researcher was accused of cherry-picking data to support their conclusion. We can't cherry-pick facts to fit our narrative; we need the whole picture
@@ -592,7 +592,6 @@ disguise. We took elaborate measures to disguise ourselves as locals. The bitter
 disgusting. I know you're jealous, but this is disgusting
 disheartening. It's disheartening to see so little result for your efforts. I've had some rather disheartening news. The results of recent research are rather disheartening
 disinterested. Sarah remained disinterested in the heated debate
-parity, disparity. The company is working toward pay parity between men and women. The new rules were introduced to ensure parity among all competing teams. There was a surprising disparity in the price of apples at different stores. The test scores showed a troubling disparity between boys and girls
 dispute, undisputed, not disputing. The company is in a dispute with the supplier. She disputes the claim that she was late. I am not disputing your opinion, but I do have a different perspective. I am not disputing the fact that the Earth is round. They disputed the election results. he CEO was recognized as the undisputed leader in the tech industry. Her expertise in the field is undisputed
 disrespectful. It’s disrespectful to interrupt someone while they are speaking. Disrespectful behavior will not be tolerated in this class
 dissect. Let's dissect this problem. She dissected each point of his argument
@@ -769,8 +768,8 @@ eyewash. I think the interview is an eyewash; the candidates have already been s
 fabricate. Don’t fabricate lies to cover mistakes. She was accused of fabricating data. Her excuse about a flat tire was clearly fabricated
 fabulous. She looked absolutely fabulous in her dress. The weather has been fabulous
 facade. She kept a cheerful facade, but inside she was worried. His calm manner was just a facade to hide his nervousness. She used humor as a facade to mask her sadness
-face-saving. It was a face-saving decision to avoid public blame. His apology was more of a face-saving move. The company gave a face-saving explanation to the media
 face the music. The student knew that she would have to face the music when her parents found out that she had gotten a D on her test. He finally faced the music and admitted that he was the one who stole the money
+face-saving. It was a face-saving decision to avoid public blame. His apology was more of a face-saving move. The company gave a face-saving explanation to the media
 facets. The well-rounded student excelled in all facets of academics, sports, and music. We need to consider all facets of the issue before making a decision. The facets of the problem were complex and interrelated
 facilitate, facilitation. The new self-checkout lanes facilitate faster grocery shopping. An online forum was created to facilitate discussions. Effective facilitation makes meetings more productive
 fact of the matter is. She keeps blaming the team, but the fact of the matter is she missed the deadline herself. We can debate for hours, but the fact of the matter is we don’t have enough budget to continue
@@ -1259,7 +1258,6 @@ jump-start. Government hopes the tax cut will jump-start the economy. Their new 
 juncture. At this juncture, it is difficult to say whether the patient will make a full recovery. We are confident at this juncture that everything will work out. The negotiations between the two countries reached a critical juncture
 junked. His proposals were junked before they were even considered. After a bad haircut, she junked her plans for a date night
 just a random thought. Just a random thought, could it be beneficial to offer a discount to first-time customers?. Just a random thought, what if we looked into different software options for project management?
-just a tick in the box. Getting a promotion is more than just a tick in the box; it requires real growth. They only care about diversity as a tick in the box, not real inclusion. Don't let your company's CSR initiatives be just a tick in the box
 just a tip of the iceberg. Everything you know about the author's life is just the tip of the iceberg. These stories were only the tip of the iceberg
 just out of curiosity. Just out of curiosity, why did you take that job?. I just wanted to know, out of curiosity, why you did that?
 just to build on that. Just to build on that point, historical data suggests this trend might continue
@@ -1276,7 +1274,7 @@ keep this in the back of your mind, at the back of my mind. Keep this in the bac
 keeping that in mind. The project is behind schedule; keeping that in mind, we should prioritize critical tasks first. Employee engagement is crucial for productivity, keeping that in mind, let’s plan a team-building event
 key attribute, key element. Patience is a key attribute for a teacher. The key attribute of this car is its fuel efficiency. Communication is a key element in any successful relationship. The key element to a happy life is finding your passion and pursuing it
 key role. Communication played a key role in the project's success. She played a key role in negotiating the agreement
-key to, is the key, key that unlocks. The key to success is hard work and dedication. Consistency is the key to success in exams. The key that unlocks happiness is often simply the ability to appreciate the simple things in life
+key to, key that unlocks, is the key. The key to success is hard work and dedication. Consistency is the key to success in exams. The key that unlocks happiness is often simply the ability to appreciate the simple things in life. Patience is the key when dealing with children. Teamwork is the key to completing this project on time
 kick in. Reforms will kick in later this year. The effect kicks in after a couple of uses. The discount kicks in when you buy three or more items
 kicking the can down the road. Kicking the can down the road is not a solution to any problem; We need to fix it permanently. He keeps kicking the can down the road on having that difficult conversation with his parents
 kick-start. Billions in aid helped kick-start the economy. Taxes were drastically cut in an attempt to kick-start the economy. We need to kick-start the project after the long break
@@ -1307,7 +1305,6 @@ lean. December will be a lean period for us. The company's lean budget forced th
 leap, big leap, gaint leap. Don't be afraid to take a leap and try something new. It was a big leap to switch careers at her age. Sales figures took a giant leap this quarter. He took a leap of faith and quit his job
 learnt their lesson the hard way. NASA was rushing things due to their deadlines and tight budget, but they learned their lesson the hard way. Rushing his project, he learned the hard way about the importance of time management
 leave no stone unturned. He said he will leave no stone unturned to prove her innocence. The doctor said he will leave no stone unturned to find a cure for his illness
-leave the door open. This will's terms leave the door open for fighting among the heirs. The company left the door open for further negotiations
 leeway. The government does not have much leeway in foreign policy. The boss gave his employees some leeway on their start times, so they could come in and leave work as needed. The tight deadline gave them little leeway for unexpected delays
 left behind. He felt left behind when all his friends got promotions. Technology is moving so fast that many elderly people feel left behind
 legacy. The company is known for its strong legacy of innovation. She wants to leave a positive legacy for her children. The film director’s legacy is celebrated with annual awards
@@ -1330,7 +1327,6 @@ level up. We need to level up our customer service to stay competitive. It’s t
 lever, levers. Shorter workweeks are seen by some as a lever for increased productivity. The company used technology as a lever to expand its market share. Tax breaks can act as levers to control inflation and economic growth. The government has several policy levers to control inflation
 leverage. The company wants to leverage its brands more effectively. We can leverage our contacts to get better deals. The sales representative leveraged her communication skills to close the deal
 liable. The company is liable for any damages caused by defective products. The supplier is liable for any delays in delivery
-liaise. We'll liaise with customer support to resolve the issue. Doctors need to liaise with nurses to provide the best care for patients. I'll liaise with the marketing team to finalize the plan
 liberate. It was wonderfully liberating to have been able to tell the whole truth at last. It was liberating to finally quit my dead-end job. New technology liberated workers from many tedious tasks
 liberty. I took the liberty of telling them you weren't interested. We have the liberty to speak our minds freely here. You are at liberty to choose whichever path you like
 license to. You have no license to behave in that manner!. Who granted you license to enter my house without knocking?
@@ -1492,6 +1488,7 @@ near-final. We reviewed the near-final report before submitting it to the client
 neck deep. I'm neck deep in work and I don't know how I'm going to finish it all. The student was neck deep in his studies and he didn't have time for anything else
 need of the hour. I am hungry; So, food is the need of the hour. If I am sick, then medicine is the need of the hour
 needle in a haystack. Finding my lost earring in the garden was like looking for a needle in a haystack. Locating the rare document in the huge archive felt like searching for a needle in a haystack. With so many resumes to read, picking the perfect candidate is like finding a needle in a haystack
+needless to say. Needless to say, hard work is essential for success. The presentation ran over time, and needless to say, the client wasn’t happy. He forgot their anniversary — needless to say, she was upset
 needs no introduction. Cambridge needs no introduction as one of the world's most famous university towns. The Beatles need no introduction; They are one of the most influential bands of all time. The Eiffel Tower needs no introduction—it’s one of the most famous landmarks in the world
 negate. Lack of preparation can negate all your hard work. One mistake should not negate years of good performance. Poor communication can negate the success of teamwork
 negligible. His contribution to the project was negligible, so it didn’t affect the outcome. The difference in temperature between the two rooms was negligible. The cost of printing is negligible compared to the overall budget
@@ -1595,6 +1592,7 @@ on and on. They talked on and on until four o'clock in the morning. The meeting 
 on board, wasn’t on board. We need everyone on board to make this project a success. Are you on board with this new plan?. I'm on board with that plan. I'm not sure I'm on board with the idea of working late tonight
 on cloud nine, over the moon. I was on cloud nine once I completed it. There are still on cloud nine weeks after winning the championship. She's over the moon about her new job. Lucy was over the moon with her victory
 on course. The project is on course to finish by next week. They are on course for victory in the elections. The company stayed on course despite the economic downturn
+on my radar, under the radar. Thanks for the reminder — it’s already on my radar. That new project is definitely on my radar for next quarter. He prefers to stay under the radar and let his work speak for itself. The issue went under the radar until it became a serious problem
 on par. The house's price is on par with other houses in the neighborhood. Her skills are on par with the industry's best. This watch is surprisingly good quality, on par with more expensive brands
 on point. Your presentation is on point – clear, concise, and engaging. Her research paper was well-written and on point, addressing all the key arguments
 on purpose. I spilled my drink on purpose so I could get out of the meeting. It was done on purpose to get him into trouble
@@ -1630,7 +1628,7 @@ open mind, open-minded, narrow minded, like-minded. Try to keep an open mind dur
 open pandora’s box, open a can of worms. If you start digging into his past, you might open Pandora’s box. The investigation opened Pandora’s box, uncovering corruption at many levels. The government's decision to declassify certain documents has opened Pandora's box. To get into that discussion would mean to open a can of worms. The audit opened a can of worms revealing corruption, bribery and nepotism at the nonprofit organization. Bringing up old arguments will only open a can of worms
 open question. Whether he will come or not is still an open question. How we solve climate change remains an open question. It’s an open question if the project will finish on time
 open secret. It is an open secret that he's been cheating on his wife. Despite the official denial, it was an open secret the factory was closing down
-open the door, open doors, unlock the door, close the door, shut the door. This course will open the door to new career opportunities. A good education opens doors to better jobs. The discovery could unlock the door to new medicines. Rejecting that offer might close the door on future chances. The company shut the door on any further negotiations
+open the door, open doors, unlock the door, leave the door open, close the door, shut the door. This course will open the door to new career opportunities. A good education opens doors to better jobs. The discovery could unlock the door to new medicines. This will's terms leave the door open for fighting among the heirs. The company left the door open for further negotiations. Rejecting that offer might close the door on future chances. The company shut the door on any further negotiations
 open the floor, open up the floor. I will now open the floor for questions. I’d like to open up the floor for questions now. Let me open up the floor to hear your suggestions. Let’s open up the floor and hear everyone’s thoughts
 open to. I’m open to new ideas for this project. She is open to feedback and always ready to improve. Are you open to working on weekends if needed?
 opened my eyes. That documentary opened my eyes to the reality of climate change. Travelling to different countries really opened my eyes to other cultures. 
@@ -1695,6 +1693,7 @@ paramount. His happiness was of paramount importance. In our work, quality is pa
 paranoid. She always gets a bit paranoid about the traffic on the highway. Despite the reassurances, he remained paranoid about the surgery
 paraphrase. She gave us a quick paraphrase of what had been said. Her explanation was a bit unclear, so I'll try to paraphrase it for better understanding
 pardon my ignorance. Pardon my ignorance, but what does that acronym stand for?. Pardon my ignorance, is this the correct way to use this tool?
+parity, disparity. The company is working toward pay parity between men and women. The new rules were introduced to ensure parity among all competing teams. There was a surprising disparity in the price of apples at different stores. The test scores showed a troubling disparity between boys and girls
 park my comments, reserve my comments. I will park my comments for later. I will reserve my comments for later
 part and parcel. Working irregular hours is all part and parcel of being a journalist. Early mornings are just part and parcel of being a baker
 part of the game, part of life. For investors, risks are part of the game. Accepting losses is a tough but necessary part of the game. Failure is a part of life; We learn and grow from it. Stress is a part of life, but managing it is important
@@ -2475,7 +2474,6 @@ unconditional. The couple's unconditional love for each other helped them throug
 uncover. A walk around the city will uncover more gems. The journalist uncovered evidence of corruption in the government
 under his wings. Her boss took her under his wing after fully realizing her potential. He took us under his wings
 under the hood. The new version of the application has been updated with lots of under the hood fixes. While technically a charity, if you look under the hood, you'll see a web of shell companies
-under the radar, on my radar. They managed to stay under the radar for years, after stealing all that money from their friends. Five years ago, having a child wasn't even on my radar
 under the shadow of. In old age we live under the shadow of death. We are all living under the shadow of war. The town remains under the shadow of last year’s floods
 under the umbrella of. Primary education comes under the umbrella of local government. The two sectors combined under the umbrella of the Scottish Council, These smaller brands operate under the umbrella of the parent company
 underdog. The underdog athlete overcame all odds to win the gold medal. The underdog candidate was underestimated by the polls, but she went on to win the election. We were the underdogs, but we didn’t give up
