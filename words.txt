@@ -713,13 +713,11 @@ epicenter. It was the epicenter of the problem. He found himself at the epicente
 epitome. She is the epitome of kindness. This house is the epitome of modern design. The car is the epitome of luxury
 equally important, super important, very important, unimportant, more important than ever before. Learning from mistakes is equally important as celebrating successes. Getting a good night's sleep is equally important as eating healthy foods. Getting regular exercise is super important for your physical and mental health. Learning English is super important for my career. This exam is very important for my career. Don’t worry about that mistake; it’s unimportant. He spends too much time on unimportant tasks. Consumers seem to view privacy as more important than ever before. In this age of technology, basic literacy skills are more important than ever before
 equip. The course will equip students for a career in teaching.  We should equip our child with a good education. Her training has equipped her to deal with emergencies. The company is well equipped to compete with its international rivals. Our emergency responders are better equipped to handle disasters of this kind
-equitable. They reached an equitable agreement that benefited both sides. An equitable solution was found that satisfied everyone. We need an equitable system of taxation
 erode. Constant stress can erode a person's mental health. Inflation is eroding the value of our savings. The company's market share eroded due to increased competition
 erratic. The electricity supply here is quite erratic. The erratic weather made it difficult to plan outdoor activities
 escalate, de-escalate. The minor disagreement quickly escalated into a shouting match. The cost of college tuition continues to escalate every year. Let's try to de-escalate the argument before it gets worse
 essence, in essence. Competition is the very essence of capitalism. Freedom is the very essence of democracy. The company's new marketing campaign is, in essence, a re-branding effort. Every time you play with your child, sing to him, and read him books, you are in essence educating him
 establish. The two countries want to establish stronger trade ties. It has been firmly established that smoking is harmful
-euphoria, euphoric. The news sparked a wave of euphoria across the country. He was still in a state of euphoria hours after the match had finished. She was euphoric when she received the Oscar
 evade, evasive. Don't evade your responsibilities - face them head-on. She cleverly evaded his question about her past. She gave an evasive answer. They took evasive action to avoid capture
 even more so. I love this book, and even more so the characters in it. I'm not a morning person, but even more so when I'm tired
 eventually. The rain will eventually stop, and we can play outside. Despite the challenges, they eventually achieved their goal
@@ -758,7 +756,6 @@ eye-opener. Your wonderful article on marriage is an eye-opener to many youngste
 eyewash. I think the interview is an eyewash; the candidates have already been selected. He says he'll quit his job, but we know that's just eyewash. The safety measures in the factory were nothing but eyewash to impress the inspectors
 fabricate. Don’t fabricate lies to cover mistakes. She was accused of fabricating data. Her excuse about a flat tire was clearly fabricated
 fabulous. She looked absolutely fabulous in her dress. The weather has been fabulous
-facade. She kept a cheerful facade, but inside she was worried. His calm manner was just a facade to hide his nervousness. She used humor as a facade to mask her sadness
 face the music. The student knew that she would have to face the music when her parents found out that she had gotten a D on her test. He finally faced the music and admitted that he was the one who stole the money
 face-saving. It was a face-saving decision to avoid public blame. His apology was more of a face-saving move. The company gave a face-saving explanation to the media
 facets. The well-rounded student excelled in all facets of academics, sports, and music. We need to consider all facets of the issue before making a decision. The facets of the problem were complex and interrelated
@@ -768,17 +765,14 @@ factor in. You should factor in inflation in making investment decisions. The co
 fade. Her enthusiasm for the project was beginning to fade. The memory of the accident was slowly fading from her mind. Her anger slowly faded as she calmed down
 fag end. We always used to go on holiday at the fag end of the holiday season
 fair, unfair. Fair point, I hadn't considered the learning curve for new employees. It was a fair decision to divide the prize among all team members. Fair enough, but we can't wait too much longer. It's a fair assumption that the meeting will be canceled due to the snow. Life can be unfair sometimes, but don't give up. He had an unfair advantage because he knew the questions beforehand. It's unfair to punish him for something he didn't do. It’s unfair to blame her when she wasn’t even there
-fairy tale. Everything he told us about his happy marriage was just a fairy tale.  What he said sounded like a fairy tale
 faith. She has a strong faith in her friends. They showed faith in each other during tough times
 fall back on, fall back option. Where negotiation fails, they must fall back on the law. When the business failed, we had to fall back on our savings. Do you have a fall back option?
-fall flat. Our proposals were likely to fall flat. The comedian's jokes fell flat with the audience. The new product launch fell flat, as few people were interested in it
 fall in line. The employees were expected to fall in line with the new company policies. The team leader fell in line with the coach's new strategy
 fall in love. You will fall in love with this new restaurant; The food is amazing. You will fall in love with this new city; There is so much to see and do, and the people are friendly and welcoming. I fell in love with the house. He fell in love with the simple life they built together
 fall into place. Don’t worry, your plans will fall into place eventually. When we got the funding, all our business plans fell into place. If you plan the project well, then everything should fall into place. Don't stress, the details will fall into place later
 fall short. This month we may fall short of our goals. The movie had potential, but it falls short in the storytelling. The product fell short of quality standards. The report fell short of expectations. Even though she trained hard, she fell short of winning the race
 familiar, unfamiliar. This song sounds familiar. I felt unfamiliar with the new software
 fancy way, fancy way of saying. We should find a fancy way to present out data. We need a fancy way to thank our top-performing employees at the next meeting. Revenue streams is a fancy way of saying "sources of income". Synergy is a fancy way of saying "collaboration".
-fantabulous. You did a fantabulous job on your presentation today!. The fantabulous weather made for a perfect day at the beach. I had a fantabulous time at the party last night!.
 fantastic. We had a fantastic time at the beach. The food at that restaurant was fantastic. You gave a fantastic speech today. 
 fantasy. You are living in a fantasy. Winning the lottery was just a daydream, a financial fantasy
 far from over, far from perfect. Don't celebrate yet, the game is far from over. Despite progress, the fight for clean air is far from over, Our relationship is far from perfect, but we make it work through mutual understanding. Although the system is still far from perfect, these efforts appear to have resulted in some change
@@ -790,7 +784,6 @@ fat package, fat commission. Marketing team geta a fat commission on sale of eac
 fate. The fate of the company rests on the new product launch. The fate of the project depends on securing additional funding
 feasible. Is finishing this project by next week feasible?. We need to find a feasible solution to reduce project costs without impacting quality.  We need to explore the financially feasible options for this renovation
 feather in the cap. The award was another feather in his cap. Finally mastering that difficult piano piece was a feather in her cap
-fiction. He reads mostly fiction. They were supposed to be keeping up the fiction that they were happily married
 fiddling. Annoyed with the wait, I started fiddling with my phone case. He spent the whole meeting fiddling with his pen, clearly bored
 fierce, fiercely. Despite fierce competition, she won the gold medal. The debate turned into a fierce argument. The students debated fiercely about the upcoming exam. The rescue team searched fiercely for survivors
 fill you in. No worries, I'll fill you in on everything you need to know. Hey, sorry I missed the meeting; Can you fill me in on what I missed?
@@ -800,7 +793,6 @@ fine-tune. We will use the next few months to fine-tune things. With a little fi
 finger-pointing. Now is not the time for finger-pointing, nor to politicize the problem. Instead of finger-pointing, let us focus on how to prevent future mistakes
 fingers crossed. We are keeping our fingers crossed that she's going to be OK. She went for her driving test, fingers crossed!.
 fingertips. I had the information at my fingertips and hadn't used it. Knowledge is now at our fingertips thanks to the internet
-fire fighting. The company is in constant fire fighting mode, struggling to keep up with mounting financial problems
 firm, firm up. He is firm in his decision to resign. The teacher took a firm stand against cheating. The recent merger firms our position as a market leader. He firmly believed in the power of hard work. We need to firm up the travel plans. Please firm up the guest list before sending invites
 first and foremost. He does a bit of writing, but first and foremost he is a teacher. First and foremost, stay calm during the emergency
 first line of defense. Sunscreen is your first line of defense against sunburn. Fire alarms are the first line of defense against a house fire
@@ -814,7 +806,6 @@ fizzled out. The protest fizzled out after a few days without gaining traction. 
 flabbergasted. I was flabbergasted when she told me the price. I was flabbergasted to find a talking parrot living in my new apartment. The magician's final trick left the audience utterly flabbergasted
 flag, raised a flag. Please flag those at the right time. Before submitting, please flag any errors you find. They flagged the report as needing further research. The teacher flagged several errors in my assignment. The project manager raised a flag about the budget overrun. The doctor raised a flag about the patient's declining health
 flag-bearer. We were admired and respected as the flag-bearer of a free and democratic nation. The scientist became a flag-bearer for climate change awareness
-flagship. The company's flagship store is in New York. The new restaurant is the chef's flagship venture
 flash in the pan. His first novel was a flash in the pan, and he hasn't written anything decent since. His success as an actor was just a flash in the pan. Her viral video was a flash in the pan
 flaunt. She likes to flaunt her wealth by wearing furs and jewelry. He tried to flaunt his knowledge, but it backfired
 flavor. Our new marketing campaign has a modern flavor. Our customer service approach has a personalized flavor to enhance client satisfaction. The ad campaign carries a humorous flavor to attract attention
@@ -885,7 +876,6 @@ gatekeeper. The executive assistant acts as the gatekeeper to the CEO. Regulator
 gateway. Education is a gateway to a better future. Hard work is the gateway to success. Yoga can be a gateway to better mental health
 gave me a heart attack. The bill for the car repairs nearly gave me a heart attack. Finding a giant crack in the windshield gave me a heart attack. He fell off the swing and nearly gave me a heart attack
 gear up. We need to gear up for the big presentation tomorrow. Xiaomi is gearing up for a new product launch
-gem. His latest song is a real gem. This little restaurant is a hidden gem
 generally. Generally, I wake up at 6 AM every day. People generally prefer online shopping these days
 generous. The company has a generous vacation policy. He made a generous donation to the charity. He was generous enough to share his food
 genuine, genuinely. We need a genuine effort to meet our quarterly targets. We value genuine feedback from our clients to improve our services. She genuinely cares about the success of her employees. The feedback we received was genuinely helpful in improving our product
@@ -944,7 +934,7 @@ good to go. I've got my shoes and I'm good to go
 good to great, bad to worse. The CEO's leadership helped the company make the leap from good to great. The team's performance went from good to great after they implemented a new training program. His financial situation went from bad to worse after he lost his job. The traffic situation went from bad to worse during the rush hour
 good to know. Good to know this recipe is vegetarian; I can offer it to everyone. Good to know the deadline has been extended - I need more time. That's good to know!
 gosh. Gosh, that was a close call. Gosh, I forgot my keys again
-got carried away, should not be carried away, not to get carried away. I shouldn't have behaved like that; I just got carried away. We should not be carried away by our success. The manager warned his young players not to get carried away by the emotion of the occasion
+got carried away, not to get carried away, should not be carried away. I shouldn't have behaved like that; I just got carried away. The manager warned his young players not to get carried away by the emotion of the occasion. We should not be carried away by our success
 got me thinking, got us thinking. The book got me thinking about the meaning of life. The conversation got me thinking about the future of our planet. That speech got us thinking about what truly matters in life. His question really got us thinking about the future of our company
 got sucked into. I got sucked into the argument because I was a friend of the family
 got you covered. Don’t worry about dinner, I’ve got you covered. Going out in the rain? I’ve got you covered with an extra umbrella
@@ -1408,7 +1398,6 @@ meticulously. The entire project was meticulously planned. She checked the paint
 middle ground. Negotiations have failed to establish any middle ground. Both sides in this debate need to do more to establish some middle ground
 midst. We are in the midst of one of the worst recessions for many, many years. He left his flat in the midst of a rainstorm. The company is in the midst of a major restructuring
 midway. She was interrupted when she was midway through her presentation. We decided to stop for lunch midway through our road trip. Feeling lost, they decided to check the map midway through the hike
-mighty. With a mighty push, she opened the heavy door. The company made a mighty comeback after the financial crisis. Even the smallest acts of kindness can have a mighty impact
 mild. She has a mild headache. The teacher gave a mild warning to the students
 miles ahead, light years ahead. She is miles ahead in her studies. Our team is miles ahead of the competition. Their new software is light years ahead of the competition. In terms of safety features, this car is light years ahead
 milestone. A milestone in a baby's life is when they learn how to walk. The company passed the six million milestone this year
