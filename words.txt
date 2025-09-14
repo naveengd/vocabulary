@@ -471,6 +471,7 @@ crisp. His writing style is clear and crisp. The photographer captured a crisp i
 critical path. Our project’s success is tied to managing the critical path well. Training the staff is on the critical path for opening the new store. Completing the design phase is on the critical path for the project
 critical, criticality. It’s critical to study for your exams to get good grades. His input was critical to the success of the project. She explained the criticality of completing the project on time. The critical point in the negotiation was when both sides agreed to compromise on the price. The critical point in the movie was the scene where the hero made a life-altering decision. Communication is a critical part of effective teamwork. Proper maintenance of the engine is very critical for safety
 cross check, double check. Please cross check the inventory levels before placing the order. Before finalizing the report, cross check the data for any discrepancies. Double-check your flight time before heading to the airport. Let's double-check the instructions before we assemble the furniture
+cross the redline, stepping out of the line. Breaking the rules means you cross the red line. Sharing customer data without permission crosses the red line. If you speak over your manager in every meeting, you’re stepping out of the line. Employees who share internal details on social media are stepping out of the line
 crossed my mind. The thought crossed my mind that she might be lying about her age. What was the first thing that crossed your mind when you won the prize?
 crown jewel. The painting is the crown jewel of the museum's collection. In our lineup of health care products, the Cosmetics division is our crown jewel
 crucial. Practicing regularly was crucial to her success in the competition. Teamwork is crucial for a successful project
@@ -970,7 +971,6 @@ handful. He surveyed the handful of customers at the bar. Only a handful of firm
 handover. The project handover will be next Monday. There will be a formal handover at the end of the week
 handpick. He was able to handpick his successor. He was handpicked for this job by the Admiral
 hands down. She is hands down the best dancer in the school. This pizza is hands down the best I've ever tasted. She is hands down the best singer in the competition
-hang around. I like to hang around the park in the evening. We used to hang around the bus stop after college
 hard and fast rule. Our factory has a hard and fast rule against smoking. There are no hard and fast rules, but rather traditional guidelines as to who pays for what
 hard decision. He made the hard decision to leave the company. It was a hard decision, but they decided to sell their childhood home
 hard for me. It's hard for me to trust people. It's hard for me to say no to you
@@ -984,7 +984,6 @@ hardball. The manager decided to play hardball during the salary talks. If you w
 hardly any. There was hardly anything left in the fridge after the party. I had hardly any money left after paying my rent
 hardship, hardships. The city has been experiencing a period of financial hardship. We faced much hardship just to catch those fish. Lack of money is one of the hardships of student life
 hardwired. It has been hardwired into everyone's brain that we are good techies but not managers. She is hardwired for perfection, always double-checking every detail. It’s hardwired in our brains to react quickly in dangerous situations
-harness. We must harness the skill and creativity of our workforce. We can harness the power of the wind to make electricity. The company is harnessing technology to improve customer service
 harsh, harshly. The harsh winter weather caused the pipes to freeze. The harsh punishment was not justified. The harsh reality is that not everyone achieves their dreams. The manager reacted harshly to the error in the report. She spoke harshly to her brother after he broke her favorite toy
 harvest. The HR department is harvesting talent from top universities. The sales team is harvesting potential clients from industry conferences
 hash out. Let's grab coffee and hash out this project idea. We still need to hash out the final details of the contract. Investors are hashing out the terms of the startup funding
@@ -1899,7 +1898,6 @@ recount. She will recount her experiences at the party. She began to recount the
 rectify, rectification. We'll rectify the mistake on your bill. There's still time to rectify your errors. The teacher asked for rectification of the spelling errors in the essay
 red flag. A high body-mass index is a red flag in general to clinicians. The investment opportunity with guaranteed high returns was a red flag
 redefine. The social media platform has redefined the way we communicate and interact with each other. We need to redefine what we mean by democracy
-redline. He knew he was pushing the engine to its redline. The negotiator warned the other side not to cross redline on their demands
 redundant. Having both a map and GPS is redundant for most journeys. We packed extra snacks, which was redundant since there's a cafe nearby
 reeling. The town was reeling from the impact of the sudden storm. After hearing the shocking news, she was left reeling with disbelief
 refine. After receiving feedback, she decided to refine her presentation slides. The company is constantly refining its products based on customer feedback. The peace treaty was further refined after additional negotiations
@@ -2202,7 +2200,6 @@ stem. The government had failed to stem the tide of factory closures. The reform
 step back, take a step back. Let's step back and look at the problem from a different angle. The manager needed to step back and take a look at the big picture. Before I disagree, let me take a step back and understand your perspective. Let me take a step back and reassess the situation before we proceed. Before you answer, take a step back and consider your options
 step up. We need everyone to step up and help with the event. We’re counting on you to step up and solve this problem. If we want to win, we need to step up the game. We need to step up our game if we want to outperform our competitors this quarter. The team needs to step up their game if they want to win. The company needs to step up its production to meet demand
 step, significant step, crucial step, positive step, step forward, great step forward, major step forward, big step, huge step, gaint step. Getting the promotion was a significant step forward in his career. Finally apologizing was a crucial step forward in their friendship. This new law is a step forward for equality. Starting a new exercise routine is a positive step toward better health. Adopting a healthy diet is a positive step for long-term wellness. The new policy is a great step forward for our company. Building the new hospital is a great step forward for the community. That is a great step forward for our country. The new drug is a major step forward in the treatment of the disease. Moving to another country was a big step for her career. The next big step for the company is to expand into new markets. Quitting his job to pursue art was a huge step, but he did it. Their apology was a huge step towards reconciliation. Moving to a new city was a giant step in her career. Developing this vaccine was a giant step for medical science
-stepping out of the line. Stepping out of line with company policy could lead to disciplinary action. The team member who stepped out of line to help a colleague earned everyone's respect
 steppingstone. Many students now see university as a steppingstone to a good job. I see this job just as a steppingstone to better things
 stereotype. Can they break the stereotype of the hijab as a symbol of oppression?. The new software engineer challenged the stereotype of programmers being introverts. Teenagers are often stereotyped as lazy, but that's not always the case
 stick around. Please stick around. We will be back in a moment. Stick around till the end
@@ -2538,7 +2535,6 @@ well-versed. She is well-versed in multiple languages, including French and Japa
 went an extra mile. The customer service agent went the extra mile to resolve my issue quickly. Good leaders are the ones who consistently go the extra mile for their teams. She went an extra mile by staying late to help her colleague finish the project
 what do i mean by that. I said the project was risky; What do I mean by that? I mean the budget is too small for the timeline. We need to change our approach; What do I mean by that? We must focus on customer experience, not just sales
 what i am saying is, all i am saying is. What I am saying is that we need to rethink our strategy. All I am saying is that we should be careful
-what if i told you. What if I told you there’s an easier way to solve this problem?. What if I told you the quiet guy in the office is actually a famous musician?. You think money buys happiness, but what if I told you experiences matter more?
 what is in store. I wonder what is in store for us this year. The concert has some amazing performances in store for the audience. We can't predict the future, but I hope there's good news in store
 what it takes. Elaine has what it takes to make acting her career. She has what it takes to become a great leader. Success requires hard work, and he’s willing to do what it takes
 what lies ahead. We don't know what lies ahead. With the economy slowing down, businesses worry about what lies ahead. No one knows what lies ahead in life
@@ -2551,7 +2547,6 @@ where we stand. That's where we stand now, but things could change. We know wher
 whether you like it or not. You have to finish your homework, whether you like it or not. Whether you like it or not, we have to move to a new city
 whine, whining and complaining. The child began to whine when he didn’t get the toy he wanted. Stop whining and try to find a solution instead. She’s always whining and complaining about her job. He whined about the long lines at the amusement park
 wholeheartedly. I wholeheartedly support your campaign. She wholeheartedly supported her friend's dream of becoming a writer. We wholeheartedly welcome you to our team
-wholesome. We spent a wholesome afternoon baking cookies together. It was a wholesome family gathering filled with laughter
 whopping. The company made a whopping 75 million dollar loss. We hiked a whopping 10 miles today. The movie received a whopping 98% on Rotten Tomatoes
 why not. Do you want Italian food tonight? Sure, why not. Do you want to come to the movies with me? Yeah, Why not. Do you want to join us for dinner? Sure, why not
 why on earth. Why on earth would he want to go to such a place?. She quit her job without another one lined up? Why on earth would she do that?. Why on earth would he do such a thing?
@@ -2573,7 +2568,6 @@ wonderful. The weather was wonderful today. We had a wonderful time at the beach
 worrisome. Her silence on the matter is worrisome. The lack of rain during the growing season is worrisome. His constant lateness is worrisome
 worth, worthy, worthwhile. Is it worth going to the concert?. It's worth the price; I guarantee you. That idea is worthy of consideration. He didn’t think he was worthy enough to receive the award. The trip was worthwhile. Is it worthwhile to try to fix my computer?
 wouldn't be very different. I could take the bus, or I could walk, it wouldn't be very different. I could go to the park, or I could stay in and read, it wouldn't be very different. Life here wouldn’t be very different even if we moved to the next town
-wouldn't it be great. Wouldn't it be great if we could finish this project ahead of schedule?. Wouldn't it be great to have a three-day weekend every week?
 wow factor. The magician's final trick had a real wow factor, leaving the audience speechless. To win the competition, your design needs a unique wow factor that sets it apart
 wow them, wows me. She hopes her presentation will really wow them. The chef added a special touch to the dish to wow them. The sunset always wows me with its colors. Her singing voice wows me every time
 wrap, wrap up. Let’s wrap up this meeting—we’re out of time. We should wrap it up before the deadline
