@@ -348,7 +348,6 @@ circumstance. Given the current financial circumstance, we need to cut costs. Un
 circumvent. If we don't find a way to circumvent this problem, we will not be able to finish the project. We can circumvent the traffic jam by taking the back roads
 cited. The report cited a recent study showing the benefits of exercise. He cited traffic as the reason for his late arrival
 classic. That movie is a classic. The book is considered a literary classic. The Ford Model T is a classic example of early 20th-century automotive design. The Pyramids of Giza are a classic example of ancient Egyptian architecture
-cleared the air. The company's announcement cleared the air about its plans for the future. The doctor cleared the air about the patient's diagnosis, which had been causing a lot of anxiety
 clicked for me, didn't click in my mind. After practicing for weeks, the dance steps finally clicked for me. Her explanation was unclear, but after drawing a diagram, it clicked for me. I've read the instructions three times, but it still didn't click in my mind. Sarah explained the joke, but it still didn't click in my mind
 clock is ticking. The clock is ticking on that project. Don't wait, the clock is ticking on this discount offer
 clocking. Despite clocking in over 10,000 steps today, I still feel sluggish. The runner surprised everyone by clocking in a personal best time at the marathon
@@ -356,7 +355,6 @@ close the loop. Let's close the loop on this discussion by summarizing our actio
 close to the finish line, cross the finish line, couldn't cross the finish line. We’re close to the finish line on this project – just final testing left. Don’t give up now; you’re so close to the finish line. We finally crossed the finish line on the software release. Last time we came close, but couldn't cross the finish line
 clouds. The scandal clouds his reputation. Meanwhile, Intel's plans for the 8086 CPU family remain clouded. His happiness was clouded by a nagging worry
 clueless. They’re completely clueless about how social media works. I felt clueless during the meeting because everyone was using technical jargon
-clutches of. She escaped from the clutches of her abusive husband. The company was able to emerge from bankruptcy and escape the clutches of its creditors. The company was saved from the clutches of bankruptcy by a new investment
 clutter. Don't clutter your mind with unnecessary worries. A minimalist approach avoids cluttering the living space with furniture
 cognizance, cognizant. He has full cognizance of the risks involved. Take cognizance of what is happening. The company is cognizant of the need to improve its customer service. The government is cognizant of the growing problem of homelessness
 coincidence, coincidentally. It was pure coincidence that we ran into each other at the airport. The fact that they both wore the same outfit was a mere coincidence. We both decided to wear blue shirts today, coincidentally. While looking for a new job, I coincidentally ran into a former colleague
@@ -1265,11 +1263,10 @@ keep the ball rolling, get the ball rolling, ball started rolling. Let's keep th
 keep them in the dark. It is unfair to keep them in the dark on this matter. I'm completely in the dark about what's going on. The employees were kept completely in the dark about the company's financial problems
 keep this in the back of your mind, at the back of my mind. Keep this in the back of your mind as you're making your decision. I know you're excited about this new job, but keep this in the back of your mind: the commute is really long. The thought of quitting my job was always at the back of my mind, but I never had the courage to do it
 keeping that in mind. The project is behind schedule; keeping that in mind, we should prioritize critical tasks first. Employee engagement is crucial for productivity, keeping that in mind, let’s plan a team-building event
-key attribute, key element. Patience is a key attribute for a teacher. The key attribute of this car is its fuel efficiency. Communication is a key element in any successful relationship. The key element to a happy life is finding your passion and pursuing it
+key attribute, key element, key area. Patience is a key attribute for a teacher. The key attribute of this car is its fuel efficiency. Communication is a key element in any successful relationship. The key element to a happy life is finding your passion and pursuing it. Time management is a key area for improvement in this team
 key role. Communication played a key role in the project's success. She played a key role in negotiating the agreement
 key to, key that unlocks, is the key. The key to success is hard work and dedication. Consistency is the key to success in exams. The key that unlocks happiness is often simply the ability to appreciate the simple things in life. Patience is the key when dealing with children. Teamwork is the key to completing this project on time
 kick in. Reforms will kick in later this year. The effect kicks in after a couple of uses. The discount kicks in when you buy three or more items
-kicking the can down the road. Kicking the can down the road is not a solution to any problem; We need to fix it permanently. He keeps kicking the can down the road on having that difficult conversation with his parents
 kick-start. Billions in aid helped kick-start the economy. Taxes were drastically cut in an attempt to kick-start the economy. We need to kick-start the project after the long break
 killer. Dan and Dash are a killer team. It was a killer presentation. It was a killer performance
 killing it. Our sales team is killing it this quarter. He's absolutely killing it in his new job. The baker is killing it with their new cake recipe
@@ -2488,7 +2485,6 @@ unthinkable. The idea of a world without music is unthinkable. The idea of a wor
 unveil. time will unveil the truth about what happened. The politician unveiled their plan for tax reform. The data unveiled some surprising trends in consumer behavior
 unwritten rule. Their unwritten rule was that anyone over thirty was old and out. At the gym, an unwritten rule states you wipe down equipment after use. It’s an unwritten rule that you should bring a gift when visiting someone’s home
 up against. The team was up against a tough opponent. He was up against some strong competition
-up the ante. If we want to win this client, we need to up the ante with our proposal. The film ups the ante on special effects. To win the contract, they upped the ante by offering free training. To attract more customers, the store upped the ante with a loyalty program
 up until now, up until the end, up until last year. Up until now, I had no problems with the computer. We let them stay up until the end. Up until last year, they didn't even own a car 
 upcoming. Don't miss the upcoming sale on running shoes!. I'm busy planning for my upcoming vacation
 upfront. He requires you to pay him upfront. The salesperson was very upfront about the product's limitations. She was upfront about her salary expectations
