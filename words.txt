@@ -505,8 +505,8 @@ daydream. I often daydream about winning the lottery. His daydreams of being a f
 de facto. English is de facto the common language of much of the world today. Jeans are the de facto casual wear in most workplaces. English is the de facto language of the internet
 dead end. This career path feels like a dead end. We reached a dead end in the investigation. It's a dead end job with no opportunities
 dead wrong, dead serious. I was dead wrong. She insisted the Earth was flat, but she was dead wrong. I’m dead serious about quitting my job. Don’t laugh, I’m dead serious
-deal breaker. The house is perfect, but the price is a deal breaker. The job is great, but the commute is a deal breaker. We liked their work, but the rates they were asking for were a deal breaker for us
 deal. We need to deal with this issue quickly. The manager is dealing with a customer complaint. He dealt with the problem calmly. I dealt with the situation as best as I could
+deal breaker. The house is perfect, but the price is a deal breaker. The job is great, but the commute is a deal breaker. We liked their work, but the rates they were asking for were a deal breaker for us
 debrief. We'll debrief the sales team on their performance this quarter. The team held a debriefing meeting to discuss the results of the project. After the game, the coach debriefed the players on their mistakes
 debunk. Let's debunk this internet meme with some actual facts. Don't believe everything you read online; try to debunk it first. The article debunks the notion that life exists on Mars. Scientists debunked the myth of a flat Earth. The debater skillfully debunked her opponent's arguments one by one
 deciding factor. The deciding factor in my decision to buy a new car was the price. The deciding factor in the company's decision to close the factory was the declining sales
@@ -1279,8 +1279,8 @@ late to the party. I know I'm late to the party, but I've finally started watchi
 laundry list. We also came up with a laundry list of key issues that had always been there but never put on the table. He presented a laundry list of features for the new phone. The interview was a laundry list of the usual questions
 lay out, lay down. Let's lay out a plan for tackling this project. The teacher laid out the rules clearly. They laid out a plan for the project. The rules for the competition were laid down by the organizers. The engineer laid down the plans for the new building
 leading causes. The leading causes of budget overruns are unexpected costs and misestimated expenses. The leading causes of reduced productivity in the office are interruptions and unclear goals
-lean on, leaning towards. The company was forced to lean on its employees to work overtime to meet the deadline. I'm so glad I have my friends to lean on during this tough time. Despite his technical background, he has a leaning towards management roles
 lean. December will be a lean period for us. The company's lean budget forced them to make some tough decisions
+lean on, leaning towards. The company was forced to lean on its employees to work overtime to meet the deadline. I'm so glad I have my friends to lean on during this tough time. Despite his technical background, he has a leaning towards management roles
 leap, big leap, gaint leap. Don't be afraid to take a leap and try something new. It was a big leap to switch careers at her age. Sales figures took a giant leap this quarter. He took a leap of faith and quit his job
 learnt their lesson the hard way. NASA was rushing things due to their deadlines and tight budget, but they learned their lesson the hard way. Rushing his project, he learned the hard way about the importance of time management
 leave no stone unturned. He said he will leave no stone unturned to prove her innocence. The doctor said he will leave no stone unturned to find a cure for his illness
@@ -1541,7 +1541,6 @@ obey. Always obey traffic signals for your safety. Students must obey the school
 object, objection. I object to your rude behaviour. Does anyone object if I open the window?. My main objection to the plan is the cost. I have no objection to your leaving early
 objective. The objective of the game is to score the most points. The objective of the class is to learn the basics of French. The reporter aimed to present an objective view of the event
 obligated, obligation. The company is obligated to pay its employees overtime if they work more than 40 hours per week. Tenants are obligated to pay their rent on time. She believes that all people have a moral obligation to defend human rights. She failed to fulfil her obligations as a parent
-obliged. We are obliged to our sponsors for making this event possible. I’m much obliged for your advice—it really helped
 observations. Her observations about the weather were accurate. She shared some observations from her trip
 obsessed, obsession. He is obsessed with this business. Money has become an obsession for him
 obsolete. With the rise of smartphones, flip phones became obsolete. The invention of the light bulb made candles obsolete for most purposes. CDs have become obsolete because of online streaming. Many traditional skills are becoming obsolete due to technology
@@ -1549,7 +1548,6 @@ obstacle, obstacles to overcome, overcome obstacles. Shyness can be a significan
 obvious, obviously. It was obvious that she was upset. I know you don't like her but try not to make it so obvious. It was fairly obvious that she was lying. The answer is obviously incorrect. He was obviously nervous during the presentation
 of course. A tropical climate is, of course, very humid. Of course, I'll be there to support you
 of late. Of late, I've been reading a lot of books about philosophy. The dollar has been stronger of late. The company seems to have lost its way of late
-off the charts. Advance sales quickly went off the charts. His blood pressure was off the charts
 off the record. Off the record, I'm having doubts about the project. This is strictly off the record, but I heard they're considering a merger
 off the top of my head. Just off the top of my head, I'd say there were about 50. I don't know the exact number of people who have been invited but off the top of my head I should think there will be about forty
 offend. I didn’t mean to offend you, but it seems I did. She was offended by his rude comment. 
@@ -1718,8 +1716,8 @@ pillar to post. Nobody is in charge there; They send you from pillar to post. Yo
 pillars of. Education is one of the pillars of a strong society. Hard work and dedication are the pillars of success. The pillars of the company's success are its employees, its customers, and its products
 piloting. The company is piloting a new recycling program in select cities. They are piloting a new program to teach coding to elementary school students
 pin down. I can't pin down the exact cause of the strange noise. It’s hard to pin down the exact cause of the problem. We need to pin down the meeting date before sending invites. We finally pinned down a date for our wedding
-pinch of salt, grain of salt. You must take some of Mayer's remarks with a pinch of salt. You must take some of Mayer's remarks with a grain of salt
 pinch. The rising costs are starting to pinch small businesses. We’re feeling the pinch from increased raw material prices. It pinches when someone takes credit for your work. With two kids in college, they're definitely starting to feel the pinch financially. The recent gas hike will make everyone feel the pinch at the pump. With rising prices, many families are feeling the pinch
+pinch of salt, grain of salt. You must take some of Mayer's remarks with a pinch of salt. You must take some of Mayer's remarks with a grain of salt
 pinnacle. She is at the pinnacle of her profession. The athlete's career reached its pinnacle when she won the gold medal
 pinpoint. The doctor was able to pinpoint the source of the pain. The teacher was able to pinpoint the areas where the student needed help
 pioneer. She was a pioneer in the development of new cancer treatments. They were pioneers in the field of American medicine. The company is known for its pioneering technology. The company pioneered solar technology in India. Steve Jobs pioneered smartphone innovation
@@ -1915,8 +1913,8 @@ regulate, regulation. Doctors help regulate blood pressure through medication. T
 rehearse. The actors will rehearse the play tomorrow. She rehearsed her speech in front of the mirror
 reimagine. We need to reimagine the way we approach education. We should reimagine our daily routines to be more efficient. We need to reimagine the way we work
 reinforce, reinforcement. Strong sales figures reinforce the effectiveness of our current strategy. This evidence reinforces my view that he is a spy. The positive customer feedback reinforced our commitment to quality service. Positive customer feedback acted as reinforcement for the team's efforts
-reinvent the wheel. The first bit of advice is don't reinvent the wheel. Don't reinvent the wheel with your workout routine – there are plenty of proven fitness programs available
 reinvent. The company plans to reinvent its product line to stay competitive. We need to reinvent our training programs to keep up with industry changes
+reinvent the wheel. The first bit of advice is don't reinvent the wheel. Don't reinvent the wheel with your workout routine – there are plenty of proven fitness programs available
 reiterate. Just to reiterate, the meeting starts at 10 am. The teacher reiterated the importance of finishing homework on time
 rejoice. We can rejoice that the exam is finally over. They were rejoicing after the team won. The town rejoiced at the news of the missing hiker's safe return
 rejuvenate. A weekend getaway helped her to rejuvenate. Sunshine and exercise can rejuvenate your mood. The spa treatment rejuvenated me. Spending time with loved ones rejuvenated her spirit
@@ -1986,8 +1984,8 @@ robust. The company's new software is robust and can handle a large volume of da
 rock solid. The support for the party was rock solid. We need a rock-solid business plan before investing in this new venture
 rock the boat. They warned him not to rock the boat during negotiations. I don’t want to rock the boat by questioning their decision. Please don’t rock the boat during the meeting—we need a calm discussion. Everyone was happy with the plan until he rocked the boat with his objections
 rock the world. Her voice will rock the world one day. That invention could rock the world of technology. His speech rocked the world of politics
-roll out the red carpet. The governor rolled out the red carpet for his dinner guests. We'll roll out the red carpet for the senator
 roll out. The company will roll out the new product next week. The school will roll out a new curriculum in September
+roll out the red carpet. The governor rolled out the red carpet for his dinner guests. We'll roll out the red carpet for the senator
 roller coaster. The divorce was an emotional roller coaster for both. Her grades were on a roller coaster this semester, with highs and lows. Our sales numbers this year have been a roller coaster ride. The startup's journey has been nothing short of a roller coaster ride
 room for, no room for. Their work has been fairly good; Having said that, I still think there's a lot of room for improvement. There is still a lot of room for improvement. There is no room left for negotiation. There's no room for error in this project
 root cause. 
