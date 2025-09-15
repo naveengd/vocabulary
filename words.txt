@@ -505,8 +505,8 @@ daydream. I often daydream about winning the lottery. His daydreams of being a f
 de facto. English is de facto the common language of much of the world today. Jeans are the de facto casual wear in most workplaces. English is the de facto language of the internet
 dead end. This career path feels like a dead end. We reached a dead end in the investigation. It's a dead end job with no opportunities
 dead wrong, dead serious. I was dead wrong. She insisted the Earth was flat, but she was dead wrong. I’m dead serious about quitting my job. Don’t laugh, I’m dead serious
-deal. We need to deal with this issue quickly. The manager is dealing with a customer complaint. He dealt with the problem calmly. I dealt with the situation as best as I could
 deal breaker. The house is perfect, but the price is a deal breaker. The job is great, but the commute is a deal breaker. We liked their work, but the rates they were asking for were a deal breaker for us
+deal. We need to deal with this issue quickly. The manager is dealing with a customer complaint. He dealt with the problem calmly. I dealt with the situation as best as I could
 debrief. We'll debrief the sales team on their performance this quarter. The team held a debriefing meeting to discuss the results of the project. After the game, the coach debriefed the players on their mistakes
 debunk. Let's debunk this internet meme with some actual facts. Don't believe everything you read online; try to debunk it first. The article debunks the notion that life exists on Mars. Scientists debunked the myth of a flat Earth. The debater skillfully debunked her opponent's arguments one by one
 deciding factor. The deciding factor in my decision to buy a new car was the price. The deciding factor in the company's decision to close the factory was the declining sales
@@ -558,7 +558,6 @@ devote. I devote an hour every morning to exercise. She is devoted to helping ot
 dictates. Traffic congestion often dictates my commute time. Hunger dictates what time I eat dinner each night. The doctor dictated the patient's symptoms to the nurse
 die down. The controversy is unlikely to die down. In more recent years the controversy has died down a little. The noise has died down
 different ballgame, new ballgame. Public speaking? That's a different ball game altogether. Running a marathon? That's a whole different ball game than a 5k. I used to babysit, but having a child of my own is a new ballgame. After the data breach, cybersecurity is a new ballgame altogether for the organization
-different league. Her skills in tennis are in a different league from the others. The tech company's innovations are in a different league from its competitors. The luxury car is in a different league from standard vehicles
 different opinion, difference of opinion. I respect your perspective, but I have a different opinion about the project’s direction. I have a difference of opinion. The team valued open discussion despite differences of opinion
 differentiator, clear differentiator, key differentiator. Our customer service is a clear differentiator in the market. The unique design of their product is a clear differentiator. Battery life has become a key differentiator in the smartphone industry
 difuse. His anger slowly diffused after the meeting. She defused the argument with a joke
@@ -583,7 +582,6 @@ discretion. Leaving a tip is at the customer's discretion. The guest list for th
 disguise. We took elaborate measures to disguise ourselves as locals. The bitter taste of the medicine was cleverly disguised with a sweet syrup
 disgusting. I know you're jealous, but this is disgusting
 disheartening. It's disheartening to see so little result for your efforts. I've had some rather disheartening news. The results of recent research are rather disheartening
-disinterested. Sarah remained disinterested in the heated debate
 dispute, undisputed, not disputing. The company is in a dispute with the supplier. She disputes the claim that she was late. I am not disputing your opinion, but I do have a different perspective. I am not disputing the fact that the Earth is round. They disputed the election results. he CEO was recognized as the undisputed leader in the tech industry. Her expertise in the field is undisputed
 disrespectful. It’s disrespectful to interrupt someone while they are speaking. Disrespectful behavior will not be tolerated in this class
 dissect. Let's dissect this problem. She dissected each point of his argument
@@ -955,6 +953,7 @@ greek to me. He tried to explain the rules of the game to me, but it was all Gre
 green light, green signal. The council has given the green light for work to begin on the new shopping center. We have got a green signal to start our work
 grey area. The judgment leaves a large grey area and much scope for argument. The new tax law leaves a grey area on deductions for home offices
 grievance, grievances. The employee filed a grievance with HR about unequal pay for equal work. Workers went on strike to address their long list of grievances
+grinding, toiling. Success doesn’t come overnight; it takes years of grinding. Success doesn’t come overnight; it takes years of grinding. Despite toiling for hours, she didn't finish the report. Farmers have been toiling in the fields since dawn
 ground rule. The ground rule for this discussion is that everyone must be respectful of each other's opinions. The ground rule for our relationship is that we always communicate honestly with each other
 groundbreaking. The scientist made a truly groundbreaking discovery. The company announced a groundbreaking technology today
 groundwork. The science classes this year provide the groundwork for advanced biology next year. We need to do a lot of groundwork before launching this new product. Yesterday's meeting was to lay the groundwork for the task ahead. He laid the groundwork for an international conference
@@ -974,7 +973,6 @@ hands down. She is hands down the best dancer in the school. This pizza is hands
 hard and fast rule. Our factory has a hard and fast rule against smoking. There are no hard and fast rules, but rather traditional guidelines as to who pays for what
 hard decision. He made the hard decision to leave the company. It was a hard decision, but they decided to sell their childhood home
 hard for me. It's hard for me to trust people. It's hard for me to say no to you
-hard pill to swallow, tough pill to swallow. Her recent breakup with Janet was a hard pill to swallow. The death of my dog is a hard pill to swallow. The news of the company layoffs was a tough pill to swallow for everyone
 hard pressed. You would be hard pressed to find a better market for a data-driven tool. You'd be hard pressed to find anyone better for the job
 hard stop. Let’s keep the meeting short; I only have 20 minutes before a hard stop. I have a hard stop at 5 PM, so let’s wrap up by then
 hard time. The immigrant had a hard time learning English. The student had a hard time understanding the math lesson
@@ -1010,7 +1008,6 @@ heartwarming. The surprise birthday party was a heartwarming celebration. The ch
 heat of the moment. He was very stressed and frustrated and in the heat of the moment, quit his job. He regretted yelling at his boss, a decision made in the heat of the moment
 heating up. The debate over gun control is heating up, with both sides making strong arguments. The competition between the two companies is heating up, as they both try to win over new customers
 heavy lifting. She has to do the  heavy lifting for the project. The teacher did the heavy lifting, preparing the students for the test. The heavy lifting of the relationship fell on her shoulders
-heck of. We were just playing for the heck of it. What the heck is that noise? We had a heck of a time at the amusement park
 hectic. Her schedule is always hectic during the exam season. We had a hectic weekend, attending three weddings in two days
 hedge. The company used options to hedge against rising oil prices. The investor hedged her bets by buying stocks in different sectors
 heed, no heed. Many countries are starting to heed the need for renewable energy. We should all heed the call to fight climate change. Tom paid no heed to her warning. She paid no heed to our warnings
@@ -1023,7 +1020,6 @@ helping hand. She gave me a helping hand with my homework. His friend extended a
 henceforth. The doctor told me that I must henceforth follow a strict diet. The company announced that henceforth, all employees would be required to wear safety goggles
 herculean. We have a herculean task of meeting the goal in next one week. Building a sandcastle proved to be a herculean feat for the tiny toddler. Learning a new language takes herculean dedication
 here is the deal. Here is the deal: I'll distract Mom while you grab the cookies. Here's the deal: I'll help you study for the test if you help me clean the apartment
-here is the kicker. And here’s the real kicker if you buy one you get the second one free. I went to the store yesterday, here's the kicker, I saw Mr Dirks, my math teacher. We saved for months to book the trip; The kicker? The airline went bankrupt the day before our flight
 here is why. I think she deserves the promotion; Here is why: she has led three successful projects this year. He refused the offer; Here is why: it didn’t align with his long-term goals
 here we go. Here we go! Time for the roller coaster ride. Here we go, attempting this new recipe for the first time
 hesitate, don't hesitate, hesitation, hesitant. Don't hesitate to ask for help if you need it. The high price caused a moment of hesitation, but she bought it anyway. She seemed hesitant to answer the question
@@ -1074,7 +1070,6 @@ i am one hundred percent confident. I am one hundred percent confident that we w
 i bet, I bet you. I bet it’s going to rain later today. I bet he won't agree. I bet you she won't come. I bet you he forgot about the meeting
 i can’t wrap my mind around. I still can’t wrap my head around how quantum computers work. I can’t wrap my head around the fact that my little brother is getting married next week. I can’t wrap my head around how big the universe is
 i cannot digest the fact that. I cannot digest the fact that my best friend betrayed me. I cannot digest the fact that my dog died
-i didn't quite follow. Sorry, I didn't quite follow what you said about the project deadline. Can you please repeat that?.  I'm sorry, I didn't quite follow your instructions. Can you please explain them again?
 i fail to understand, i fail to see. I fail to understand what actuated you to give up such a promising post. I fail to understand how this proposal benefits the company. I fail to understand why he lied to me. I fail to see why anybody would marry a man like that
 i guarantee, I can guarantee, I can 100 % guarantee. I guarantee you'll love this movie—it's amazing!. I can guarantee the movie won't disappoint. If you send the application form right away, I can guarantee you an interview. I can 100% guarantee this recipe will become your new favorite. Follow these steps, and I can 100% guarantee you'll fix the flat tire
 i have to admit, I must admit. I have to admit, I was wrong about you. I have to admit, I'm a little bit scared. I must admit, the idea of marriage scares me. Much of the book was very dull; That said, I must admit that the ending was extremely clever
@@ -1186,7 +1181,6 @@ interestingly, more interestingly. The researchers were surprised to find that t
 interfere, interference, don't interfere. I don’t want to interfere in their personal matters. Don’t interfere in my decisions—I know what I’m doing. Parental interference sometimes causes stress for children.
 interim. The interim report will be available next week for review. The board has approved an interim budget for the next quarter
 intermittent. The rain was intermittent, stopping and starting. He experienced intermittent pain in his knee
-internalize. Children often internalize their parents' beliefs. It's important to avoid internalizing negative comments. After the close call, he finally internalized the importance of safety
 interpret, interpretation, misintrepet. Different cultures interpret traditions in various ways. Children often interpret the world differently than adults. There are many different interpretations of this famous painting. His interpretation of the music was rather too literal. She misinterpreted his silence as anger, but he was just tired. Don’t misinterpret my advice; I only want to help
 intervene, intervention. The government may intervene to prevent the company from going bankrupt. The teacher intervened to break up the argument. His intervention helped resolve the conflict. We need an immediate intervention to fix the issue
 intimate. They had an intimate relationship. The couple had an intimate conversation by the fireplace. I’ll intimate you once I get more details. I will intimate you as soon as the decision is made
@@ -1279,8 +1273,8 @@ late to the party. I know I'm late to the party, but I've finally started watchi
 laundry list. We also came up with a laundry list of key issues that had always been there but never put on the table. He presented a laundry list of features for the new phone. The interview was a laundry list of the usual questions
 lay out, lay down. Let's lay out a plan for tackling this project. The teacher laid out the rules clearly. They laid out a plan for the project. The rules for the competition were laid down by the organizers. The engineer laid down the plans for the new building
 leading causes. The leading causes of budget overruns are unexpected costs and misestimated expenses. The leading causes of reduced productivity in the office are interruptions and unclear goals
-lean. December will be a lean period for us. The company's lean budget forced them to make some tough decisions
 lean on, leaning towards. The company was forced to lean on its employees to work overtime to meet the deadline. I'm so glad I have my friends to lean on during this tough time. Despite his technical background, he has a leaning towards management roles
+lean. December will be a lean period for us. The company's lean budget forced them to make some tough decisions
 leap, big leap, gaint leap. Don't be afraid to take a leap and try something new. It was a big leap to switch careers at her age. Sales figures took a giant leap this quarter. He took a leap of faith and quit his job
 learnt their lesson the hard way. NASA was rushing things due to their deadlines and tight budget, but they learned their lesson the hard way. Rushing his project, he learned the hard way about the importance of time management
 leave no stone unturned. He said he will leave no stone unturned to prove her innocence. The doctor said he will leave no stone unturned to find a cure for his illness
@@ -1333,6 +1327,7 @@ loads of. She got loads of presents. I've got loads of things to do today
 lofty. He had set himself the lofty goal of reaching the world's top five. Elon announced the lofty goal of building a colony on Mars
 long road ahead, long journey ahead. While there is some movement on the political front there is still a long road ahead. There's a long road ahead for climate change solutions. There’s still a long journey ahead in achieving true equality. The team knows they have a long journey ahead to win the championship
 long shot. It's a long shot, but I'm going to try to get tickets to the sold-out concert. The company's new product was a long shot, but it turned out to be a huge success
+long story short, to cut a long story short. Long story short, I went on a trip to Europe, and it was amazing. To cut a long story short, I got the job. I lost my dog, but to cut a long story short, I found him
 longest pole in the tent. Funding is the longest pole in the tent for our new project. Manufacturing time is the longest pole in the tent for delivery. Getting government approval is the longest pole in the tent for this deal
 long-standing. Traffic congestion is a long-standing issue in the city. They have a long-standing friendship that began in childhood. Poverty remains a long-standing problem in many regions
 look forward to, looking forward to. We look forward to your lecture with eager anticipation. I look forward to seeing you at the party!. I am looking forward to your reply. I am looking forward to our meeting tomorrow
@@ -1716,8 +1711,8 @@ pillar to post. Nobody is in charge there; They send you from pillar to post. Yo
 pillars of. Education is one of the pillars of a strong society. Hard work and dedication are the pillars of success. The pillars of the company's success are its employees, its customers, and its products
 piloting. The company is piloting a new recycling program in select cities. They are piloting a new program to teach coding to elementary school students
 pin down. I can't pin down the exact cause of the strange noise. It’s hard to pin down the exact cause of the problem. We need to pin down the meeting date before sending invites. We finally pinned down a date for our wedding
-pinch. The rising costs are starting to pinch small businesses. We’re feeling the pinch from increased raw material prices. It pinches when someone takes credit for your work. With two kids in college, they're definitely starting to feel the pinch financially. The recent gas hike will make everyone feel the pinch at the pump. With rising prices, many families are feeling the pinch
 pinch of salt, grain of salt. You must take some of Mayer's remarks with a pinch of salt. You must take some of Mayer's remarks with a grain of salt
+pinch. The rising costs are starting to pinch small businesses. We’re feeling the pinch from increased raw material prices. It pinches when someone takes credit for your work. With two kids in college, they're definitely starting to feel the pinch financially. The recent gas hike will make everyone feel the pinch at the pump. With rising prices, many families are feeling the pinch
 pinnacle. She is at the pinnacle of her profession. The athlete's career reached its pinnacle when she won the gold medal
 pinpoint. The doctor was able to pinpoint the source of the pain. The teacher was able to pinpoint the areas where the student needed help
 pioneer. She was a pioneer in the development of new cancer treatments. They were pioneers in the field of American medicine. The company is known for its pioneering technology. The company pioneered solar technology in India. Steve Jobs pioneered smartphone innovation
@@ -1873,7 +1868,6 @@ rave, raved. The play received rave reviews from the critics. She raved about he
 ray of hope. This new medicine is a ray of hope for thousands of people. The doctor's positive diagnosis was a ray of hope for the worried family
 reach new heights. The company's innovative marketing campaign helped them reach new heights in customer satisfaction. The new technology promised to reach new heights of efficiency
 read between the lines, no need to read between the lines. She said 'yes' and smiled; No need to read between the lines, she's genuinely happy. Reading between the lines, I'd say he isn't happy with the situation
-real quick. 
 real treat. He has been a real treat to watch. After weeks of work, a relaxing massage was a real treat
 realistic, unrealistic. We need to set realistic goals for the next quarter. The financial projections should be realistic and achievable. It is unrealistic to expect everyone to agree on everythin. His plan to save all his money in one month was unrealistic. Climbing Mount Everest in a week is an unrealistic goal
 reality. The reality is that success takes years of hard work. The reality of the matter is that we don’t have enough resources to continue the project. The plan looked perfect on paper, but the ground reality was very different. Many believe the exam is easy, but in reality it’s very tough. Losing the match was a reality check for the team after their winning streak
@@ -1913,8 +1907,8 @@ regulate, regulation. Doctors help regulate blood pressure through medication. T
 rehearse. The actors will rehearse the play tomorrow. She rehearsed her speech in front of the mirror
 reimagine. We need to reimagine the way we approach education. We should reimagine our daily routines to be more efficient. We need to reimagine the way we work
 reinforce, reinforcement. Strong sales figures reinforce the effectiveness of our current strategy. This evidence reinforces my view that he is a spy. The positive customer feedback reinforced our commitment to quality service. Positive customer feedback acted as reinforcement for the team's efforts
-reinvent. The company plans to reinvent its product line to stay competitive. We need to reinvent our training programs to keep up with industry changes
 reinvent the wheel. The first bit of advice is don't reinvent the wheel. Don't reinvent the wheel with your workout routine – there are plenty of proven fitness programs available
+reinvent. The company plans to reinvent its product line to stay competitive. We need to reinvent our training programs to keep up with industry changes
 reiterate. Just to reiterate, the meeting starts at 10 am. The teacher reiterated the importance of finishing homework on time
 rejoice. We can rejoice that the exam is finally over. They were rejoicing after the team won. The town rejoiced at the news of the missing hiker's safe return
 rejuvenate. A weekend getaway helped her to rejuvenate. Sunshine and exercise can rejuvenate your mood. The spa treatment rejuvenated me. Spending time with loved ones rejuvenated her spirit
@@ -1984,8 +1978,8 @@ robust. The company's new software is robust and can handle a large volume of da
 rock solid. The support for the party was rock solid. We need a rock-solid business plan before investing in this new venture
 rock the boat. They warned him not to rock the boat during negotiations. I don’t want to rock the boat by questioning their decision. Please don’t rock the boat during the meeting—we need a calm discussion. Everyone was happy with the plan until he rocked the boat with his objections
 rock the world. Her voice will rock the world one day. That invention could rock the world of technology. His speech rocked the world of politics
-roll out. The company will roll out the new product next week. The school will roll out a new curriculum in September
 roll out the red carpet. The governor rolled out the red carpet for his dinner guests. We'll roll out the red carpet for the senator
+roll out. The company will roll out the new product next week. The school will roll out a new curriculum in September
 roller coaster. The divorce was an emotional roller coaster for both. Her grades were on a roller coaster this semester, with highs and lows. Our sales numbers this year have been a roller coaster ride. The startup's journey has been nothing short of a roller coaster ride
 room for, no room for. Their work has been fairly good; Having said that, I still think there's a lot of room for improvement. There is still a lot of room for improvement. There is no room left for negotiation. There's no room for error in this project
 root cause. 
@@ -2292,7 +2286,6 @@ talk of the town. Their engagement is the talk of the town. The new restaurant t
 talk the talk, walk the talk. Many leaders can talk the talk about innovation, but what really matters is implementing these ideas effectively. Don’t just talk the talk about customer service; show it by resolving complaints quickly. Politicians must walk the talk if they want people’s trust. The company promotes sustainability and walks the talk by using renewable energy
 talk through that. Can you talk through that idea for the new project?. Let’s talk through that problem to find a solution
 talking point. The candidate's tax plan was a major talking point during the campaign. The Supreme Court's decision on abortion became a national talking point
-tall claims. He claimed to be a millionaire, but his lifestyle didn't support such a tall claim. Don't believe everything you read online; there are many tall claims out there
 tangible, intangible. The tangible benefits of the new policy are yet to be seen. The company's brand identity is an intangible asset built over years
 tap, untapped. Ola wants to tap into the overseas market. Businesses are always looking to tap into new markets. The company tapped new markets to increase its revenue. There is huge untapped potential in the rural markets. The company is exploring untapped opportunities in renewable energy
 tasted success. After years of hard work, the company finally tasted success. Despite the critics, the movie tasted success at the box office
@@ -2309,12 +2302,10 @@ testament. High customer satisfaction is a testament to the quality of their ser
 testimonial. The company website displays customer testimonials about their services. Her success story is a testimonial to hard work and perseverance. The principal gave the student a testimonial for his excellent academic record
 testimony. These results are a testimony to the coach's skill and hard work. The pyramids are testimony to the Ancient Egyptians' engineering skills
 thankfully. Thankfully, no one was injured in the accident. Thankfully, the rain stopped before the event began. The meeting ended on time, thankfully
-thanks for checking. Everything's under control, but thanks for checking. Doctor's appointment went well, thanks for checking!.
 thanks to. The garden is blooming beautifully, thanks to the recent rain. We had a wonderful picnic, thanks to the lovely weather+C38
 that leads to. Saving regularly is a habit that leads to a secure retirement. Neglecting your car’s maintenance can cause issues that lead to expensive repairs
 that said. I love hiking; That said, I prefer to stay indoors on rainy days. She’s usually very punctual; That said, she was late today
 that’s right, you are right. She is the winner of the contest; that's right. The train leaves at noon, that’s right. You are right; We do part of the quality testing here. You're right, the library closes at 5pm
-that's it. That's it; I've finally figured it out!. That's it! I'm done with this
 that's news to me. The concert has been canceled. Well, that's news to me. They're closing the bakery? That's news to me!
 that's only half the story. The company announced record profits, but that's only half the story behind the layoffs. He claims he aced the test, but that's only half the story, as he cheated
 that's the nature of. That's the nature of competition. That's the nature of life
@@ -2343,7 +2334,7 @@ the writing on the wall is clear. The writing on the wall is clear: if we don't 
 there is a good chance. There is a good chance that we will win the game. There is a good chance that she will get the job
 there is another side. We've identified a potential solution, but there is another side to consider: the impact on our existing customers. This approach seems efficient, but there is another side to it: the potential for quality issues down the line
 there is no doubt, without a doubt. There is no doubt that the COVID-19 pandemic has had a significant impact on the world. There is no doubt that climate change is a serious threat to the planet. There is no doubt that she is the best player on the team. Without a doubt, she's the strongest candidate we've interviewed for the post. She is without a doubt the best tennis player I know
-there us no reason why. There is no reason why we can't be friends. There is no reason why you can't be happy. There is no reason why you can't achieve your dreams
+there is no reason why. There is no reason why we can't be friends. There is no reason why you can't be happy. There is no reason why you can't achieve your dreams
 there you go. There you go. Could you pass the salt? Sure, there you go
 they proved me wrong, prove them wrong. I thought they would never be able to finish the project on time, but they proved me wrong. I was skeptical about their chances of success, but they proved me wrong. People doubted her skills, but she proved them wrong with her brilliant presentation. She was determined to prove them wrong by topping the class
 thin line between. There is a thin line between love and hate. There is a thin line between success and failure. There is a thin line between right and wrong
@@ -2374,7 +2365,6 @@ to add insult to injury. I was already getting late for work stuck in the traffi
 to be honest. To be honest, I forgot about the meeting. To be quite honest, I didn't really like the movie. To be quite honest, I think you're wrong
 to be on the safe side. I brought extra snacks for the trip, just to be on the safe side. Let’s leave 30 minutes early to be on the safe side
 to begin with, to start with. To begin with, I don't like his attitude. To begin with, she is too young for that kind of job. I didn’t like the city to start with, but now I enjoy living here
-to cut a long story short, long story short. To cut a long story short, I got the job. Long story short, I went on a trip to Europe, and it was amazing. I lost my dog, but to cut a long story short, I found him
 to drive home the point, to drive home the importance. The teacher used a variety of examples to drive home the point that math is all around us. The speaker used a powerful image to drive home the point that we need to take action on climate change. The coach held a meeting with the team just before the match, to drive home the importance of team spirit. The teacher drove home the importance of studying for the test
 to get across the message, message i try to get across, get our point across. The message I try to get across to people is that it's important to be kind to one another. I'm always trying to get across the message that it's okay to be different. We tried to get our point across, but he just wouldn't listen
 to give you an idea. To give you an idea of the scale of the project, we're expecting to hire over 100 people. To give you an idea of the timeline, we're hoping to have the project completed within six months
@@ -2383,7 +2373,6 @@ to name a few. The most popular programming languages include Python, Java, C++,
 to rub salt in the wound. The fire destroyed my home, and to rub salt in the wound, the insurance company denied my claim. The company laid off hundreds of employees, and to rub salt in the wound, they gave them all a severance package that was less than a month's salary.
 to sum it up. To sum it up, the meeting was a success. To sum it up, the book is must-read
 to the best of my knowledge. To the best of his knowledge, no one had called all morning. She never mentioned quitting, to the best of my knowledge. I answered their questions to the best of my knowledge
-toiling. Despite toiling for hours, she didn't finish the report. Farmers have been toiling in the fields since dawn
 told you dozen times. I've told you a dozen times, the library closes at six o'clock on Saturdays. Despite being told a dozen times, he still forgot his lunch
 tolerate, tolerant, tolerance. I cannot tolerate such rudeness. The plant is able to tolerate harsh weather conditions. Some people are more tolerant than others. She showed great tolerance towards his mistakes
 ton of, tons of. We all have made a ton of mistakes. We did a ton of research before we decided to buy a new car. Despite the brutal midday heat, he had tons of energy. There are tons of opportunities in cloud technology now a days. Her friends showered her with a ton of advice on planning her wedding
@@ -2590,6 +2579,7 @@ zzgeneral. Awesome, thanks. Awesome, thank you
 zzgeneral. Back to you Ajay. That’s all from my side. Back to you Anil
 zzgeneral. Best wishes to the next phase
 zzgeneral. Do you want to go next
+zzgeneral. Everything's under control, but thanks for checking. Doctor's appointment went well, thanks for checking!.
 zzgeneral. Happy to take questions. I am happy to take questions. Any questions? I am happy to answer
 zzgeneral. Have a good day. Have a great day. Have a wonderful day
 zzgeneral. Have a good rest of the week
@@ -2614,6 +2604,7 @@ zzgeneral. Let me take a pause here and see if you have any questions
 zzgeneral. Please call me when you get a chance
 zzgeneral. Possibalities are endless
 zzgeneral. Sorry to interrupt, but there's someone to see you. I'm sorry to interrupt, but there's a telephone call for you
+zzgeneral. Sorry, I didn't quite follow what you said about the project deadline; Can you please repeat that?.  I'm sorry, I didn't quite follow your instructions; Can you please explain them again?
 zzgeneral. Thank you everybody
 zzgeneral. Thank you for giving this time. It's been a pleasure
 zzgeneral. Thank you for your patience. I'll get back to you once I have some more information. We appreciate your patience and support on this
@@ -2626,6 +2617,7 @@ zzgeneral. That would be fantastic
 zzgeneral. That's all from my side; if you have any question please shoot
 zzgeneral. That's awesome; Congratulations
 zzgeneral. That's correct
+zzgeneral. That's it; I've finally figured it out!. That's it! I'm done with this
 zzgeneral. The deal is very close to being done
 zzgeneral. Three things are needed money, money, money
 zzgeneral. Two steps down, turn left. With me so far?. We'll cover more complex topics later, but are you with me so far?
