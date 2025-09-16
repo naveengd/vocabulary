@@ -1,6 +1,6 @@
 a 1. a 1 start
 a mountain of, a truckload of. I have a mountain of paperwork to finish before Friday. There’s a mountain of unpaid bills on the table. A mountain of problems. She came back from vacation with a truckload of work waiting for her. The library received a truckload of donated books for their summer sale
-a step closer to, one step closer to. We’re a step closer to launching the new product. The team's winning streak brought them one step closer to the championship. Finishing this course brings me one step closer to my dream job. Their new product launch takes them one step closer to becoming market leaders
+a step closer to, one step closer to, one step ahead. We’re a step closer to launching the new product. The team's winning streak brought them one step closer to the championship. Finishing this course brings me one step closer to my dream job. Their new product launch takes them one step closer to becoming market leaders. She always tried to stay one step ahead of the competition. To survive in the market, the company needed to be one step ahead in innovation
 abandon. We cannot abandon our friends in need. He had to abandon his plans due to illness. The dog was found abandoned in the park
 above all. Max is hardworking, cheerful, and above all honest. Our goods compete in terms of product reliability, variety and above all quality
 abrupt, abruptly. The car came to an abrupt halt. The movie had an abrupt ending. The conversation ended abruptly when the phone rang
@@ -1578,7 +1578,6 @@ one part of the equation, crucial part of the equation, into the equation, out o
 one piece of the puzzle, final piece of the puzzle, important piece of the puzzle, missing piece of the puzzle . Money can buy some happiness, but it’s just one piece of the puzzle. Learning vocabulary is only one piece of the puzzle in mastering a new language. Researchers are close to finding a solution, but they haven't found the final piece of the puzzle. The first piece of the puzzle is geocoding your data. The restaurant is trying to attract more customers, and the new menu is an important piece of the puzzle. The last piece of the growth puzzle is infrastructure investment. The only missing piece of this puzzle is the price
 one piece second piece, one piece the other piece. One piece of advice: always wear sunscreen. The second piece: don't forget to hydrate. One piece of evidence pointed towards guilt, the other piece remained a mystery. We've identified the problem, but that's only one piece; The other piece is finding a solution
 one size fits all, no one size fits all. There is no one size fits all approach to managing your money. A one size fits all approach will not help them or tackle the obesity epidemic
-one step ahead. She always tried to stay one step ahead of the competition. To survive in the market, the company needed to be one step ahead in innovation
 one-way street, two-way street. Love shouldn't be a one-way street. Respect is a two-way street. Trust is a two-way street
 only so much i can. There is only so much we can do to prevent natural disasters, but we can do our best to prepare for them. I know you're upset, but there is only so much I can do to help you. You need to take some time to yourself and work through this
 only the beginning, just the beginning. This is only the beginning of our adventure. Winning this award is just the beginning of bigger things. This is a small taste of what's to come; it's just the beginning. This project is just the beginning of our expansion plans. The fun is just the beginning—wait until the concert starts!
@@ -1691,7 +1690,7 @@ pertinent. He asked me a lot of very pertinent questions. The expert made some p
 pestering. The telemarketer's constant calls were pestering me. The little boy pestered his parents for a new bike. The salesman pestered me to buy a new car
 pet project, side project. Gardening has become her latest pet project. Learning to play the guitar is my current side project
 phenomenal. The rocket travels at phenomenal speed. The product has been a phenomenal success
-phenomenon.  The band's overnight success was a true musical phenomenon. The internet has become an undeniable global phenomenon. Social media has become a global phenomenon
+phenomenon. The band's overnight success was a true musical phenomenon. The internet has become an undeniable global phenomenon. Social media has become a global phenomenon
 philosophy. His philosophy on life is to stay positive. We adhere to a philosophy of transparency in all our financial dealings. My philosophy is to always treat others with respect. My philosophy in life is to keep learning and growing
 pick up this thread, pick up the thread. Let's pick up this thread after lunch. I’ll pick up this thread when I return from vacation. After the coffee break, let's pick up the thread of our discussion
 picking up steam. The project is slowly picking up steam. Sales have lost steam in recent weeks
@@ -2548,7 +2547,6 @@ you won't believe. You won't believe what I just heard!. You won’t believe how
 you won't regret. Try the new restaurant; you won't regret it. Buy this book; you won't regret reading it. Invest in this course; you won’t regret your decision
 zero in on. Let’s zero in on the root cause of the problem. The scientists are zeroing in on the cause of the disease. The teacher zeroed in on the student who was disrupting the class
 zoom out. Can you zoom out a bit so I can see the whole picture?. Let's zoom out a bit and look at the bigger picture
-zzgeneral. If the US sneezes, the global economy catches a cold. If the US sneezes, the world catches a cold
 zzgeneral. All good
 zzgeneral. All the best. Best wishes
 zzgeneral. Any closing thoughts?. Any final thoughts?. Any closing comments?
@@ -2574,6 +2572,7 @@ zzgeneral. I will extend the meeting invite
 zzgeneral. I will skim through this. I will cruise through this. I will zoom through this. Let me blitz through this
 zzgeneral. I wish you well
 zzgeneral. I’ve said it before, and I’m saying it again
+zzgeneral. If the US sneezes, the global economy catches a cold. If the US sneezes, the world catches a cold
 zzgeneral. I'm so happy for you!. I heard you got a promotion at work. That's amazing!.
 zzgeneral. In search of gold we lost diamond
 zzgeneral. Just out of interest, how much did it cost?
