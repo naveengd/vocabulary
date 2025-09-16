@@ -9,7 +9,7 @@ absolute joy. He's constantly smiling and is an absolute joy to be around. Seein
 absolutely. Can we leave a little early? Absolutely. They could have told us, couldn't they? Absolutely. You are absolutely right
 abstract. I found the concept too abstract to understand. Her thoughts were often abstract and philosophical
 absurd. It’s absurd to wear a winter coat in the middle of summer. The manager's idea of finishing the entire project in one day was completely absurd. The rule that students can't use pencils during exams sounds absurd
-abundant, abundance. There was abundant evidence to support the theory. There was an abundant supply of fresh fruit. There is an abundance of information available online
+abundant, abundance, scarce, scarcity. There was abundant evidence to support the theory. There was an abundant supply of fresh fruit. There is an abundance of information available online. Water is scarce in desert regions. Skilled talent in artificial intelligence is scarce, driving up salaries. The drought caused a scarcity of fresh water in the region
 abuse. If you abuse your body now, you'll pay the price when you're older. Agile is one of the most abused words
 accelerate. The company is looking for ways to accelerate product development. The city's population growth has accelerated in recent years
 accentuate. She uses make-up to accentuate her beautiful eyes. Use visuals and data to accentuate key points in your presentation. Her bright red lipstick accentuated her smile
@@ -164,14 +164,13 @@ barrier, barriers. Lack of confidence is a psychological barrier to success. The
 baseline. You'll need such information to use as a baseline for measuring progress. The figures for 1999 were used as a baseline for the study
 bashing. The critics were relentless in their bashing of the new movie. Online trolls keep bashing celebrities for their personal choices. In frustration, he bashed his fist against the table
 bat for. We can bat for our friend who is being unfairly treated at work. I'll bat for the environment and try to convince others to care about it. During the negotiations, he was batting for the employees.
-battery of. The doctor ordered a battery of tests. The athlete faced a battery of questions from reporters. The student took a whole battery of standardized tests to apply for college. He faced a whole battery of questions from the media
 be prepared, be prepared for anything, be prepared to be surprised. You be prepared for anything. You be prepared to be surprised
 beacon of. In a world of negativity, her optimism was a beacon of light, inspiring those around her. The internet has become a beacon of information, connecting people and ideas across the globe. The peace treaty was a beacon of hope for the war-torn region
 bear in mind, keep in mind, keep this in mind. Bear in mind that these figures are only estimates. Keep in mind that the deadline for submitting your application is next week. Keep this in mind: customer satisfaction should always be our top priority
 bear the brunt. Schools will bear the brunt of cuts in government spending.  It's the little people who bear the brunt of taxation. Young people are bearing the brunt of unemployment
 bear, bearable, unbearable. She could no longer bear the pain and broke down in tears. I was bearing my weight on one foot. With a little help, the workload became bearable. The pain in his leg became unbearable, so he went to the hospital
 beat around the bush, don’t beat around the bush. Don’t beat around the bush; Come to the point. I wish you would stop beating around the bush and just tell me what you want
-beating a dead horse. There's no point in arguing about it anymore; You're just beating a dead horse. He keeps trying to get it published but I think he's beating a dead horse. We’ve already made a decision; there’s no need to beat a dead horse
+beating a dead horse. There’s no point in bringing up that failed project again—you’re just beating a dead horse. We’ve already decided not to invest in that plan. Discussing it further would be beating a dead horse. She keeps complaining about the same policy, but at this point, it feels like beating a dead horse
 bedrock. Honesty is the bedrock of any healthy relationship. Science is the bedrock of modern technology. Mutual trust is the bedrock of a relationship
 been ages. It's been ages since we met. Wow, it’s been ages since we spoke. I haven't been to the gym in ages
 before i go any further. I need to make sure you both understand that before I go any further
@@ -188,7 +187,7 @@ best bet, safe bet. Your best bet would be to take a bus to the airport. I think
 best of both worlds. Working at home lets me have the best of both worlds: a good income and time with Family. He chose a part-time job, getting the best of both worlds: income and free time. Tablets are known for their portability and can offer the best of both worlds: a smartphone and a laptop
 best piece of advice. It is one of the best pieces of advice I have ever got. This could be the best piece of advice for anyone: "Never stop learning and growing."
 betray, betrayal. Revealing the surprise would betray the party spirit. He betrayed his best friend by revealing his secret to everyone. John's secret deal with their competitor felt like a betrayal. 
-better late than never. Better late than never. It took him years to apologize, but better late than never
+better late than never. Better late than never. It took him years to apologize, but better late than never. She started exercising at 50 years old. Better late than never!
 better off. He'd be better off working for a bigger company. Obviously we're better off now that we're both working
 better placed. They may be better placed financially than many tenants. With more funding, the research team is better placed to make a breakthrough
 betterment. She enrolled in a course for the betterment of her skills. Exercising regularly leads to the betterment of your health
@@ -200,7 +199,6 @@ bias, unbiased. The news anchor was accused of bias in her reporting of the elec
 big believer, firm believer. I am a big believer in a healthy diet. I am a firm believer in regular exercise
 big deal, no big deal, not a huge deal. Getting that job is a big deal for him. Don’t worry about being late—it’s no big deal. I made a small mistake, but it’s not a huge deal
 big dent, make a dent. Buying a new car puts a big dent in our savings. The volunteers worked hard to make a dent in the backlog of paperwork. After hours of studying, I barely made a dent in the textbook
-big driver, main driver, big drivers, main drivers. Tourism is a big driver of the local economy. Innovation and marketing are big drivers of company growth. The main driver of inflation is rising fuel prices. The main drivers of climate change are fossil fuels and deforestation
 big fan, not a big fan. She's a big fan of spicy food, the hotter the better. I am not a big fan of emotional movies
 big picture, look at the big picture, see the big picture. We need to focus on the big picture, not just minor problems. Instead of worrying about small mistakes, try to look at the big picture. When you plan your career, try to see the big picture rather than only today’s job
 big plus. Having flexible working hours is a big plus for employees. His experience in marketing is a big plus for this project
@@ -630,7 +628,7 @@ draw the line, draw a line in the sand. You have to know what's what and when to
 draw your own conclusion. I'm just giving you the facts, so you can draw your own conclusion. I'll leave you to draw your own conclusions
 drawback. Living near the city is convenient, but noise pollution is a drawback. Working from home is flexible, but social isolation can be a drawback
 drill down. Let’s drill down into the report to find the mistake. The analysts drilled down into the data to find the root cause of the problem. The manager drilled down into the employee's performance reviews to see where they could improve
-driver of, drivers of. Climate change is a major driver of migration in some countries. Technology and innovation are drivers of economic growth. Passion and discipline are the main drivers of his success
+driver of, big driver of, main driver of, big drivers of, main drivers of. Customer satisfaction is a key driver of repeat sales. Tourism is a big driver of employment in the region. The main driver of inflation is rising fuel prices. Consumer demand and global trade are big drivers of market expansion. The main drivers of company growth are new product launches and international expansion. Passion and discipline are the main drivers of his success
 driver's seat, back seat. The CEO is in the driver's seat when it comes to making decisions about the company's future. The individual is in the driver's seat when it comes to taking control of their own life. I am happy to take a back seat and give someone else the opportunity to manage the project. I have taken a back seat on this project for now
 drives. Effective leadership drives team performance. Curiosity drives innovation
 driving factor. Fuel economy is not a driving factor for most consumers right now. With technology no longer a driving factor, price is the primary consideration
@@ -1997,7 +1995,6 @@ saturated, saturation. The market is saturated with smartphones, making it hard 
 savior. The firefighter was a savior to the people trapped in the building. The teacher was a savior to the students struggling with the subject. The new software update was a savior for the troubled system
 savvy. Savvy investors know how to buy low and sell high. A savvy social media manager knows how to engage their audience. Be tech-savvy, these days basic computer skills are essential
 scapegoat. He has been made a scapegoat for the company's failures. The intern became the scapegoat for the marketing team's failed campaign
-scarce, scarcity. Water is scarce in desert regions. Skilled talent in artificial intelligence is scarce, driving up salaries. The drought caused a scarcity of fresh water in the region
 scores on, scored points. The new movie really scores on action. The new marketing campaign really scored with the target audience. The student scored points with the teacher by volunteering to help out in class. The salesperson scored points with the customer by offering a free gift with purchase
 scout. A team of four was sent to scout for a nuclear test site. I'm scouting around for a cheap second-hand car
 scratching the surface, scratch beneath the surface. This essay is so short that it can only scratch the surface of the topic. The field of robotics is still in its early stages, and we are just scratching the surface of what is possible. This article only scratches the surface of the complex issue of climate change. If you scratch beneath the surface, you'll find she's really a very nice person
@@ -2035,7 +2032,7 @@ shape, reshape. The experiences we live through shape the way we think of the wo
 shaping up, taking shape, all in shape. Plans for our picnic are shaping up very well. How are your plans for the weekend shaping up? The weather is shaping up to be a beautiful day. Our vacation plans are finally taking shape!. The solution to the problem is slowly taking shape. The company's finances were all in shape, but they were still facing some challenges. With a final polish, the presentation was all in shape for the meeting
 shattered. The news left him shattered and speechless. The company's reputation was shattered after the scandal
 shed light, shed some light, throw some light. Recent research has shed light on the causes of cancer. The new evidence could shed light on the cause of the crime. As an economist, he was able to shed some light on the problem. Can you shed some light on what happened last night?
-sheer. The sheer complexity of the problem made it difficult to solve. The sheer amount of information available online. It was sheer luck that I found my wallet after I thought I had lost it. The delays are due to the sheer volume of traffic. It gives you the experience of sheer joy and fulfillment
+sheer. He succeeded through sheer determination. The sheer amount of information available online. It was sheer luck that I found my wallet after I thought I had lost it. The delays are due to the sheer volume of traffic. It gives you the experience of sheer joy and fulfillment
 shell out. Advertisers to shell out a lot of money for this targeting. The company is not willing to shell out the money for a new marketing campaign
 shelve. I have had to shelve my plans to buy a new car, because I can't afford it now. We should shelve this project for now, it needs more planning. We shelved the plan for a road trip due to bad weather. The teacher shelved the planned activity due to time constraints
 shield. The parents were a shield for their children during the storm. The glass shielded the room from the noise outside
