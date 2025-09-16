@@ -13,7 +13,6 @@ abundant, abundance. There was abundant evidence to support the theory. There wa
 abuse. If you abuse your body now, you'll pay the price when you're older. Agile is one of the most abused words
 accelerate. The company is looking for ways to accelerate product development. The city's population growth has accelerated in recent years
 accentuate. She uses make-up to accentuate her beautiful eyes. Use visuals and data to accentuate key points in your presentation. Her bright red lipstick accentuated her smile
-acclaim. She deserves acclaim for all her charitable works. The director's new film received widespread acclaim. The acclaimed author won the Nobel Prize. His latest movie has been critically acclaimed
 accolades. The CEO received accolades for business success. The chef's innovative dishes earned her many accolades
 accommodate, accommodative. Our team can accommodate your specific project requirements. The airline was surprisingly accommodative when I needed to change my flight at the last minute
 accomplish, accomplishment. I was able to accomplish everything on my to-do list today. The team accomplished its goal of finishing the project early. Graduating college was a huge accomplishment for Sarah. Finishing the marathon was a personal accomplishment for her
@@ -26,7 +25,6 @@ acid test, litmus test. He had an easy tournament so far, but the next match wou
 acquire. She wants to acquire a new skill this year. They acquired the rights to the book
 across the board. Customer satisfaction with the service is high across the board. Test scores improved across the board after the new teaching method. The company announced a 10% salary increase across the board
 across the spectrum, one end of the spectrum and other end of the spectrum, higher spectrum, lower spectrum, a spectrum of. The disease affects people across the spectrum of ages. At one end of the spectrum, you have luxury hotels; at the other, cheap hostels. Luxury brands cater to customers in the higher spectrum of income levels. Public housing is designed for people in the lower spectrum of income. There is a spectrum of opinions on the new law
-actionable. His advice was practical and actionable. The report provided actionable steps for improving sales. 
 acumen. The CEO is known for her sharp business acumen. The doctor's diagnostic acumen saved the patient's life. He has great financial acumen and always makes profitable investments
 adamant. Despite the rain, the child was adamant about going outside. The teacher was adamant that students complete their homework
 add fuel to the fire. The President said he wouldn't add fuel to the fire by commenting without knowing all the facts. He is adding fuel to the fire. Instead of calming the argument, Ravi added fuel to the fire by insulting his friend
@@ -389,7 +387,6 @@ compliment. She gave me a lovely compliment on my presentation. That was such a 
 comply, compliant, compliance. To ensure safety, all participants must comply with the laboratory protocols. The software update will not install unless you comply with the terms and conditions. This medication is not yet compliant with FDA regulations. She earned a bonus for her consistent compliance. The new data security measures require a high level of compliance from all employees
 component, essential component, important component, critical component. Trust is an essential component in any relationship. Protein is an essential component of a healthy diet. The engine is the most important component of a car. The engine is a critical component of the car. Trust is a critical component in a strong relationship
 compounded. Short term pressures have compounded the problem. His financial problems were compounded when he unexpectedly lost his job
-comprehend. It was impossible to comprehend the full scale of the disaster. I simply couldn't comprehend what had happened
 comprehensive. Two very clear and comprehensive handbooks are available. The government has announced a comprehensive plan to address the climate crisis. The company conducted a comprehensive review of its security policies
 comprises, comprising. The committee comprises ten members. The book comprises 12 chapters.The class is comprising students from different backgrounds. The book is comprising ten chapters
 compromise. They agreed to compromise on the budget cuts to move forward. I’m willing to compromise if it helps the project succeed
@@ -407,7 +404,6 @@ connect the dots. All the information is there in the article — you just need 
 connotation. The word ‘discipline’ has unhappy connotations of punishment and repression. The word can have a different connotation in different contexts. In recent years multimedia has taken on a negative connotation in the computer industry
 conquer. Let's conquer this problem together. She finally conquered her fear of heights
 conscious. I try to be conscious of time so that I can get everything done during the day. He made a conscious decision to back away. She made a conscious call to start eating healthier
-consensus. It is difficult to reach a consensus about electoral reform. Despite some dissent, a consensus emerged to raise taxes
 consent. He did not give his consent for the use of his name in the advertisement. The party can't happen without parental consent
 consequences, consequently. The country is facing the consequences of its economic mismanagement. Long-term usage of the drug can have negative consequences on your health. The slightest error can have serious consequences. My car broke down and consequently I was late. She failed her exams and was consequently unable to start her studies at college
 conservative. The conservative estimate put the cost of the project at $10 million. The doctor made a conservative estimate of the patient's recovery time
@@ -421,8 +417,6 @@ constitute. Ten people constitute a full team in this game. A good breakfast con
 constraint. Lack of sleep was a major constraint on her performance. The project was delayed due to budget constraints. The recipe had some dietary constraints in mind. Time constraints forced the speaker to cut the presentation short
 construct. The song is a complex construct of melody and rhythm. Many social norms are cultural constructs
 constructive. I appreciate your constructive feedback on my writing. Let's brainstorm some constructive ways to improve efficiency. The after-game discussion was positive and constructive
-contemplate. I'd like some time to just sit and contemplate. I'm contemplating leaving my job. He contemplated the meaning of the poem for a long time
-contend. The lawyer contended that his client was innocent. Many scientists contend that climate change is the greatest challenge of our time
 content, contention, discontent. She felt content with her results. She felt content with her simple lifestyle. The main point of contention was the budget for the project. Their differing vacation plans caused some friendly contention. Rising prices caused widespread discontent among the public. The workers were discontent with their wages
 context, contextualized. In the context of the current recession, job security is becoming very important. Knowing the historical context helped her understand the poem better. I had no context for it. Let me set the context before you judge my actions. Set the context for your presentation by briefly explaining the company's goals. The teacher contextualized the math problem with real-world examples. The news report contextualized the inflation rate by comparing it to past decades
 contrary, contrarian. Experts predicted the economy would collapse, but to the contrary, it continues to do extremely well. There was a contrary opinion of course. Contrary to popular belief, these animals are not dangerous to humans. The analyst presented a contrary view on the company’s future growth. The politician took a contrarian stance and opposed the bill supported by most of the members of his party. He has been a contrarian investor for many years
@@ -496,7 +490,6 @@ cusp of. The new technology is on the cusp of revolutionizing the industry. The 
 cut corners, don't cut corners. Don't try to cut corners when you're decorating. The company was forced to cut corners in order to save money
 cut the crap. Just cut the crap and tell me what really happened
 cuts across. The new law cuts across regulations from several departments. The love of music cuts across all ages
-cynical. She’s cynical about politicians, assuming they all make promises they won’t keep. Employees grew cynical after repeated promises of bonuses never materialized. Some investors are cynical about the company’s sudden shift to sustainability, suspecting it’s just marketing
 dampen. Nothing could dampen her enthusiasm. The rain dampens our plans for a picnic. The rain is dampening our picnic plans. The fire alarm momentarily dampened the lively party atmosphere
 daunting. The daunting task of climbing Mount Everest loomed before us. The daunting task of raising a child is one that should not be taken lightly. They were faced with the daunting task of restoring the house
 day in day out. I used to drink coffee day in, day out. The constant deadlines made the job stressful, day in and day out
@@ -1683,7 +1676,6 @@ percolated. Rumors percolated throughout the town. The news percolated through t
 perennial. Poverty remains a perennial problem in many parts of the world. The debate over that policy is a perennial topic at every meeting
 perfect example. This meal is a perfect example of Italian cuisine. Her dress is a perfect example of modern fashion
 perhaps. Perhaps I will go to the movies tonight. Perhaps she'll change her mind if we give her some time. I'm not sure if I'll go to the party, perhaps I'll just stay home
-peril, perils. We must be aware of the perils of climate change. Ignoring fire safety warnings puts your home in peril. The team weighed the risks and perils before embarking on the mission
 period. You must complete at least one EY badge period. I’m not lending him any more money, period
 periodically. I check my email periodically throughout the day. She waters the plants periodically to keep them healthy
 perks of. Perks of renting are less upfront investment, flexibility to move. The free gym membership is one of the perks of working here. One of the perks of working here is free lunch every day
@@ -1756,7 +1748,6 @@ pouring in. After the product launch, orders started pouring in. Donations are p
 powerhouse. Germany is an economic powerhouse. The University of Oxford is a powerhouse of academic research
 practical purposes. For practical purposes, we'll focus on the main features. For all practical purposes, the small difference in price doesn't matter. The meeting was, for all practical purposes, a waste of time. The new software is, for all practical purposes, the same as the old software
 practical, practically, impractical. We need a practical plan that actually works. That idea sounds nice but isn’t very practical. Practically speaking, we can't afford that right now. It's impractical to expect everyone to agree. Implementing this solution is impractical due to the high costs involved
-pragmatic, pragmatically. The company made a pragmatic decision to focus on its core products and discontinue its line of accessories. The students were pragmatic in their approach to the project and focused on the most important tasks. He pragmatically assessed the situation before making a decision. Pragmatically speaking, a smaller car is more fuel-efficient for city driving
 praise. She received praise from her boss for finishing the project early. The child's drawing deserved praise for its creativity. The teacher praised the students for their excellent work. The coach praised the team for their victory
 preach. My grandma always preaches the value of hard work. The doctor preached the benefits of a healthy diet
 precaution. The bank requires two forms of identification as a precaution against fraud. They applied sunscreen as a precaution against sunburn. Always take necessary precautions while handling electrical equipment. The town took precautions to prepare for the approaching storm
@@ -1767,13 +1758,11 @@ precious. Time is precious, so don't waste it scrolling mindlessly. Water is a p
 precise, precisely, precision. To be precise, the meeting starts at 3:15 pm, not 3 pm. Nobody knows precisely how many people are still living in the camp. That is precisely what I meant. The archer hit the bullseye with impressive precision. The pianist played the complex piece with remarkable precision
 preconceived notion. I went into the interview with no preconceived notions about the company. She had a preconceived notion that all lawyers were greedy
 predetermined. We followed a predetermined route to avoid traffic. The itinerary for the trip was predetermined. The quiz questions were predetermined by the teacher
-predicated. The success of the project was predicated on the availability of funding. The company's strategy was predicated on the belief that there would be a strong demand for its products
 predict, predictable, unpredictable, prediction, predictor. Weather forecasters predict rain for tomorrow. The stock market is difficult to predict. The weather forecast predicts heavy rain tomorrow. The ending of the movie was quite predictable. The stock market can be extremely unpredictable. The prediction is that the weather will be sunny tomorrow. Consistency is the number one predictor of success. The weather app is a good predictor of rain. High school grades are often a predictor of college success
 predominant, predominantly. Spanish is the predominant language spoken in this region. She is predominantly a dancer, but she also sings. The forest is predominantly populated by pine trees
 preempt, pre-emptive. The speaker tried to preempt any questions by answering them in advance. He sent the email to preempt any confusion. The company preempted a bad review by addressing the customer's concerns. I preempted her question by answering before she asked. The Treasury has decided to raise interest rates as a pre-emptive measure against inflation. The bank raised interest rates pre-emptively to combat inflation
 prefer, preference. Most students prefer online classes over offline ones. I’d prefer not to answer that question. Do you prefer working in the morning or at night?. I have a preference for tea over coffee. Please list your job location preferences
 premature. The meeting came to a premature end. Judgment would be premature but the indicators are positive
-premier. This resort is a premier destination for luxury vacations. The university is a premier institution for scientific research. We received excellent service at the premier hotel
 premise. The basic premise of the argument is that all people are created equal. The argument is based on the premise that all humans are rational. The judge granted the divorce on the premise that the husband had committed adultery
 premises. We weren't allowed to bring outside food onto the school premises. Smoking is strictly prohibited on the library premises
 prerequisite. A passion for teaching is not a prerequisite, but it certainly helps. Strong communication skills are a prerequisite for most leadership positions
