@@ -255,7 +255,6 @@ brag. Their new house was definitely something to brag about. She is always brag
 brainchild of. The iPhone was the brainchild of Steve Jobs. The school's robotics team is the brainchild of a passionate teacher
 brainstorm. Let’s brainstorm ways to reduce costs. Brainstorming can generate some wonderful ideas. After an hour of brainstorming, they decided on the perfect wedding theme
 brave. Quitting his secure job to start his own business was a brave step. The CEO's brave leadership guided the company through the crisis. She made a brave decision to leave her secure job and start her own company
-bravo. Bravo! You did a great job on your presentation. Bravo, that was a brilliant solution to a tough problem
 bread and butter. Casual clothing has always been the company's bread and butter. The mobile phone business was actually his bread and butter
 breadth and depth. The insurance market is expanding in both breadth and depth. No other consulting firm can match our breadth and depth of insurance knowledge
 break the barrier. They're expecting profits to break the $5 million barrier. The talks were meant to break down barriers between the two groups. The athlete broke the barrier of pain and won the gold medal. She broke the barrier of shyness and spoke in front of a large crowd
@@ -921,8 +920,6 @@ good problem to have, great problem to have. We have too many clients requesting
 good starting point. This list isn’t exhaustive, but it’s a good starting point for parents who wish to raise successful children. These proposals represent a good starting point for negotiation
 good to go. I've got my shoes and I'm good to go
 good to great, bad to worse. The CEO's leadership helped the company make the leap from good to great. The team's performance went from good to great after they implemented a new training program. His financial situation went from bad to worse after he lost his job. The traffic situation went from bad to worse during the rush hour
-good to know. Good to know this recipe is vegetarian; I can offer it to everyone. Good to know the deadline has been extended - I need more time. That's good to know!
-gosh. Gosh, that was a close call. Gosh, I forgot my keys again
 got carried away, not to get carried away, should not be carried away. I shouldn't have behaved like that; I just got carried away. The manager warned his young players not to get carried away by the emotion of the occasion. We should not be carried away by our success
 got me thinking, got us thinking. The book got me thinking about the meaning of life. The conversation got me thinking about the future of our planet. That speech got us thinking about what truly matters in life. His question really got us thinking about the future of our company
 got sucked into. I got sucked into the argument because I was a friend of the family
@@ -1221,7 +1218,7 @@ jump-start. Government hopes the tax cut will jump-start the economy. Their new 
 juncture. At this juncture, it is difficult to say whether the patient will make a full recovery. We are confident at this juncture that everything will work out. The negotiations between the two countries reached a critical juncture
 junked. His proposals were junked before they were even considered. After a bad haircut, she junked her plans for a date night
 just a random thought. Just a random thought, could it be beneficial to offer a discount to first-time customers?. Just a random thought, what if we looked into different software options for project management?
-just a small part of, only a small part. Learning this new skill is just a small part of your journey to becoming a master. The politics of taxation is only a small part of a much bigger picture
+just a small part of, only a small part of. Learning this new skill is just a small part of your journey to becoming a master. The politics of taxation is only a small part of a much bigger picture
 just a tip of the iceberg. Everything you know about the author's life is just the tip of the iceberg. These stories were only the tip of the iceberg
 just out of curiosity. Just out of curiosity, why did you take that job?. I just wanted to know, out of curiosity, why you did that?
 just to build on that. Just to build on that point, historical data suggests this trend might continue
@@ -1268,7 +1265,7 @@ lean on, leaning towards. The company was forced to lean on its employees to wor
 leap, big leap, gaint leap. Don't be afraid to take a leap and try something new. It was a big leap to switch careers at her age. Sales figures took a giant leap this quarter. He took a leap of faith and quit his job
 learnt their lesson the hard way. NASA was rushing things due to their deadlines and tight budget, but they learned their lesson the hard way. Rushing his project, he learned the hard way about the importance of time management
 leave no stone unturned. He said he will leave no stone unturned to prove her innocence. The doctor said he will leave no stone unturned to find a cure for his illness
-leeway. The government does not have much leeway in foreign policy. The boss gave his employees some leeway on their start times, so they could come in and leave work as needed. The tight deadline gave them little leeway for unexpected delays
+leeway. We don’t have much leeway in the project deadline—it must be finished by Friday. Budget constraints mean there’s little leeway for unexpected expenses. The contract allows the builder some leeway in deciding the exact materials to be used
 left behind. He felt left behind when all his friends got promotions. Technology is moving so fast that many elderly people feel left behind
 legacy. The company is known for its strong legacy of innovation. She wants to leave a positive legacy for her children. The film director’s legacy is celebrated with annual awards
 legend, legendary. She is a living legend in the world of science. The legendary musician performed a concert last night. The legendary movie won several awards
@@ -1490,7 +1487,6 @@ non-negotiable. Quality is non negotiable. Wearing a helmet is non-negotiable wh
 norm. Wearing a uniform is the norm at this school. Working from home has become the new norm
 north of, northward, go south, southward. With gas prices going north of $5 a gallon, many are looking for fuel-efficient cars. The rental demand would continue to head northward in 2025. The presentation started well, but things went south when the projector died. Losing their key player was a huge blow, and things went south for the team. Interest rates are heading southward. Sales figures are heading southward this quarter
 nosedived. Bitcoin nosedived last year. Sensex nosedived during COVID
-nostalgic, nostalgia. Her dusty yearbook evoked a flood of nostalgic school memories. He looks back to the 60s with nostalgia. I get nostalgic when I watch old home movies of my family. The smell of freshly baked cookies always makes me feel nostalgic for my childhood
 not a bad idea, not a good idea. Sleeping early, if it suits you, is not a bad idea. Exhausted? Taking a nap before the meeting is not a bad idea at all. Skipping breakfast before an exam is not a good idea. Wearing white to a water park is probably not a good idea
 not a luxury it is a necessity, no longer luxury it’s a necessity. In today’s world, having internet access is not a luxury, it is a necessity. For people living in hot climates, air conditioning is not a luxury, it is a necessity. Education is no longer a luxury, it is a necessity in today's globalized economy. Access to the internet is no longer a luxury, it is a necessity
 not easy as it sounds, not as easy as it may sound. Learning a new language is not as easy as it sounds. Running your own business is not as easy as it sounds. The recipe looks simple, but it’s not as easy as it may sound. Negotiating a deal is not as easy as it may sound
@@ -2541,6 +2537,7 @@ you won't believe. You won't believe what I just heard!. You won’t believe how
 you won't regret. Try the new restaurant; you won't regret it. Buy this book; you won't regret reading it. Invest in this course; you won’t regret your decision
 zero in on. Let’s zero in on the root cause of the problem. The scientists are zeroing in on the cause of the disease. The teacher zeroed in on the student who was disrupting the class
 zoom out. Can you zoom out a bit so I can see the whole picture?. Let's zoom out a bit and look at the bigger picture
+zzgeneral. Good to know this recipe is vegetarian; I can offer it to everyone. Good to know the deadline has been extended - I need more time. That's good to know!
 zzgeneral. All good
 zzgeneral. All the best. Best wishes
 zzgeneral. Any closing thoughts?. Any final thoughts?. Any closing comments?
